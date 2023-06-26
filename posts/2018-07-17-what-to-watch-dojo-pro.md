@@ -1,0 +1,22 @@
+---
+title: "What To Watch:Dojo Pro"
+date: "2018-07-17"
+categories: 
+  - "what-to-watch"
+tags: 
+  - "amazon"
+  - "dojo-pro"
+  - "streaming"
+---
+
+The pro-wrestling landscape has undergone a pretty seismic shift in the past couple of years. It used to be a struggle to access indie shows outside of shoddy iPPV services or waiting for your favorite company to eventually release a show on DVD. There have been a handful of online services that allowed for some form of streaming content – I think [Ring of Honor](https://www.rohwrestling.com/) and [Chikara](http://chikarapro.com/) are two who were on this bandwagon somewhat early on, but those experiences never felt super clean to me. With the advent of the [WWE Network](http://network.wwe.com/), though, I think a lot of indies and foreign companies saw an opportunity to do the same thing on a smaller scale.
+
+Like I mentioned in my post [How I Learned to Love Pro-Wrestling Again](https://www.gansobomb.com/2018/07/11/how-i-learned-to-love-pro-wrestling-again/), there are a ton of different streaming services for either specific companies or for bundles of curated content. Not only that, but Twitch live-streaming has really taken off in the past year. There's really no excuse to not find an indie or foreign company to follow if you can't find what you need in the mainstream American market. Still, though, there are new shows on new services cropping up all of the time.
+
+Recently, [Amazon Prime](https://www.amazon.com/amazonprime) launched [Dojo Pro](https://www.dojopro.co/). Dojo Pro offers a fairly unique experience to anything else out there right now. They're not trying to be a super-indie or to sell out any massive venue. Instead, they're offering an intimate experience for the audience in attendance as well as something different and easily digestible for the audience at home. Dojo Pro works like this: there is a ladder of twelve up-and-coming indie wrestlers at various stages of their careers as well as a single veteran slot occupied by James Storm. At the onset the roster includes names like Jeff Cobb, Shane Strickland, and Joey Janela who have been making waves of their own in the US and beyond for the past couple of years.Dojo Pro offers two championships - the Dojo Pro White Belt and the Dojo Pro Black Belt. The #12-ranked wrestler faces off with the #11-ranked wrestler in the first episode with the winner becoming the first-ever Dojo Pro White Belt. From there we simply move up the ladder. #11 wrestles #10 and the winner of that faces #9 the following week, and so on and so forth. At the end, the #1 seed Jeff Cobb will face the Dojo Pro White Belt and the winner will become the Dojo Pro Black Belt and receive a shot at the Ring of Honor Television Title.
+
+Each episode consists of just a single match with some occasional shenanigans before or after the match. Not only is the format of the show something different, the presentation offers a different taste of pro-wrestling as well. The crowd in attendance is quite small and looks to be about a couple of dozen people if that. The crowd is standing-room only with the audience up close and personal to the ring and the wrestlers.
+
+The shows kick off with a recap of the previous episode leading into personality profiles for this week's competitors. The latter part of this is something that is missing if you're just catching a random indie stream on Twitch or purchasing one-off shows from a service like [Powerbomb.tv](https://powerbomb.tv/). Sure, you can see great matches with names you may not have heard of before but you don't get much of an opportunity to actually learn about who these wrestlers or people are. For me, most of the names on the Dojo Pro ladder are familiar but names like Kevin Ku, Kerry Awful, and Gunner Miller are all new to me. I enjoyed watching Ku, though Awful comes off as a bit of a Mankind tribute gimmick down to the mask, voice, and the character traits portrayed. It left a bit of a sour taste in my mouth leading into the first match.
+
+That being said, I'm now three episodes into the series and enjoying it so far. It's something easy that you can put on if you just want to watch something quickly without having to spend a ton of time to get invested or navigate through an entire card. So far I think each episode has been under or around twenty minutes which is perfect if you're looking to kill time and don't want to play the "What's in my Netflix queue?" game anymore.
