@@ -17,15 +17,12 @@ If you’re looking for a quick tour around the block in Osaka to go with your w
 
 Sumire dragged Mayu down the street bouncing her off of benches along the sidewalk while flanked by Hauzki and the official. Sumire left Mayu laying in the middle of the street after running her into a parked bus and then sprinted back into the arena with Hazuki and the referee. Once back inside, the duo locked the entrance to the arena and stacked the hallway with chairs to keep Mayu from beating the 20 count. Unfortunately for Oedo Tai, they didn’t count on Mayu coming in from another entrance. After making it back inside the ring before being counted out, Mayu took control and picked up 2 more points with a stalling Dragon Suplex for the win.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! Natsu Sumire and Mayu Iwatani battle it out in the Blue Stars block of the 5☆STAR Grand Prix 2018! <a href="https://t.co/VxBzYz5L4W">pic.twitter.com/VxBzYz5L4W</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1035380423843504128?ref_src=twsrc%5Etfw">August 31, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1035380423843504128" />
 
 The other match of the night was, predictably, Jungle Kyona and Konami. I could watch these two fight each other all day. The influence of being trained by Asuka/Kana is apparent in Konami but she’s not simply a clone of her trainer; she stands out so much amongst the other fighters in the 5\*GP and has some of the most wicked kicks I’ve seen in a while. This was the first time I realized Konami doesn’t actually wear boots or shoes in the ring. Before the match, Konami promised that her Triangle Lancer would find another victim in Jungle Kyona. Unfortunately for Konami, Jungle would survive her onslaught of strikes and pick up the victory with a spinning sitout powerbomb.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! Konami battles Jungle Kyona in the 5★STAR GP 2018 Red Stars block! Only on Stardom World! <a href="https://t.co/T9m2EVwVK4">pic.twitter.com/T9m2EVwVK4</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1035092676054413312?ref_src=twsrc%5Etfw">August 30, 2018</a></p></blockquote>
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1035092676054413312" />
 
 If I had to pick my top three from my first few weeks of watching STARDOM, Konami and Jungle would be at the top of the list. The third spot is harder to fill because there are so many strong talents on the roster, but Momo, Tam, Mayu, Kagetsu, and even the rookie Utami are all up there. They all bring something different to the table so it really depends on what you’re looking for from match to match.
 
@@ -35,15 +32,11 @@ Taking a break from tournament matches, Hazuki defeated Ruaka and Leo Onozaki in
 
 In a four-way tag team match which was fun, if at times a little sloppy, Momo Watanabe and Utami picked up the victory over Rachael Ellering and Kimber Lee, Hanan and Shiki Shibusawa, and Tam Nakano and Starlight Kid. Hanan took the pin following a Torture Rack into a Samoan Drop of sorts followed by a running Meteora from Momo. The match was non-stop action with bodies flying, coming, and going the whole time. Utami was dubbed an honorary member of Queen’s Quest for the night complete with doing the pose in the ring with Momo, though we’ll see if she decides on a faction or not before the 5\*GP is all said and done.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a> from our evening show in Osaka! it's the 4 Way Tag Battle! Rachael/Kimber vs Hanan/Shiki vs Kid/Tam vs Momo/Utami! <a href="https://t.co/CEytkzbtRI">pic.twitter.com/CEytkzbtRI</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1035047786322964480?ref_src=twsrc%5Etfw">August 30, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1035047786322964480" />
 
 In the main event, Kagetsu defeated Natsuko Tora – but it took longer than 3 minutes. Kagetsu had promised to defeat Natsuko in the same amount of time it takes to prepare Cup Noodles, and if the match went over that self-imposed time limit she would let Natsuko win. Hazuki and Sumire prepared the noodles at ringside with a countdown clock on-screen as the match went on. As the three minutes expired, Natsuko expected to be awarded the match but Kagetsu was relentless in her attack. It looked like Natsuko could finally pick up her first points in the tournament several times during the match, but Kagetsu was dominant and scored the win after a 450 splash.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! Kagetsu takes on Natsuko Tora! It's the 5★STAR GP 2018, only on Stardom World! <a href="https://t.co/TWrnZoBMzB">pic.twitter.com/TWrnZoBMzB</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1035517815011205121?ref_src=twsrc%5Etfw">August 31, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1035517815011205121" />
 
 Post-match, Natsuko demanded to know why she wasn’t awarded the victory after the three minutes had run out and Kagetsu informed her that the rules hadn’t actually been cleared with STARDOM’s President, so they weren’t real rules. Ever the trickster! Kagetsu and Oedo Tai enjoyed their noodles to end the show and celebrate another pair of points for the World of STARDOM Champion.
 
@@ -60,9 +53,7 @@ The next show is today in Yokohama ([see full schedule on Twitter](https://twitt
 - Kimber Lee: 2
 - Natsuko Tora: 0
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Here are the updated Red Stars standings after tonight’s event. Jungle Kyona is in the top spot with 6 points, but only Utami is undefeated. <a href="https://t.co/voOFEvytwS">pic.twitter.com/voOFEvytwS</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1033680599200886784?ref_src=twsrc%5Etfw">August 26, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1033680599200886784" />
 
 ## Blue Stars Block
 
@@ -75,9 +66,7 @@ The next show is today in Yokohama ([see full schedule on Twitter](https://twitt
 - Saki Kashima: 2
 - Natsu Sumire: 2
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Here are the updated Blue Stars standings after tonight’s event. Many with 4 points, but only Hazuki is undefeated so far. <a href="https://t.co/Zbtyx3Qk0S">pic.twitter.com/Zbtyx3Qk0S</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1033679893530210304?ref_src=twsrc%5Etfw">August 26, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1033679893530210304" />
 
 ## Catch up:
 

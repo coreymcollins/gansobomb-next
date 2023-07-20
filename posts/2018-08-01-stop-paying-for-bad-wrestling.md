@@ -85,9 +85,7 @@ As August rolls around Stardom will kick off their annual 5 Star Grand Prix (5\*
 
 The tournament runs from August 18 to September 30 with the dates and times listed here:
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="et" dir="ltr">5★STAR GP2018 tour!<br>●8/18 Shinkiba 6:00 PM<br>●8/19 Shinkiba 6:00 PM<br>●8/26 Osaka 12:00 PM<br>●8/26 Osaka 5:00 PM<br>●9/1 Yokohama 1:00 PM<br>●9/8 Shinkiba 12:00 PM<br>●9/9 Shinkiba 12:00 PM<br>●9/15 Takaoka 1:00 PM<br>●9/16 Osaka 12:00 PM<br>●9/24 Korakuen Hall 12:00 PM<br>●9/30 Nagoya 12:00 PM</p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1022908680042205185?ref_src=twsrc%5Etfw">July 27, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1022908680042205185" />
 
 **Link:** [http://www.stardom-world.com/](http://www.stardom-world.com/)  
 **Cost:** 750 yen/roughly $7 USD  

@@ -37,9 +37,7 @@ A member of Queen’s Quest, Momo Watanabe is the current is the current Wonder 
 
 Previously a member of Queen’s Quest but not aligned with heel group Oedo Tai, HZK has turned a corner attitude-wise to better fit with her new stablemates. She’s a former 4-time Artist of STARDOM Champion though she is yet to have held a title since switching factions. With an updated in-ring style, though, that may not be far off. I mean, just look at how happy she is to facewash her opponents!
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ja" dir="ltr">▪️2018年7月29（日）<br>名古屋ダイヤモンドホール<br>◆3WAYタッグ<br>渡辺桃＆小波 vs 葉月＆夏すみれ vs ステファニー・バッケル＆ダスト</p><p>クイーンズ・クエスト、大江戸隊、外国人勢が三つ巴になったタッグ・バトル。個性あふれる闘いを制したのは！？</p><p>会員登録は <a href="https://t.co/lZc15hAPwd">https://t.co/lZc15hAPwd</a> <a href="https://t.co/1O7wUHMFaJ">pic.twitter.com/1O7wUHMFaJ</a></p><p>— スターダム/STARDOM (@wwr_stardom) <a href="https://twitter.com/wwr_stardom/status/1026323800688717825?ref_src=twsrc%5Etfw">August 6, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1026323800688717825" />
 
 ### [Sumire Natsu](https://twitter.com/SMR_sptmber_luv)
 

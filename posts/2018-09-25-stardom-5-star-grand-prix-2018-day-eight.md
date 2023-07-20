@@ -21,9 +21,7 @@ After sustaining punishment for most of the match, Mayu was finally able to figh
 
 With Hazuki reeling after a crucifix bomb, Mayu was able to hold onto control long enough to pick up the win via Dragon Suplex and rack up 2 more points in the block. This puts Mayu in the lead with 8 points heading into the final with Momo and Hazuki trailing at 7. If you’re, for whatever reason, skipping around matches be sure to check this one out. It may be one of my favorites of the tournament so far.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a> ! It's main event time, it's Hazuki vs Mayu Iwatani!After this match, we're down to the final show of the 5☆STAR Grand Prix 2018! Who will be in control of the Blue Stars block? Find out on Stardom World! <a href="https://t.co/iof8m7lKWK">pic.twitter.com/iof8m7lKWK</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1043583295110303744?ref_src=twsrc%5Etfw">September 22, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1043583295110303744" />
 
 One of the most disappointing matches of the entire tournament for me was Utami and Rachael Ellering. I don’t come to expect much of anything from Ellering as I just can’t get into her work, but Utami has been on fire the entire 5\*GP. Unfortunately, Ellering was able to suck all of the fun out of an Utami match and I found myself drifting away as this match went on. It seemed like Ellering was in control for so much of the match and it was all so slow and plodding. The match wound up running to a time-limit draw netting both women a single point as they head into the finals.
 
@@ -35,9 +33,7 @@ In the last remaining block match of the show, Kimber Lee pinned Tam Nakano to e
 
 Tam, you were wrong. A kick to the head and swanton bomb from Kimber was all she wrote for this one, though there was some good action along the way. Most notably for me was Tam catching Kimber on the ropes earlier in the match and bringing her back to the canvas with Iconoclasm. Always a fan of that move after seeing CIMA use it years and years ago despite it not necessarily always looking like it does the most amount of damage.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! Tam Nakano faces Kimber Lee in the Red Stars block of the 5★STAR GP 2018! <a href="https://t.co/abZRAM2Dra">pic.twitter.com/abZRAM2Dra</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1043035330444587010?ref_src=twsrc%5Etfw">September 21, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1043035330444587010" />
 
 Nicole Savoy and Jamie Hayter continued their teaming ways to put away Starlight Kid and Saki Kashima. This match was a little sloppy at times with Savoy and Hayter showing some real rhythm as a team with quick tags as they handled their opponents. Savoy came through with the tap-out victory on Kid with a Rings of Saturn submission.
 
@@ -45,9 +41,7 @@ Kagetsu took on Shiki Shibusawa and made it known in her pre-match promo that sh
 
 Before the match, Kagetsu feeds Hazuki’s toy dog a potato stick which was nice of her. As the match begins, Kagetsu tells Shiki that she won’t do anything until she eats her last potato stick prompting Shiki to pepper her with a bunch of dropkicks to grab a quick two count. Shiki kept Kagetsu on the ropes for the most part with Kagetsu being caught off guard from the get-go. In the end, though, Kagetsu caught Shiki with a single head kick to put her away. Super fun and short match that told a story. After the match, Kagetsu pulled Shiki up by the hair and shoved her into the corner.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! Shiki Shibusawa takes on Kagetsu in singles action! Only on Stardom World! <a href="https://t.co/UamzNJBjiN">pic.twitter.com/UamzNJBjiN</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1043080585655156736?ref_src=twsrc%5Etfw">September 21, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1043080585655156736" />
 
 JAN and Queen’s Quest went to war in a trios match with Jungle Kyona, Natsuko Tora, and Leo Onozaki taking on Konami, Momo Watanabe, and AZM. AZM started off by demanding the biggest member of JAN start the match, causing Kyona and Natsuko to leave the ring for Leo to kick things off.
 
@@ -59,9 +53,7 @@ QQ wouldn’t let JAN stay in control too long, though, as Momo would begin to d
 
 Again, though, QQ took control as Konami worked Kyona over with kicks, submissions, and suplexes until a failed attempt at the Triangle Lancer led to Kyona tagging Leo in once again. Despite a vicious spear from Natsuko on AZM, Leo couldn’t get the three count. Her fatigue left her open to a triple dropkick from QQ before AZM finally grabbed the win with a double-springboard cross body block.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">It's a 6 woman tag in Osaka as Jungel Assault Nation take on Queen's Quest, on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a> now! <a href="https://t.co/aVhYunVZ8S">pic.twitter.com/aVhYunVZ8S</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1043344018124333056?ref_src=twsrc%5Etfw">September 22, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1043344018124333056" />
 
 Overall, a pretty fun show heading into the Karakuen Hall finals! Fingers crossed I’ll get to see a show there, whether it be STARDOM, NJPW, or DDT when I’m in Japan for Wrestle Kingdom.
 
@@ -78,9 +70,7 @@ With this one in the books, let’s check the standings heaidng into the final s
 - Tam Nakano: 2
 - Natsuko Tora: 2
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">After today’s show in Osaka, here are the current results for the 5☆Star GP 2018 Red Stars block. <a href="https://t.co/FU2bcX1njp">pic.twitter.com/FU2bcX1njp</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1041197028976390147?ref_src=twsrc%5Etfw">September 16, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1041197028976390147" />
 
 ## Blue Stars Block
 
@@ -93,9 +83,7 @@ With this one in the books, let’s check the standings heaidng into the final s
 - Saki Kashima: 4
 - Natsu Sumire: 4
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">After today’s show in Osaka, here are the current results for the 5☆Star GP 2018 Blue Stars block. <a href="https://t.co/O9lxJtCFQC">pic.twitter.com/O9lxJtCFQC</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1041196689388855296?ref_src=twsrc%5Etfw">September 16, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1041196689388855296" />
 
 ## Catch up:
 

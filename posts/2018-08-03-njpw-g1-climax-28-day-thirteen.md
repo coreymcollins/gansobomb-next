@@ -34,9 +34,7 @@ As much as I love Ibushi, I really hope that if anyone puts a dent in Omega’s 
 
 Yujiro comes to the ring with a lady friend who dances in the center of the ring while Liger, on commentary, has heart palpitations. I recently saw this insane tweet in regards to Liger:
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Jushin Thunder Liger wrestled at least one match every month from August 1995 to June 2018. He didn't wrestle at all in July 2018, though, so that streak is over.</p><p>22 years and 11 months of consistency. Or 275 months, whichever seems more impressive. <a href="https://t.co/3rTGmsfdHi">pic.twitter.com/3rTGmsfdHi</a></p><p>— Evan (@EvanDeadlySinsW) <a href="https://twitter.com/EvanDeadlySinsW/status/1024436335250210817?ref_src=twsrc%5Etfw">July 31, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1024436335250210817" />
 
 What a god damn wonderful maniac. Anyway, SANADA and Ibushi are the most handsome members of the A Block and now they must prepare for battle for handsome supremacy. Early on SANADA looks to lock Yujiro in the Paradise Lock but can’t quite get it cinched in. Yujiro tries his hand at putting SANADA in the hold but gets confused at the steps and yells at the referee. I love watching other wrestlers try and use the move against SANADA only to wind up puzzled. On the outside Naito tries to convince Yujiro’s friend to take a cheap shot at Ibushi but she’s just too dang polite to do it. SANADA tags Naito back in with Yujiro for another brief reuniting of No Limit before Yujiro catches Naito with a stun gun and tags Ibushi into the match.
 

@@ -18,9 +18,7 @@ I’m going to run down the show from start to finish rather than calling out an
 
 In the opening battle royal, Hana Kimura came out on top in a field that included Starlight Kid, Shiki Shibusawa, Ruaka, Leo Onozaki, Hanan, and AZM. The battle royal in Japan is a bit different than their US counterparts (at least, as far as this one and the ones I’ve seen in NJPW go) in that you can be eliminated by pinfall or submission as well. This was a fun, wild, and short car wreck of bodies flying around as you would expect. Starlight Kid, who had to be a favorite in the match, was eliminated by Hanan, AZM, and Hana all pinning her at the same time. Hana’s form of “pinning” was placing a foot on the back of Hanan and posing, but she takes full credit for the elimination and I think she’s deserving of that claim. With Hana, AZM, and Hanan as the final three women in the match, Hana hit a stalling vertical suplex on AZM dropping her onto a prone Hanan. She picked up the three count to walk away the winner as she posed with Oedo Tai. It appears that things have been smoothed over with Kagetsu as the group leaves the ring.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>, it's the Battle Royal from yesterday at Korakuen Hall! <a href="https://t.co/rhfhyodfOo">pic.twitter.com/rhfhyodfOo</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1044409533353779201?ref_src=twsrc%5Etfw">September 25, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1044409533353779201" />
 
 Saki Kashima and Jamie Hayter locked up in a match that wasn’t without its problems. Both wrestlers sit at 4 points, so neither is a threat to the top of the block and this one was simply for bragging rights. There was a bit of confusion as Hayter dropped down on top of Saki in a crucifix; the referee counted a one count for Hayter before Saki rolled her onto her shoulders for a two count. Because of the quick counting in succession, the bell rang without the referee calling for it. The bell continued and Hayter was eventually able to pick up a victory in Korakuen with her Falcon Arrow backstabber.
 
@@ -28,15 +26,11 @@ Nicole Savoy earned more points with a submission victory over Kelly Klein in a 
 
 What else can be said about Hazuki and Natsu Sumire that hasn’t been said already? They are both so god damn good at what they do, and what they do individually is so far on the other side of the wrestling spectrum that it could blow your mind a bit that they could have such a fun match together. During the Oedo Tai pre-match dance, Sumire started choking out Hazuki to try and get a jump on things. The gasps from the crowd and the reactions of the other Oedo Tai members in the ring were priceless. Sumire was able to control Hazuki for the first chunk of the match, though Hazuki’s speed and power would see her gain the advantage later on. Hazuki was able to roll through Sumire’s rebound small package to take the victory with her Hazukistral Cradle which, by the way, has a 100% winning percentage. Despite a small post-match tantrum from Sumire, the two reconciled with the group leaving together. A win for Hazuki puts her at 9 points and makes her the leader of Blue Stars Block!
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Oedo Tai vs Oedo Tai?! Hazuki battles Natsu Sumire on the final day of the 5☆STAR Grand Prix 2018 and they go all out! Who wins, who loses? Find out on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! <a href="https://t.co/2SLqYqJZpv">pic.twitter.com/2SLqYqJZpv</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1044780182693797888?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1044780182693797888" />
 
 Of course, things can change in an instant and they did just that as Mayu Iwatani battled Momo Watanabe. Mayu’s left arm came into place again as Momo focused her attack on the previously injured limb. Despite that, and despite some soul-crushing kicks from Momo, Mayu was able to turn things around with attacks on Momo’s right knee. The advantage would be short-lived as Momo would catch Mayu on the top rope and superplex her back into the ring, the two sprawling across the canvas in agony. Mayu found herself in position to lock Momo up for a dragon suplex but as she bridged for the pin the bell rang to end the match in a time-limit draw! Mayu winds up with 9 points and ties Hazuki at the top of the block – however, because Mayu beat Hazuki in their block match she goes on to become the Blue Stars Block winner and moves onto the final round!
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">It's Momo Watanabe vs Mayu Iwatani! The Wonder of Stardom champion vs The Stardom Icon! It's the 5★ STAR GP2018 and it's on <a href="https://t.co/q8dHnFmJUw">https://t.co/q8dHnFmJUw</a> now! <a href="https://t.co/dW9JdE8aIj">pic.twitter.com/dW9JdE8aIj</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1044808021736640514?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1044808021736640514" />
 
 I’ll be honest with you. Rachael Ellering fought Kimber Lee and I can’t lie to you – I barely watched the match. I had it on because it’s a part of the show, but these two are so bland and have been so unimpressive in this tournament that I really couldn’t care less how this one turned out. Had I not already known the match we get in the finals I may have been more intrigued as a win for Ellering would have all but secured her a spot as Red Stars Block winner. Nonetheless, Kimber picks up the win and 2 points.
 
@@ -46,9 +40,7 @@ In another match featuring a potential spoiler, Jungle Kyona faced JAN partner N
 
 In the last of the block matches, Tam Nakano and Kagetsu fight to answer the question of who will face Mayu in the finals. Tam has earned just 2 points throughout the tournament, but a win for Kagetsu would put her at 11 points ahead of Utami at 10 and move her into the final match. These two have history as Tam was a part of Oedo Tai until a QQ/Oedo Tai elimination match at the 7th Anniversary Show in which the person taking the final fall was forced to leave the group. That fate fell upon Tam. Despite the problematic history between the two, the match was straight up and down until the very end – at no fault of either woman. As Kagetsu hit the ropes to deliver a running knee to Tam, Hana Kimura nailed the leader of Oedo Tai in the back with a steel chair. This allowed Tam to pick up the win and keep Kagetsu out of the finals.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Tam Nakano takes on Kagetsu on the final day of the 5☆STAR Grand Prix 2018!, and Hana Kimura takes the opportunity to make a statement! On <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a> now! <a href="https://t.co/eKJ43PPcOm">pic.twitter.com/eKJ43PPcOm</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1045246226185125890?ref_src=twsrc%5Etfw">September 27, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1045246226185125890" />
 
 After the match, Hana lays into both Hauzki and Sumire with the chair before officially declaring her independence from Oedo Tai. Hana claims that STARDOM has made Kagetsu soft before leaving all of the battered corpses in the ring and walking to the back with her steel chair dragging behind her. Once recovered in the ring, Tam pulls Kagetsu to her feet and the pair share a handshake and some meaningful glances before we get a backstage pickup of Kagetsu promising to never forgive Hana for taking away her shot at the 5\*GP finals.
 
@@ -60,9 +52,7 @@ Back in the ring, Utami picks apart the body of Mayu with a focus on the bandage
 
 These two just absolutely batter one another for the length of the match with the advantage turning on a dime. After a top rope hurricanrana from Mayu, she peppers Utami with kicks to the chest and head which Utami barely kicks out of. Utami again narrowly escapes a pinfall after a picture-perfect frog splash from Mayu, but her body is too broken down to roll out of Mayu’s bridging dragon suplex as Iwatani picks up the win in a hard-fought match to become the 2018 5\*GP Champion!
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a> from earlier today at Korakuen Hall! It's the Finals of the 5☆STAR Grand Prix 2018 as Mayu Iwatani faces Utami Hayashishita! <a href="https://t.co/v6glAO415I">pic.twitter.com/v6glAO415I</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1044241201891729410?ref_src=twsrc%5Etfw">September 24, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1044241201891729410" />
 
 This entire tournament was star-making for Utami who shined in the main event despite taking the loss to Mayu. Mayu speaks afterward, trying to balance a comically large crown on her head, and lays out a challenge for next month in Korakuen to the winner of the looming title vs title match between Kagetsu and Momo Watanabe. Before leaving, Mayu introduces Arisa Hoshiki who announces her return to STARDOM after a near 7-year absence. I’m not familiar with Hoshiki, but STARDOM World just added a show from 2011 featuring her in the main event against Yuzuki Aikawa so it looks like I’ve got some homework to do.
 

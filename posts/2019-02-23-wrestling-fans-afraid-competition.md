@@ -44,9 +44,7 @@ Still, I never wanted WCW or the WWF to go out of business. They still offered m
 
 What is it, then, about even the _idea_ of another promotion starting up that sends some fans into a blind rage seeking any opportunity they can to tear down anything challenging the status quo? A number of tweets from a user, shared by [@MeltzerSaidWhat](https://twitter.com/meltzersaidwhat), illustrate the bizarre rage that filled a fan who felt spurned after The Undertaker was announced for Starrcast II:
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">"If it's to celebrate wrestling, why are WWE not involved?"</p><p>The burning questions NOBODY is asking.😄 <a href="https://twitter.com/hashtag/Starrcast?src=hash&amp;ref_src=twsrc%5Etfw">#Starrcast</a> <a href="https://t.co/L6LeemFJBM">pic.twitter.com/L6LeemFJBM</a></p><p>— Meltzer Said What? (@MeltzerSaidWhat) <a href="https://twitter.com/MeltzerSaidWhat/status/1096455060798631936?ref_src=twsrc%5Etfw">February 15, 2019</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1096455060798631936" />
 
 This is ridiculous, but it isn’t unique. I understand if The Bucks, Cody, and Omega aren’t your cup of tea. Plenty of wrestlers don’t do it for me. To be filled with so much resentment, though, to wish for Cody to sign with WWE just to be jobbed out is so mind-boggling and petty to me.
 

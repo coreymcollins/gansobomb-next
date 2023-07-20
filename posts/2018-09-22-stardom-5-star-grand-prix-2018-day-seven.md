@@ -21,17 +21,13 @@ In the second 5\*GP match of the evening, Kagetsu was able to withstand Kimber L
 
 This one started off with Kimber standing strong against repeated shoulder blocks from Kagetsu while screaming like an insane person the entire time. I just don’t buy the intensity from Kimber here, or in general. All too often it feels like she’s openly playing the part of a wrestler when everybody else comes across so much more naturally. Kagetsu was able to utilize her speed, strength, and strikes to neutralize the larger Kimber before putting her away with a 450 splash from the top which looks like it connects way more with her knees than as a splash.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! Red Stars action continues in the 5☆STAR Grand Prix 2018 as Kagetsu takes on Kimber Lee! <a href="https://t.co/TsJQ1aRIRA">pic.twitter.com/TsJQ1aRIRA</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1041979609921675264?ref_src=twsrc%5Etfw">September 18, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1041979609921675264" />
 
 In the show opener, Shik☆d (Shiki Shibusawa and Starlight Kid) took on Jamie Hayter and Nicole Savoy. These are my two standouts as far as the foreigners involved in the tournament go and they have a fun chemistry together in their pre-match promo. Savoy looks like an absolute giant against Shiki and Kid as the faster pair use their teamwork to keep her off-balance and off her gameplan. Savoy is finally able to slow things down by catching Kid in an attempted hurricanrana which she countered into a Boston Crab which escaped via rope break. She followed up with a camel clutch and surfboard to further weaken the back of the smaller Kid.
 
 With Hayter tagged into the match, Shik☆d is able to once again use their double-team tactics to take their larger opponents off of their feet. Shiki can’t get Jamie up for a suplex, however, which opens her up to feeling the brunt of Hayter’s Falcon Arrow for just a two count. As Savoy held Kid at bay outside of the ring, Hayter pulled Shiki back up and nailed her with a Falcon Arrow lung blower to put this away for the team of foreigners. Hayter continues to look impressive in the ring despite only having 4 points in the block out of a potential 6.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a> from this past Saturday in Takaoka! Jamie Hayter &amp; Nicole Savoy face Starlight Kid &amp; Shiki Shibusawa! <a href="https://t.co/YDPGyp7W1Q">pic.twitter.com/YDPGyp7W1Q</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1041566719087525888?ref_src=twsrc%5Etfw">September 17, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1041566719087525888" />
 
 In the first of two trios matches, the JAN team of Jungle Kyona, Leo Onozaki, and Natsuko Tora take on Oedo Tai’s Natsu Sumire and Hazuki with their partner Kelly Klein. Klein runs the pre-match promo with Natsu and Hazuki standing by. Once Klein wraps up, Natsu chimes in with “We understand. I don’t know everything you said, but we know what you mean.”
 
@@ -41,9 +37,7 @@ Leo took a ton of punishment from all three of her opponents until she was able 
 
 This one came to a close in similar fashion to how it started – with Leo feeling the brunt of an Oedo Tai double-team. After a wheelbarrow-assist Code Breaker from Natsu and Hazuki, Leo was driven into the mat with a Michinoku Driver from Hazuki for the three count.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="et" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! Hazuki, Natsu Sumire &amp; Kelly Klein take on Jungle Kyona, Natsuko Tora &amp; Leo Onozaki! <a href="https://t.co/zqmQjoC4UX">pic.twitter.com/zqmQjoC4UX</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1041952785980260353?ref_src=twsrc%5Etfw">September 18, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1041952785980260353" />
 
 In the main event, and in another hard-fought trios match, the Queen’s Quest pairing of Konami, Momo Watanabe, and AZM battled STARS +1 in Mayu Iwatani, Saki Kashima, and Utami Hayshishita. In their pre-match promo, STARS and Utami wished for a birthday victory for the rookie who is just turning twenty years-old.
 
@@ -53,9 +47,7 @@ Saki, back in action after missing a show due to injury, is kept in isolation as
 
 This one stayed pretty back and forth until a missed moonsault put AZM on the mat. STARS took Konami and Momo out of the equation before Mayu dropped AZM with a German suplex followed by a frog splash from the top rope for the three.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! Queen's Quest takes on STARS, with Utami, in her very first main event! Catch it all on Stardom World! <a href="https://t.co/b5cQ75BoNW">pic.twitter.com/b5cQ75BoNW</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1042216423005728768?ref_src=twsrc%5Etfw">September 19, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1042216423005728768" />
 
 Post-match, Mayu lets Utami close down the show in celebration of her birthday. Utami promises that, in her twenties, she’ll try to do her best before leading everybody in the STARDOM S pose.
 
@@ -72,9 +64,7 @@ There are only a few shows left in the 5\*GP, so let’s check in with the stand
 - Kimber Lee: 2
 - Natsuko Tora: 2
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">After today's show in Takaoka, here at the current 5★STAR GP 2018 Red Stars standings. Kagetsu is in the lead with 9 points, followed by Rachael Ellering and Jungle Kyona, who are tied with 8 points. <a href="https://t.co/V4nO2yK5DT">pic.twitter.com/V4nO2yK5DT</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1040966666908127232?ref_src=twsrc%5Etfw">September 15, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1040966666908127232" />
 
 ## Blue Stars Block
 
@@ -87,9 +77,7 @@ There are only a few shows left in the 5\*GP, so let’s check in with the stand
 - Saki Kashima: 4
 - Natsu Sumire: 4
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">After today's show in Takaoka, here at the current 5★STAR GP 2018 Blue Stars standings. There were no Blue Stars matches today. Hazuki and Momo Watanabe remain tied for the lead. <a href="https://t.co/znHc0M3keX">pic.twitter.com/znHc0M3keX</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1040966147011575808?ref_src=twsrc%5Etfw">September 15, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1040966147011575808" />
 
 ## Catch up:
 

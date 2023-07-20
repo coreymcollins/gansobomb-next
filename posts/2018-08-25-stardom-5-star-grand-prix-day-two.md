@@ -16,25 +16,19 @@ Look – I’m probably going to say this a bunch of times since 90% of this ros
 
 Go out of your way to see this one if you don’t see anything else from the show. I have a feeling Konami is going to be in the spotlight quite a bit this tournament with the performances she’s put in so far, and Tam is so believable and likeable that every shriek of pain from her feels real and the result of some unusually cruel action.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! Konami faces Tam Nakano in 5☆STAR Grand Prix 2018 Red Stars action! <a href="https://t.co/kDKCZgFNG4">pic.twitter.com/kDKCZgFNG4</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1032525322627895296?ref_src=twsrc%5Etfw">August 23, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1032525322627895296" />
 
 In other action, Nicole Savoy picked up a win over Natsu Sumire in a match that was fine but felt like it ended oddly. Sumire feigned a leg injury to earn a brief respite outside of the ring before taking control of Savoy near the end of the match. Savoy continued to target the leg of the Oedo Tai member, though, and tapped her out with a submission to secure herself her first two points of the tournament.
 
 Momo Watanabe and Jamie Hayter had another easy favorite for me. After two nights of watching Hayter wrestle I’m 100% sold on her. I’m going to have to check out some more of her work especially if it’s anything like it was in this match with Momo – brutal kicks and strikes mixed with an air of arrogance. Hayter is the clear standout for me amongst the foreign participants in the tournament and makes it easy to see why she is the current Revolution Pro Undisputed British Women’s Wrestling Champion. Unfortunately for Hayter, this was not her night as Momo put her away to the sound of two more points. Momo has 4 points and shares the lead in Blue Stars Block.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">5☆STAR Grand Prix Blue Stars action continues as Momo Watanabe faces Jamie Hayter, on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! <a href="https://t.co/ksW8auG7Bu">pic.twitter.com/ksW8auG7Bu</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1032134838365519873?ref_src=twsrc%5Etfw">August 22, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1032134838365519873" />
 
 Kimber Lee showed a bit more of what I had enjoyed seeing from her previous to her Mae Young Classic/NXT run and put in a solid attempt at defeating Jungle Kyona. Kyona started this one off quickly with a shotgun dropkick to the back of Kimber for early control. Kyona put her away with a wicked spinning, sitout powerbomb to balance herself out after a loss to Rachael Ellering on Day One. I’m looking forward to Kimber Lee’s next tournament match with Utami on September 8 to see if she can continue to impress and leave the bad taste of a WWE run that never allowed her to be showcased properly.
 
 Utami Hayashishita continued the rookie streak by keeping Natsuko Tora from scoring her first points in the block. Utami, again, looked strong here as she held her own with Natsuko the whole way. It looks like Utami is establishing that she’s not a one-dimensional submission machine as she put Natsuko away with a rear naked choke instead of the Torture Rack. Utami will be in six-woman tag team action on the 26th as she teams with Starlight Kid and Shiki Shibusawa to take on Ellering, Kimber Lee, and Kelly Klein.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! Utami Hayashishita takes on Natsuko Tora in 5☆STAR Grand Prix 2018 Red Stars action! <a href="https://t.co/MzUWoG3ATD">pic.twitter.com/MzUWoG3ATD</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1032432789595938816?ref_src=twsrc%5Etfw">August 23, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1032432789595938816" />
 
 Hazuki came out with a win over Kelly Klein in a fine match. Klein doesn’t stand out much to me at all other than having one of the nicer Nothern Lights Suplexes I can remember seeing. Hazuki mentioned before the match that her best bet of surviving Klein was probably to go to a time-limit draw, but she wound up wrapping Klein in a La Magistral cradle for the victory. Hazuki joins Momo at the head of the Blue Stars pack.
 
@@ -44,9 +38,7 @@ In the main event, Kagetsu redeemed herself for her loss against Konami on Day O
 
 Ellering looked to be on the brink of victory with a Dragon Sleeper but Kagetsu made it to the ropes. As Ellering came in for more offense, the World of STARDOM Champion pulled the referee to the mat and spewed the poison blue mist into the eyes of her opponent. One 450 splash later and Kagetsu had two points in her pocket with a pinfall victory.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Now on <a href="https://t.co/q8dHnF58vW">https://t.co/q8dHnF58vW</a>! Kagetsu takes on Rachael Ellering in the main event of Day 2 of the 5☆STAR Grand Prix 2018! <a href="https://t.co/fsVOC4ZDHZ">pic.twitter.com/fsVOC4ZDHZ</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1032967689340239872?ref_src=twsrc%5Etfw">August 24, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1032967689340239872" />
 
 After the match Kagetsu let Utami know that she could practice all she wanted, but she wouldn’t be able to defeat her in their singles match on September 1. Utami continues the roll call of her future opponents by letting Natsuko Tora that she’ll beat her in three minutes – just enough time to prepare a serving of Cup Noodles.
 
@@ -83,9 +75,7 @@ For now, let’s check in with the standings as of Day Two!
 - Kimber Lee: 2
 - Natsuko Tora: 0
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">This weekend, Stardom is at Osaka Sekai-kan (World Pavillion) with a Noon show and a 5 PM show on Sunday! Here are the current 5★STAR GP 2018 Red Stars standings! Both shows will be on Stardom World next week (noon show in its entirety by Wed, evening show by Friday). <a href="https://t.co/uOzuZj4OVc">pic.twitter.com/uOzuZj4OVc</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1033017217485422593?ref_src=twsrc%5Etfw">August 24, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1033017217485422593" />
 
 ## Blue Stars Block
 
@@ -98,9 +88,7 @@ For now, let’s check in with the standings as of Day Two!
 - Mayu Iwatani: 0
 - Natsu Sumire: 0
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">This weekend, Stardom is at Osaka Sekai-kan (World Pavillion) with a Noon show and a 5 PM show on Sunday! Here are the current 5★STAR GP 2018 Blue Stars standings! Both shows will be on Stardom World next week (noon show in its entirety by Wed, evening show by Friday). <a href="https://t.co/NBL5eliWa4">pic.twitter.com/NBL5eliWa4</a></p><p>— We Are Stardom (@we_are_stardom) <a href="https://twitter.com/we_are_stardom/status/1033017175257141249?ref_src=twsrc%5Etfw">August 24, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1033017175257141249" />
 
 ## Catch up:
 

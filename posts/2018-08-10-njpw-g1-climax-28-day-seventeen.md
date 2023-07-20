@@ -48,9 +48,7 @@ Nick tags Omega in as Ibushi looks on with a hand over his heart. The Golden Lov
 
 Elgin is in a six-man tag team match tomorrow which means I’ll have to look at him even less than if he were in a normal tag team match and for that, I praise the G1 Gods. I was too busy taking screencaps of YOSHI-HASHI’s latest post-match interview to really pay attention to this. I feel good about that choice. Sorry, Makabe.
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Alright, maybe I love <a href="https://twitter.com/YOSHIHASHICHAOS?ref_src=twsrc%5Etfw">@YOSHIHASHICHAOS</a> now. <a href="https://twitter.com/hashtag/g1?src=hash&amp;ref_src=twsrc%5Etfw">#g1</a> <a href="https://twitter.com/hashtag/g128?src=hash&amp;ref_src=twsrc%5Etfw">#g128</a> <a href="https://twitter.com/hashtag/g1climax?src=hash&amp;ref_src=twsrc%5Etfw">#g1climax</a> <a href="https://twitter.com/hashtag/njpw?src=hash&amp;ref_src=twsrc%5Etfw">#njpw</a> <a href="https://twitter.com/hashtag/njpwworld?src=hash&amp;ref_src=twsrc%5Etfw">#njpwworld</a> <a href="https://twitter.com/hashtag/yoshihashi?src=hash&amp;ref_src=twsrc%5Etfw">#yoshihashi</a> <a href="https://t.co/vsB11eHDMI">pic.twitter.com/vsB11eHDMI</a></p><p>— Ganso Bomb (@GansoBombDotCom) <a href="https://twitter.com/GansoBombDotCom/status/1028041267165503489?ref_src=twsrc%5Etfw">August 10, 2018</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1028041267165503489" />
 
 The Unchained Gorilla vanquishes the muscle dummy with the King Kong Knee Drop and picks up two more of those all-important points YOSHI is getting excited about.
 

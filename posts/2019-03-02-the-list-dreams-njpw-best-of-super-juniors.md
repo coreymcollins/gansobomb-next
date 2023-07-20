@@ -135,9 +135,7 @@ Hiromu promised everybody that he wouldn’t come back until he was his absolute
 
 His latest update on February 16 revealed that he was at [943% recovery](https://twitter.com/TIMEBOMB1105/status/1096828707719675905). Folks have been crunching the numbers and New Japan’s own Chris Charlton realized that, if Hiromu keeps recovering at the same pace, he’s on track to return the first week of March:
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">IF Hiromu Takahashi is applying some kind of scientific method to his recovery rate, and IF he maintains the same pace of roughly 3percent recovery per day, he’ll reach his 1000 percent goal in the first week of March. 👀, etc.</p><p>— chris charlton (@reasonjp) <a href="https://twitter.com/reasonjp/status/1097386653373497344?ref_src=twsrc%5Etfw">February 18, 2019</a></p></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Tweet tweetId="1097386653373497344" />
 
 This is hugely significant as New Japan’s 47th Anniversary Show is set for March 6 in Tokyo.
 
