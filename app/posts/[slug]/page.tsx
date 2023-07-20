@@ -5,6 +5,7 @@ import getPostsMetadata from '@/components/getPostMetaData';
 import Link from 'next/link';
 import Image from 'next/image';
 import PostDate from '@/components/Date';
+import MarkdownRenderer from '@/components/MarkdownRenderer';
 
 const getPostContent = ( slug: string ) => {
     const folder = 'posts/';
@@ -51,7 +52,9 @@ const postSingle = ( props: any ) => {
                         <PostDate dateString={post.data.date} />
                     </div>
                 </div>
-                <Markdown className="post-single-content">{post.content}</Markdown>
+                <div className="post-single-content">
+                    <MarkdownRenderer content={post.content} />
+                </div>
             </article>
             <footer>
                 <p>Pro wrestling is life.</p>
