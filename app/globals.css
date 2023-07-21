@@ -132,7 +132,7 @@ header a:focus {
 }
 
 footer p {
-  font-size: 2vw;
+  font-size: 8vw;
 }
 
 .post-grid {
@@ -204,6 +204,10 @@ iframe[src*='youtube'] {
     grid-column: span 2 / span 2;
     padding: 1.5rem;
   }
+
+  footer p {
+    font-size: 4vw;
+  }
 }
 
 @media screen and (min-width: 800px) {
@@ -240,6 +244,10 @@ iframe[src*='youtube'] {
 
   .post-single-header h2 {
     font-size: 3rem;
+  }
+
+  footer p {
+    font-size: 2vw;
   }
 }
 
