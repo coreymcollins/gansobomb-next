@@ -39,7 +39,7 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
             siteName: 'Ganso Bomb',
             images: [
                 {
-                    url: post.data.coverImage,
+                    url: `/images/${post.data.coverImage}`,
                     width: 960,
                     height: 640,
                     alt: post.data.title,
@@ -52,7 +52,7 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
             card: 'summary_large_image',
             title: post.data.title,
             description: post.data.excerpt,
-            images: post.data.coverImage,
+            images: `/images/${post.data.coverImage}`,
           },
     }    
 }
