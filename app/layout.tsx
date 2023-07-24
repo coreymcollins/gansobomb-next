@@ -1,12 +1,27 @@
 import Link from 'next/link'
 import './globals.css'
 import { Inter } from 'next/font/google'
+import type { Metadata } from 'next'
 
-const inter = Inter({ subsets: ['latin'] })
+export async function generateMetadata(): Promise<Metadata> {
 
-export const metadata = {
-    title: 'Ganso Bomb',
-    description: 'Pro wrestling is life.',
+    return {
+        title: 'Ganso Bomb',
+        description: 'Pro wrestling is life.',
+        openGraph : {
+            title: 'Ganso Bomb',
+            description: 'Pro wrestling is life.',
+            url: 'https://gansobomb.vercel.app/',
+            siteName: 'Ganso Bomb',
+            type: 'website',
+            locale: 'en_US'
+        },
+        twitter: {
+            card: 'summary',
+            title: 'Ganso Bomb',
+            description: 'Pro wrestling is life.',
+          },
+    }    
 }
 
 export default function RootLayout({
@@ -17,7 +32,7 @@ export default function RootLayout({
 
     return (
         <html lang="en">
-            <body className={inter.className}>
+            <body>
                 {children}
             </body>
         </html>
