@@ -6,6 +6,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import PostDate from '@/components/Date';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
+import type { Metadata } from 'next';
 
 const getPostContent = ( slug: string ) => {
     const folder = 'posts/';
@@ -23,6 +24,38 @@ export const generateStaticParams = async () => {
         slug: post.slug,
     }));
 };
+
+export async function generateMetadata( props: any ): Promise<Metadata> {
+    const slug = props.params.slug;
+    const post = getPostContent( slug );
+
+    return {
+        title: post.data.title,
+        description: post.data.excerpt,
+        openGraph : {
+            title: post.data.title,
+            description: post.data.excerpt,
+            url: `https://gansobomb.vercel.app/${slug}`,
+            siteName: 'Ganso Bomb',
+            images: [
+                {
+                    url: post.data.coverImage,
+                    width: 960,
+                    height: 640,
+                    alt: post.data.title,
+                }
+            ],
+            type: 'website',
+            locale: 'en_US'
+        },
+        twitter: {
+            card: 'summary_large_image',
+            title: post.data.title,
+            description: post.data.excerpt,
+            images: post.data.coverImage,
+          },
+    }    
+}
 
 const postSingle = ( props: any ) => {
 
