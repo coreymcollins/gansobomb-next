@@ -8,6 +8,7 @@ tags:
   - "breakups"
   - "tag-teams"
 coverImage: "junglehook.jpg"
+excerpt: "Is JungleHOOK bound for a breakup, or will the tag team break the mold and stay together for the long haul?"
 ---
 
 Are you ready to have your little heart broken?
