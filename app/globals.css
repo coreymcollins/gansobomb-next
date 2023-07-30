@@ -135,6 +135,10 @@ footer p {
   font-size: 8vw;
 }
 
+.page-interior {
+  padding: 0 1rem;
+}
+
 .post-grid {
   display: grid;
   gap: 2.5rem;
@@ -168,6 +172,18 @@ footer p {
 
 .post-single-content p:not(:last-of-type) {
   margin-bottom: 1.25rem;
+}
+
+.post-single-content .tag-list {
+  margin-top: 2rem;
+}
+
+.post-single-content .tag-list {
+  font-size: 1.15rem;
+}
+
+.post-single-content .tag-list a:not(:last-child) {
+  margin-right: 0.5rem;
 }
 
 .twitter-tweet {
