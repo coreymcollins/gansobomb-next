@@ -18,6 +18,7 @@ const getPostsMetadata = (): PostMetaData[] => {
 			slug: filename.replace( '.md', '' ),
 			coverImage: matterResult.data.coverImage,
 			excerpt: matterResult.data.excerpt,
+			tags: matterResult.data.tags,
 		}
 	});
 
