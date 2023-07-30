@@ -3,7 +3,7 @@ import PageFooter from '@/components/PageFooter';
 import PageHeader from '@/components/PageHeader';
 import PostPreview from '@/components/PostPreview';
 
-export default function TagArchive( props: any ) {
+const TagArchive = ( props: any ) => {
     
     const thesePosts = getAllPostsByTag( props.params.slug );
     
@@ -24,3 +24,5 @@ export default function TagArchive( props: any ) {
         </main>
     );
 };
+
+export default TagArchive;
