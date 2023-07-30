@@ -86,6 +86,7 @@ const postSingle = ( props: any ) => {
                     <MarkdownRenderer content={post.content} />
                     
                     <div className="tag-list">
+                        <h3>Tags</h3>
                         { post.data.tags.map( (tag: any) => (
                             <Link key={tag} href={`/tag/${tag}`}>
                                 {tag}
