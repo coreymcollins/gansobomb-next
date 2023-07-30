@@ -5,7 +5,7 @@ import PostPreview from '@/components/PostPreview';
 
 const TagArchive = ( props: any ) => {
     
-    const thesePosts = getAllPostsByTag( 'aew' );
+    const thesePosts = getAllPostsByTag( props.params.slug );
     
     const postPreviews = thesePosts.map( ( post ) => (
         <PostPreview key={post.slug} {...post} />
