@@ -2,11 +2,12 @@ import fs from 'fs';
 import Markdown from 'markdown-to-jsx';
 import matter from 'gray-matter';
 import getPostsMetadata from '@/components/getPostMetaData';
-import Link from 'next/link';
 import Image from 'next/image';
 import PostDate from '@/components/Date';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
 import type { Metadata } from 'next';
+import PageHeader from '@/components/PageHeader';
+import PageFooter from '@/components/PageFooter';
 
 const getPostContent = ( slug: string ) => {
     const folder = 'posts/';
@@ -64,11 +65,7 @@ const postSingle = ( props: any ) => {
 
     return (
         <main>
-            <header>
-                <Link href="/">
-                    <h1>Ganso Bomb</h1>
-                </Link>
-            </header>
+            <PageHeader />
             <article className="post-single">
                 <div className="post-single-header">
                     {post.data.coverImage &&
@@ -89,9 +86,7 @@ const postSingle = ( props: any ) => {
                     <MarkdownRenderer content={post.content} />
                 </div>
             </article>
-            <footer>
-                <p>Pro wrestling is life.</p>
-            </footer>
+            <PageFooter />
         </main>
     );
 };
