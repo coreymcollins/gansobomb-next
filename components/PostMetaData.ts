@@ -4,4 +4,5 @@ export interface PostMetaData {
     slug: string,
     coverImage: string,
     excerpt: string,
+    tags: string[],
 }
