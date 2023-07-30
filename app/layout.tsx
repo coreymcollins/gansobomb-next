@@ -1,7 +1,6 @@
-import Link from 'next/link'
 import './globals.css'
-import { Inter } from 'next/font/google'
 import type { Metadata } from 'next'
+import { Analytics } from '@vercel/analytics/react'
 
 export async function generateMetadata(): Promise<Metadata> {
 
@@ -34,6 +33,7 @@ export default function RootLayout({
         <html lang="en">
             <body>
                 {children}
+                <Analytics />
             </body>
         </html>
     )
