@@ -1,4 +1,5 @@
 import fs from 'fs';
+import path from 'path';
 import matter from 'gray-matter';
 import getPostsMetadata from '@/components/getPostMetaData';
 import Image from 'next/image';
@@ -10,8 +11,8 @@ import PageFooter from '@/components/PageFooter';
 import Link from 'next/link';
 
 const getPostContent = ( slug: string ) => {
-    const folder = 'posts/';
-    const file = `${folder}${slug}.md`;
+    const folder = path.join(process.cwd(), 'posts');
+    const file = `${folder}/${slug}.md`;
     const content = fs.readFileSync( file, 'utf8' );
     const matterResult = matter( content );
 
