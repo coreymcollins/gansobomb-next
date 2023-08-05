@@ -2,6 +2,15 @@ import { getAllPostsByTag } from '@/components/getAllPostsByTag';
 import PageFooter from '@/components/PageFooter';
 import PageHeader from '@/components/PageHeader';
 import PostPreview from '@/components/PostPreview';
+import type { Metadata } from 'next';
+
+export async function generateMetadata( props: any ): Promise<Metadata> {
+    const thisTag = props.params.slug
+
+    return {
+        title: `Posts tagged with "${thisTag}" on Ganso Bomb`
+    }    
+}
 
 const TagArchive = ( props: any ) => {
     

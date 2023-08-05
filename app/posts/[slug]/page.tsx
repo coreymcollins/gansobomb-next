@@ -21,7 +21,7 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
     const post = getPostContent( slug );
 
     return {
-        title: post.data.title,
+        title: `${post.data.title} on Ganso Bomb`,
         description: post.data.excerpt,
         openGraph : {
             title: post.data.title,

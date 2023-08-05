@@ -1,10 +1,10 @@
 import React from 'react';
-import path from 'path';
 import getPostsMetadata from '@/components/getPostMetaData';
 import PostPreview from '@/components/PostPreview';
 import PageHeader from '@/components/PageHeader';
 import PageFooter from '@/components/PageFooter';
 import getPostContent from '@/components/getPostContent';
+import type { Metadata } from 'next';
 
 const getPosts = () => {
     return getPostsMetadata();
