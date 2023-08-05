@@ -215,6 +215,39 @@ iframe[src*='youtube'] {
   width: 100%;
 }
 
+.search-form-container {
+  background-color: var(--callout-rgba);
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem;
+}
+
+.search-form {
+  background-color: var(--callout-rgb);
+  border: .25rem solid var(--callout-rgb);
+}
+
+.search-input {
+  background-color: var(--callout-rgb);
+  border: .1rem solid var(--callout-rgb);
+  color: #fff;
+  font-family: 'IBM Plex Sans Condensed Regular';
+  font-size: 1rem;
+  letter-spacing: .0325em;
+  padding: .75rem;
+}
+
+.search-submit {
+  background-color: var(--callout-rgb);
+  border: .1rem solid rgba(255, 255, 255, 0.4);
+  color: #fff;
+  cursor: pointer;
+  font-family: 'IBM Plex Sans Condensed Semi';
+  font-size: 1rem;
+  letter-spacing: .0325em;
+  padding: .75rem;
+}
+
 @media screen and (min-width: 640px) {
   .post-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -275,5 +308,13 @@ iframe[src*='youtube'] {
   .twitter-tweet,
   .twitter-tweet iframe {
     max-width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .search-form {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
   }
 }
