@@ -20,6 +20,14 @@ const SearchQuery = ( props: any ) => {
     return props.searchParams.query.toLowerCase()
 }
 
+export async function generateMetadata( props: any ): Promise<Metadata> {
+    const searchQuery = SearchQuery( props )
+
+    return {
+        title: `Search for: "${searchQuery}" on Ganso Bomb`
+    }    
+}
+
 const mySearchResults = ( props: any ) => {
 
     const searchQuery = SearchQuery( props )
