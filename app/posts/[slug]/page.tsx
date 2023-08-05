@@ -1,6 +1,3 @@
-import fs from 'fs';
-import path from 'path';
-import matter from 'gray-matter';
 import getPostsMetadata from '@/components/getPostMetaData';
 import Image from 'next/image';
 import PostDate from '@/components/Date';
@@ -9,15 +6,7 @@ import type { Metadata } from 'next';
 import PageHeader from '@/components/PageHeader';
 import PageFooter from '@/components/PageFooter';
 import Link from 'next/link';
-
-const getPostContent = ( slug: string ) => {
-    const folder = path.join(process.cwd(), 'posts');
-    const file = `${folder}/${slug}.md`;
-    const content = fs.readFileSync( file, 'utf8' );
-    const matterResult = matter( content );
-
-    return matterResult;
-}
+import getPostContent from '@/components/getPostContent';
 
 export const generateStaticParams = async () => {
     const posts = getPostsMetadata();
