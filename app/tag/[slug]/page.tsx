@@ -6,9 +6,25 @@ import type { Metadata } from 'next';
 
 export async function generateMetadata( props: any ): Promise<Metadata> {
     const thisTag = props.params.slug
+    const metaTitle = `Posts tagged with "${thisTag}" on Ganso Bomb`
+    const metaDescription = `A list of posts tagged with the term "${thisTag}"`
 
     return {
-        title: `Posts tagged with "${thisTag}" on Ganso Bomb`
+        title: metaTitle,
+        description: metaDescription,
+        openGraph : {
+            title: metaTitle,
+            description: metaDescription,
+            url: `https://gansobomb.vercel.app/${decodeURIComponent( thisTag )}`,
+            siteName: 'Ganso Bomb',
+            type: 'website',
+            locale: 'en_US'
+        },
+        twitter: {
+            card: 'summary',
+            title: metaTitle,
+            description: metaDescription,
+        },
     }    
 }
 

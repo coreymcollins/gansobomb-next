@@ -19,18 +19,21 @@ export const generateStaticParams = async () => {
 export async function generateMetadata( props: any ): Promise<Metadata> {
     const slug = props.params.slug;
     const post = getPostContent( slug );
+    const metaTitle = `${post.data.title} on Ganso Bomb`
+    const metaDescription = post.data.excerpt
+    const metaImage = `/images/${post.data.coverImage}`
 
     return {
-        title: `${post.data.title} on Ganso Bomb`,
-        description: post.data.excerpt,
+        title: metaTitle,
+        description: metaDescription,
         openGraph : {
-            title: post.data.title,
-            description: post.data.excerpt,
+            title: metaTitle,
+            description: metaDescription,
             url: `https://gansobomb.vercel.app/${slug}`,
             siteName: 'Ganso Bomb',
             images: [
                 {
-                    url: `/images/${post.data.coverImage}`,
+                    url: metaImage,
                     width: 960,
                     height: 640,
                     alt: post.data.title,
@@ -41,10 +44,10 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
         },
         twitter: {
             card: 'summary_large_image',
-            title: post.data.title,
-            description: post.data.excerpt,
-            images: `/images/${post.data.coverImage}`,
-          },
+            title: metaTitle,
+            description: metaDescription,
+            images: metaImage,
+        },
     }    
 }
 

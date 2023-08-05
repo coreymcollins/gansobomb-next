@@ -22,9 +22,25 @@ const SearchQuery = ( props: any ) => {
 
 export async function generateMetadata( props: any ): Promise<Metadata> {
     const searchQuery = SearchQuery( props )
+    const metaTitle = `Search for: "${searchQuery}" on Ganso Bomb`
+    const metaDescription = `Search results for the query "${searchQuery}"`
 
     return {
-        title: `Search for: "${searchQuery}" on Ganso Bomb`
+        title: metaTitle,
+        description: metaDescription,
+        openGraph : {
+            title: metaTitle,
+            description: metaDescription,
+            url: `https://gansobomb.vercel.app/search/?query=${decodeURIComponent( searchQuery )}`,
+            siteName: 'Ganso Bomb',
+            type: 'website',
+            locale: 'en_US'
+        },
+        twitter: {
+            card: 'summary',
+            title: metaTitle,
+            description: metaDescription,
+        },
     }    
 }
 
