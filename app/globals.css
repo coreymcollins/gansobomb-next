@@ -317,4 +317,8 @@ iframe[src*='youtube'] {
     justify-content: flex-end;
     width: 100%;
   }
+
+  .search-input {
+    width: 100%;
+  }
 }
