@@ -1,6 +1,7 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { Analytics } from '@vercel/analytics/react'
+import SearchForm from '@/components/SearchForm'
 
 export async function generateMetadata(): Promise<Metadata> {
 
@@ -32,6 +33,7 @@ export default function RootLayout({
     return (
         <html lang="en">
             <body>
+                <SearchForm />
                 {children}
                 <Analytics />
             </body>
