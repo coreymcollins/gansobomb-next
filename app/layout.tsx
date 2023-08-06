@@ -5,21 +5,24 @@ import SearchForm from '@/components/SearchForm'
 
 export async function generateMetadata(): Promise<Metadata> {
 
+    const metaTitle = 'Ganso Bomb'
+    const metaDescription = 'Pro wrestling is life.'
+
     return {
-        title: 'Ganso Bomb',
-        description: 'Pro wrestling is life.',
+        title: metaTitle,
+        description: metaDescription,
         openGraph : {
-            title: 'Ganso Bomb',
-            description: 'Pro wrestling is life.',
-            url: 'https://gansobomb.vercel.app/',
-            siteName: 'Ganso Bomb',
+            title: metaTitle,
+            description: metaDescription,
+            url: 'https://www.gansobomb.com/',
+            siteName: metaTitle,
             type: 'website',
             locale: 'en_US'
         },
         twitter: {
             card: 'summary',
-            title: 'Ganso Bomb',
-            description: 'Pro wrestling is life.',
+            title: metaTitle,
+            description: metaDescription,
           },
     }    
 }

@@ -15,7 +15,7 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
         openGraph : {
             title: metaTitle,
             description: metaDescription,
-            url: `https://gansobomb.vercel.app/${decodeURIComponent( thisTag )}`,
+            url: `https://www.gansobomb.com/${decodeURIComponent( thisTag )}`,
             siteName: 'Ganso Bomb',
             type: 'website',
             locale: 'en_US'

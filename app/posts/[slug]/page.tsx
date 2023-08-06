@@ -29,7 +29,7 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
         openGraph : {
             title: metaTitle,
             description: metaDescription,
-            url: `https://gansobomb.vercel.app/${slug}`,
+            url: `https://www.gansobomb.com/${slug}`,
             siteName: 'Ganso Bomb',
             images: [
                 {
