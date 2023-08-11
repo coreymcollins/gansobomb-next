@@ -3,6 +3,7 @@ import { defineConfig, devices } from '@playwright/test';
 export default defineConfig({
   // Look for test files in the "tests" directory, relative to this configuration file.
   testDir: 'e2e',
+  outputDir: 'e2e/playwright-report',
 
   // Run all tests in parallel.
   fullyParallel: true,
@@ -33,4 +34,10 @@ export default defineConfig({
       use: { ...devices['Desktop Chrome'] },
     },
   ],
+  // Run your local dev server before starting the tests.
+  webServer: {
+    command: 'npm run start',
+    url: process.env.PLAYWRIGHT_TEST_BASE_URL || 'http://localhost:3000',
+    reuseExistingServer: !process.env.CI,
+  },
 });
