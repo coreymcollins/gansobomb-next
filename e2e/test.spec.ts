@@ -15,9 +15,6 @@ test.describe( 'New Test', () => {
         // Expect the search input to have placeholder text.
         await expect( page.locator( '.search-input' ) ).toHaveAttribute( 'placeholder', 'Enter Search...' )
     
-        // Expect the homepage landing container to be there.
-        await expect( page.locator( '.home-full-height' ) ).toBeVisible()
-    
         // Expect the homepage landing container h1 to have the expected text.
         await expect( page.locator( 'h1' ) ).toHaveText( 'Pro wrestling is life.' )
     

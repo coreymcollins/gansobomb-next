@@ -1,8 +1,6 @@
 import React from 'react';
 import getPostsMetadata from '@/components/getPostMetaData';
 import PostPreview from '@/components/PostPreview';
-import PageHeader from '@/components/PageHeader';
-import PageFooter from '@/components/PageFooter';
 import getPostContent from '@/components/getPostContent';
 import type { Metadata } from 'next';
 
@@ -68,8 +66,7 @@ const SearchPage = ( props: any ) => {
     const searchQueryHeading = searchQuery ? `Search Results for: ${searchQuery}` : 'Please provide a search query'
     
     return (
-        <main>
-            <PageHeader />
+        <>
             <div className="page-interior">
                 <h2>{searchQueryHeading}</h2>
             </div>
@@ -78,8 +75,7 @@ const SearchPage = ( props: any ) => {
                     <PostPreview key={post.slug} {...post} />
                 ))}
             </div>
-			<PageFooter />
-		</main>            
+		</>            
     );
 };
         

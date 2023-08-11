@@ -1,12 +1,8 @@
-import Link from 'next/link';
+import SearchForm from './SearchForm';
 
 const PageHeader = () => {
     return (
-        <header>
-            <Link href="/">
-                <h1>Ganso Bomb</h1>
-            </Link>
-        </header>
+        <SearchForm />
     )
 }
 

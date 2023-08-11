@@ -9,16 +9,10 @@ export default function Home() {
 	));
 
 	return (
-		<main>
-			<div className="home-full-height">
-				<h1>Pro wrestling is life.</h1>
-			</div>
+		<>
 			<div className="post-grid">
 				{postPreviews}
 			</div>
-			<footer>
-				<p>Ganso Bomb</p>
-			</footer>
-		</main>
+		</>
 	)
 }

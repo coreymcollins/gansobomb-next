@@ -1,7 +1,8 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { Analytics } from '@vercel/analytics/react'
-import SearchForm from '@/components/SearchForm'
+import PageHeader from '@/components/PageHeader'
+import PageFooter from '@/components/PageFooter'
 
 export async function generateMetadata(): Promise<Metadata> {
 
@@ -36,8 +37,11 @@ export default function RootLayout({
     return (
         <html lang="en">
             <body>
-                <SearchForm />
-                {children}
+                <PageHeader />
+                <main>
+                    {children}
+                </main>
+                <PageFooter />
                 <Analytics />
             </body>
         </html>

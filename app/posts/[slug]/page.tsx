@@ -3,8 +3,6 @@ import Image from 'next/image';
 import PostDate from '@/components/Date';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
 import type { Metadata } from 'next';
-import PageHeader from '@/components/PageHeader';
-import PageFooter from '@/components/PageFooter';
 import Link from 'next/link';
 import getPostContent from '@/components/getPostContent';
 
@@ -57,8 +55,7 @@ const postSingle = ( props: any ) => {
     const post = getPostContent( slug );
 
     return (
-        <main>
-            <PageHeader />
+        <>
             <article className="post-single">
                 <div className="post-single-header">
                     {post.data.coverImage &&
@@ -89,8 +86,7 @@ const postSingle = ( props: any ) => {
                 </div>
 
             </article>
-            <PageFooter />
-        </main>
+        </>
     );
 };
 

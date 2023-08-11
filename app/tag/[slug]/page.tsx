@@ -1,6 +1,4 @@
 import { getAllPostsByTag } from '@/components/getAllPostsByTag';
-import PageFooter from '@/components/PageFooter';
-import PageHeader from '@/components/PageHeader';
 import PostPreview from '@/components/PostPreview';
 import type { Metadata } from 'next';
 
@@ -37,16 +35,14 @@ const TagArchive = ( props: any ) => {
     ));
 
     return (
-        <main>
-            <PageHeader />
+        <>
             <div className="page-interior">
                 <h2>Posts tagged with {props.params.slug}</h2>
             </div>
             <div className="post-grid">
                 {postPreviews}
             </div>
-            <PageFooter />
-        </main>
+        </>
     );
 };
 

@@ -76,15 +76,14 @@ img {
 }
 
 header {
-  border-bottom: 1px dashed white;
   margin-bottom: 3rem;
-  padding: 2.5rem 1rem;
 }
 
 footer {
   border-top: 1px dashed white;
   margin-top: 2rem;
   padding: 2.5rem 1rem;
+  text-align: center;
 }
 
 header h1,
@@ -118,21 +117,8 @@ header a:focus {
   text-underline-offset: 0.15em;
 }
 
-.home-full-height {
-  display: grid;
-  height: 100vh;
-  padding: 1rem;
-  place-items: center;
-}
-
-.home-full-height h1 {
-  font-family: 'IBM Plex Serif Regular';
-  font-size: 15vw;
-  font-weight: 400;
-}
-
 footer p {
-  font-size: 8vw;
+  font-size: 2rem;
 }
 
 .page-interior {
@@ -216,10 +202,25 @@ iframe[src*='youtube'] {
 }
 
 .search-form-container {
+  align-items: center;
   background-color: var(--callout-rgba);
   display: flex;
-  justify-content: flex-end;
+  flex-direction: column;
+  justify-content: space-between;
   padding: 1rem;
+}
+
+.site-name {
+  align-content: center;
+  display: grid;
+  margin-bottom: 1rem;
+}
+
+.site-name h1 {
+  font-family: 'IBM Plex Serif Regular';
+  font-size: 2rem;
+  font-weight: 400;
+  text-align: center;
 }
 
 .search-form {
@@ -257,13 +258,17 @@ iframe[src*='youtube'] {
     grid-column: span 2 / span 2;
     padding: 1.5rem;
   }
-
-  footer p {
-    font-size: 4vw;
-  }
 }
 
 @media screen and (min-width: 800px) {
+  .search-form-container {
+    flex-direction: row;
+  }
+
+  .site-name {
+    margin-bottom: 0;
+  }
+
   .post-single-header {
     background: unset;
     display: grid;
@@ -288,6 +293,10 @@ iframe[src*='youtube'] {
     grid-column: 4 / -1;
     padding: 0.5rem 1rem;
   }
+
+  footer {
+    text-align: left;
+  }
 }
 
 @media screen and (min-width: 1024px) {
@@ -298,10 +307,6 @@ iframe[src*='youtube'] {
   .post-single-header h2 {
     font-size: 3rem;
   }
-
-  footer p {
-    font-size: 2vw;
-  }
 }
 
 @media screen and (max-width: 550px) {
@@ -309,15 +314,12 @@ iframe[src*='youtube'] {
   .twitter-tweet iframe {
     max-width: 100% !important;
   }
-}
-
-@media screen and (max-width: 550px) {
   .search-form {
     display: flex;
     justify-content: flex-end;
     width: 100%;
   }
-
+  
   .search-input {
     width: 100%;
   }
