@@ -10,6 +10,7 @@ export async function generateMetadata(): Promise<Metadata> {
     const metaDescription = 'Pro wrestling is life.'
 
     return {
+        metadataBase: new URL( 'https:/www.gansobomb.com' ),
         title: metaTitle,
         description: metaDescription,
         openGraph : {

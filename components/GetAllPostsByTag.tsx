@@ -1,4 +1,4 @@
-import getPostsMetadata from './getPostMetaData';
+import getPostsMetadata from './GetPostMetaData';
 
 export function getAllPostsByTag(tag: string) {
   const posts = getPostsMetadata();

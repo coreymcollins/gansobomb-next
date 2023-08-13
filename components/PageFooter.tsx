@@ -1,20 +1,23 @@
 'use client'
 
-import { usePathname } from 'next/navigation'
+import { Suspense } from 'react'
+import FooterText from './FooterText'
+
+function FallbackFooter() {
+    return (
+        <footer>
+            <p>Pro wrestling is life.</p>
+        </footer>
+    )
+}
 
 const PageFooter = () => {
 
-    const pathname = usePathname()
 
     return (
-        <footer>
-            {
-                '/' === pathname ?
-                    <p>Ganso Bomb</p>
-                :
-                    <p>Pro wrestling is life.</p>
-            }
-        </footer>
+        <Suspense fallback={<FallbackFooter />}>
+            <FooterText />
+        </Suspense>
     )
 }
 

@@ -1,10 +1,10 @@
-import getPostsMetadata from '@/components/getPostMetaData';
+import getPostsMetadata from '@/components/GetPostMetaData';
 import Image from 'next/image';
 import PostDate from '@/components/Date';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import getPostContent from '@/components/getPostContent';
+import getPostContent from '@/components/GetPostContent';
 
 export const generateStaticParams = async () => {
     const posts = getPostsMetadata();
@@ -19,9 +19,10 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
     const post = getPostContent( slug );
     const metaTitle = `${post.data.title} on Ganso Bomb`
     const metaDescription = post.data.excerpt
-    const metaImage = `/images/${post.data.coverImage}`
+    const metaImage = post.data.coverImage ? `/images/${post.data.coverImage}` : '/images/ganso-bomb-fallback.webp'
 
     return {
+        metadataBase: new URL( 'https:/www.gansobomb.com' ),
         title: metaTitle,
         description: metaDescription,
         openGraph : {

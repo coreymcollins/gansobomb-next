@@ -92,18 +92,23 @@ p {
 }
 
 header a,
-.post-single-content a {
+.post-single-content a,
+.pagination-container a {
   text-decoration: underline;
   transition: 400ms;
 }
 
-header a {
+header a,
+.pagination-container a {
   text-underline-offset: 0.5em;
 }
 
 header a:hover,
 header a:active,
-header a:focus {
+header a:focus,
+.pagination-container a:hover,
+.pagination-container a:active,
+.pagination-container a:focus {
   text-underline-offset: 0.25em;
 }
 
@@ -249,6 +254,17 @@ iframe[src*='youtube'] {
   padding: .75rem;
 }
 
+.pagination-container {
+  align-content: center;
+  display: grid;
+  gap: 2rem;
+  grid-auto-flow: column;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  justify-items: center;
+  margin-top: 2rem;
+}
+
 @media screen and (min-width: 640px) {
   .post-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -257,6 +273,12 @@ iframe[src*='youtube'] {
     background-color: var(--callout-rgba);
     grid-column: span 2 / span 2;
     padding: 1.5rem;
+  }
+
+  .pagination-container {
+    gap: 0;
+    margin: 4rem auto 0;
+    width: 60%;
   }
 }
 
@@ -306,6 +328,10 @@ iframe[src*='youtube'] {
 
   .post-single-header h2 {
     font-size: 3rem;
+  }
+
+  .pagination-container {
+    width: 30%;
   }
 }
 

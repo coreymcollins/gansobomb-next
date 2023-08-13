@@ -1,29 +1,22 @@
 import React from 'react';
-import getPostsMetadata from '@/components/getPostMetaData';
+import getPostsMetadata from '@/components/GetPostMetaData';
 import PostPreview from '@/components/PostPreview';
-import getPostContent from '@/components/getPostContent';
+import getPostContent from '@/components/GetPostContent';
 import type { Metadata } from 'next';
+import { getSearchParams } from '@/components/SearchParams';
+import PaginationControls from '@/components/PaginationControls';
 
 const getPosts = () => {
     return getPostsMetadata();
 };
 
-const SearchQuery = ( props: any ) => {
-
-    // Add a search form here at some point.
-    if ( ! props.searchParams.query ) {
-        return
-    }
-
-    return props.searchParams.query.toLowerCase()
-}
-
 export async function generateMetadata( props: any ): Promise<Metadata> {
-    const searchQuery = SearchQuery( props )
-    const metaTitle = `Search for: "${searchQuery}" on Ganso Bomb`
+    const searchQuery = props.searchParams.query
+    const metaTitle = `Search results for "${searchQuery}" on Ganso Bomb`
     const metaDescription = `Search results for the query "${searchQuery}"`
 
     return {
+        metadataBase: new URL( 'https:/www.gansobomb.com' ),
         title: metaTitle,
         description: metaDescription,
         openGraph : {
@@ -42,16 +35,14 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
     }    
 }
 
-const mySearchResults = ( props: any ) => {
-
-    const searchQuery = SearchQuery( props )
+const mySearchResults = ( searchValue: string ) => {
 
     const allPosts = getPosts();
     const theseSearchResults = allPosts.filter((post) => {
         const postContent = getPostContent( post.slug )
-        const contentMatches = postContent.content.toLowerCase().includes( searchQuery );
-        const titleMatches = post.title.toLowerCase().includes(searchQuery);
-        const tagsMatch = post.tags.some((tag: string) => tag.toLowerCase().includes(searchQuery));
+        const contentMatches = postContent.content.toLowerCase().includes( searchValue );
+        const titleMatches = post.title.toLowerCase().includes(searchValue);
+        const tagsMatch = post.tags.some((tag: string) => tag.toLowerCase().includes(searchValue));
 
         return titleMatches || tagsMatch || contentMatches;
     });
@@ -59,11 +50,16 @@ const mySearchResults = ( props: any ) => {
     return theseSearchResults
 }
 
-const SearchPage = ( props: any ) => {
+export default function SearchPage( props: any ) {
 
-    const searchQuery = SearchQuery( props )
-    const theseResults = mySearchResults( props )
-    const searchQueryHeading = searchQuery ? `Search Results for: ${searchQuery}` : 'Please provide a search query'
+    const allSearchParams = getSearchParams( props.searchParams )
+    const searchQuery = props.searchParams.query
+    const foundPosts = mySearchResults( searchQuery )
+    const pagedResults = foundPosts.slice( allSearchParams.start, allSearchParams.end )
+	const postPreviews = pagedResults.map( ( post ) => (
+        <PostPreview key={post.slug} {...post} />
+        ))
+    const searchQueryHeading = searchQuery ? `Search Results for "${searchQuery}"` : 'Please provide a search query'
     
     return (
         <>
@@ -71,12 +67,15 @@ const SearchPage = ( props: any ) => {
                 <h2>{searchQueryHeading}</h2>
             </div>
             <div className="post-grid">
-                {theseResults.map((post) => (
-                    <PostPreview key={post.slug} {...post} />
-                ))}
+                { postPreviews }
             </div>
+            <PaginationControls
+				hasNextPage={allSearchParams.end < foundPosts.length}
+				hasPrevPage={allSearchParams.start > 0}
+				totalPosts={foundPosts.length}
+				postsPerPage={allSearchParams.postsPerPage}
+                query={searchQuery}
+			/>
 		</>            
     );
-};
-        
-export default SearchPage;
+}
