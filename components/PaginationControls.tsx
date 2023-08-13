@@ -22,7 +22,7 @@ const PaginationControls: FC<PaginationControlsProps> = ( props: any ) => {
 	
 	return (
 		<div className="pagination-container">
-			<div className="previous-link-container">
+			<div className="pagination-links-container">
 				{
 					hasPrevPage &&
 						<Link
@@ -35,16 +35,14 @@ const PaginationControls: FC<PaginationControlsProps> = ( props: any ) => {
 								}
 							}}
 						>
-							&laquo; Previous Page
+							Previous Page
 						</Link>
 				}
-			</div>
-			
-			<div>
-				{pageNumber} / {Math.ceil(totalPosts / Number(perPage))}
-			</div>
 
-			<div className="next-link-container">
+				<span className="page-count">
+					{pageNumber} of {Math.ceil(totalPosts / Number(perPage))}
+				</span>
+
 				{
 					hasNextPage &&
 						<Link
@@ -58,7 +56,7 @@ const PaginationControls: FC<PaginationControlsProps> = ( props: any ) => {
 							}}
 							passHref
 						>
-							Next Page &raquo;
+							Next Page
 						</Link>
 				}
 			</div>
