@@ -1,8 +1,8 @@
 ---
 title: "REWIND: August 13-19"
 date: "2023-08-19"
-categories: ["wrestling"]
-tags: ["wrestling", "review", "REWIND"]
+categories: ["REWIND"]
+tags: ["wrestling", "review", "REWIND", "ECW", "AEW", "NJPW", "WCW", "NWA", "JCP", "Sabu", "2 Cold Scorpio", "Masahiro Chono", "Kazuyuki Fujita", "Keiji Mutoh", "Shinya Hashimoto", "Magnum TA", "Nikita Koloff", "Dynamite", "Collision", "Vader", "Davey Boy Smith"]
 coverImage: "rewind-august-13-19.webp"
 excerpt: "What's happening in professional wrestling's past and present for the week of August 13?"
 ---
