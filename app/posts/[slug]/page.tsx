@@ -54,6 +54,13 @@ const postSingle = ( props: any ) => {
 
     const slug = props.params.slug;
     const post = getPostContent( slug );
+    let tags = post.data.tags;
+
+    if ( tags ) {
+        tags.sort( function( a: string, b: string ) {
+            return a.toLowerCase().localeCompare( b.toLowerCase() )
+        })
+    }
 
     return (
         <>
@@ -76,14 +83,21 @@ const postSingle = ( props: any ) => {
                 <div className="post-single-content">
                     <MarkdownRenderer content={post.content} />
                     
-                    <div className="tag-list">
-                        <h3>Tags</h3>
-                        { post.data.tags.map( (tag: any) => (
-                            <Link key={tag} href={`/tag/${tag}`}>
-                                {tag}
-                            </Link>
-                        ))}
-                    </div>
+                    {
+                    tags &&
+                        <div className="tag-list-container">
+                            <h3>Tags</h3>
+                            <ul className="tag-list">
+                                { tags.map( (tag: any) => (
+                                    <li key={tag} className="tag-list-item">
+                                        <Link href={`/tag/${tag}`} className="tag-link">
+                                            {tag}
+                                        </Link>
+                                    </li>
+                                ))}
+                            </ul>
+                        </div>
+                    }
                 </div>
 
             </article>
