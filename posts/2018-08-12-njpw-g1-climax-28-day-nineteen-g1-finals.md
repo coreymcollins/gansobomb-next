@@ -1,7 +1,7 @@
 ---
 title: "NJPW G1 Climax 28: Day Nineteen - G1 Finals"
 date: "2018-08-12"
-categories: 
+category: 
   - "njpw"
 tags: 
   - "a-block"

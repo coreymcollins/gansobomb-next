@@ -1,7 +1,7 @@
 ---
 title: "Don't Get Broken by Jungle Kyona: STARDOM 5 Star Grand Prix 2018 Day Three Afternoon Show"
 date: "2018-08-31"
-categories: 
+category: 
   - "stardom"
 tags: 
   - "5-star-grand-prix"

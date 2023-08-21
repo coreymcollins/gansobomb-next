@@ -1,7 +1,7 @@
 ---
 title: "STARS Collide: STARDOM 5 Star Grand Prix 2018 Day Four"
 date: "2018-09-08"
-categories: 
+category: 
   - "stardom"
 tags: 
   - "5-star-grand-prix"

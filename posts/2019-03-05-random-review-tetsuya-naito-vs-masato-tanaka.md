@@ -1,7 +1,7 @@
 ---
 title: "Random Rewind: Tetsuya Naito vs Masato Tanaka"
 date: "2019-03-05"
-categories: 
+category: 
   - "random-rewind"
 tags: 
   - "masato-tanaka"

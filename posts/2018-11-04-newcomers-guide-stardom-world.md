@@ -1,7 +1,7 @@
 ---
 title: "5 Things To Know:A Newcomer's Guide to STARDOM World"
 date: "2018-11-04"
-categories: 
+category: 
   - "stardom"
 tags: 
   - "stardom"

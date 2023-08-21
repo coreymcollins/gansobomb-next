@@ -1,7 +1,7 @@
 ---
 title: "NJPW G1 Cilmax 28: Day Seven"
 date: "2018-07-22"
-categories: 
+category: 
   - "njpw"
 tags: 
   - "a-block"

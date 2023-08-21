@@ -1,7 +1,7 @@
 ---
 title: "Mayu Cinches First Place: STARDOM 5 Star Grand Prix 2018 Day Eight"
 date: "2018-09-25"
-categories: 
+category: 
   - "stardom"
 tags: 
   - "5-star-grand-prix"

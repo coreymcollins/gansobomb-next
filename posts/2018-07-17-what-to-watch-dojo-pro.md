@@ -1,7 +1,7 @@
 ---
 title: "What To Watch:Dojo Pro"
 date: "2018-07-17"
-categories: 
+category: 
   - "what-to-watch"
 tags: 
   - "amazon"

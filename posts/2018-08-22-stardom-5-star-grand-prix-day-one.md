@@ -1,7 +1,7 @@
 ---
 title: "Utami Hayashishita is the Real Damn Deal: STARDOM 5 Star Grand Prix 2018 Day One"
 date: "2018-08-22"
-categories: 
+category: 
   - "stardom"
 tags: 
   - "5-star-grand-prix"

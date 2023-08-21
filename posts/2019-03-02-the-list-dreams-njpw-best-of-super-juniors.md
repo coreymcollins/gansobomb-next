@@ -1,7 +1,7 @@
 ---
 title: "The List: 5 Dreams For NJPW Best of the Super Juniors"
 date: "2019-03-02"
-categories: 
+category: 
   - "the-list"
 tags: 
   - "bosj"

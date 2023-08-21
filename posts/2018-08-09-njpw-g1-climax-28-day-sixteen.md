@@ -1,7 +1,7 @@
 ---
 title: "NJPW G1 Climax 28: Day Sixteen"
 date: "2018-08-09"
-categories: 
+category: 
   - "njpw"
 tags: 
   - "b-block"

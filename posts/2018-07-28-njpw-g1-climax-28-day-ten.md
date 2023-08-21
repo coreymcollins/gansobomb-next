@@ -1,7 +1,7 @@
 ---
 title: "NJPW G1 Climax 28: Day Ten"
 date: "2018-07-28"
-categories: 
+category: 
   - "njpw"
 tags: 
   - "b-block"

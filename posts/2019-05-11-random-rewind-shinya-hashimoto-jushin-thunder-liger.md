@@ -1,7 +1,7 @@
 ---
 title: "Random Rewind: Shinya Hashimoto vs Jushin Thunder Liger"
 date: "2019-05-11"
-categories: 
+category: 
   - "random-rewind"
 tags: 
   - "jushin-thunder-liger"

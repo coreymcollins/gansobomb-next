@@ -1,7 +1,7 @@
 ---
 title: "MLW Battle Riot"
 date: "2018-07-29"
-categories: 
+category: 
   - "mlw"
 tags: 
   - "battle-riot"

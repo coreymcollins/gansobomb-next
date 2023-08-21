@@ -1,7 +1,7 @@
 ---
 title: "Kagetsu Fights For Food: STARDOM 5 Star Grand Prix 2018 Day Seven"
 date: "2018-09-22"
-categories: 
+category: 
   - "stardom"
 tags: 
   - "5-star-grand-prix"

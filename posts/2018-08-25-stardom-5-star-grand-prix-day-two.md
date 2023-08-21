@@ -1,7 +1,7 @@
 ---
 title: "Konami's Triangle Lancer Meets its Match: STARDOM 5 Star Grand Prix 2018 Day Two"
 date: "2018-08-25"
-categories: 
+category: 
   - "stardom"
 tags: 
   - "5-star-grand-prix"

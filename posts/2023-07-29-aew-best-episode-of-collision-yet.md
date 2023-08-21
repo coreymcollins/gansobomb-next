@@ -1,7 +1,7 @@
 ---
 title: "July 29, 2023: AEW's Best Episode of Collision Yet"
 date: "2023-07-29"
-categories: 
+category: 
   - "aew"
 tags: 
   - "aew"

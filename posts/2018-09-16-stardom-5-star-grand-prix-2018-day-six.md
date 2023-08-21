@@ -1,7 +1,7 @@
 ---
 title: "Time Waits For No One: STARDOM 5 Star Grand Prix 2018 Day Six"
 date: "2018-09-16"
-categories: 
+category: 
   - "stardom"
 tags: 
   - "5-star-grand-prix"

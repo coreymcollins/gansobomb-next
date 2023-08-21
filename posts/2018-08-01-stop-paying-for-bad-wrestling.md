@@ -1,7 +1,7 @@
 ---
 title: "Stop Paying for Bad Wrestling"
 date: "2018-08-01"
-categories: 
+category: 
   - "life"
 tags: 
   - "beyond-wrestling"

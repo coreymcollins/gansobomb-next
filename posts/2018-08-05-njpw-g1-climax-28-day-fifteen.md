@@ -1,7 +1,7 @@
 ---
 title: "NJPW G1 Climax 28: Day Fifteen"
 date: "2018-08-05"
-categories: 
+category: 
   - "njpw"
 tags: 
   - "a-block"

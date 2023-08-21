@@ -1,7 +1,7 @@
 ---
 title: "Is there a problem with JungleHOOK?"
 date: "2023-06-20"
-categories: 
+category: 
   - "aew"
 tags: 
   - "aew"

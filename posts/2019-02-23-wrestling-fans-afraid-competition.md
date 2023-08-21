@@ -1,7 +1,7 @@
 ---
 title: "Why Are Wrestling Fans Afraid of Competition?"
 date: "2019-02-23"
-categories: 
+category: 
   - "wrestling"
 tags: 
   - "aew"

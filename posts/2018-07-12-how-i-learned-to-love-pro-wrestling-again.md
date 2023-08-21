@@ -1,7 +1,7 @@
 ---
 title: "How I Learned to Love Pro-Wrestling Again"
 date: "2018-07-12"
-categories: 
+category: 
   - "life"
 tags: 
   - "mlw"

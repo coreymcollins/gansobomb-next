@@ -1,7 +1,7 @@
 ---
 title: "The Final Round: STARDOM 5 Star Grand Prix 2018 Finals"
 date: "2018-09-29"
-categories: 
+category: 
   - "stardom"
 tags: 
   - "5-star-grand-prix"

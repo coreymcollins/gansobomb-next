@@ -1,7 +1,7 @@
 ---
 title: "Sorry, No Mercy Isn't The Best N64 Wrestling Game"
 date: "2021-12-11"
-categories: 
+category: 
   - "video-games"
 tags: 
   - "wcw"

@@ -1,7 +1,7 @@
 ---
 title: "JUNGLE BOOOOMMMBBB!!!: STARDOM 5 Star Grand Prix 2018 Day Five"
 date: "2018-09-12"
-categories: 
+category: 
   - "stardom"
 tags: 
   - "5-star-grand-prix"

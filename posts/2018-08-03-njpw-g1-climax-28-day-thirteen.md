@@ -1,7 +1,7 @@
 ---
 title: "NJPW G1 Climax 28: Day Thirteen"
 date: "2018-08-03"
-categories: 
+category: 
   - "njpw"
 tags: 
   - "a-block"

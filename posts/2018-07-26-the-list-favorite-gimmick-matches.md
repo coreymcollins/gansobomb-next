@@ -1,7 +1,7 @@
 ---
 title: "The List: Favorite Gimmick Matches"
 date: "2018-07-26"
-categories: 
+category: 
   - "the-list"
 tags: 
   - "brian-lee"

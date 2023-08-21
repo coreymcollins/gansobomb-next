@@ -1,7 +1,7 @@
 ---
 title: "REWIND: Kawasaki Dream"
 date: "2023-08-20"
-categories: ["REWIND"]
+category: ["REWIND"]
 tags: ["wrestling", "review", "REWIND", "deathmatch", "IWA", "Cactus Jack", "Terry Funk"]
 coverImage: "08-20-2023-rewind-kawasaki-dream.webp"
 excerpt: "Almost 30 years ago today, Cactus Jack became the King of the Deathmatch by defeating Terry Funk at IWA's Kawasaki Dream."

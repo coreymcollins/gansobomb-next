@@ -1,7 +1,7 @@
 ---
 title: "Road Trip with Natsu Sumire: STARDOM 5 Star Grand Prix 2018 Day Three Night Show"
 date: "2018-09-01"
-categories: 
+category: 
   - "stardom"
 tags: 
   - "5-star-grand-prix"
