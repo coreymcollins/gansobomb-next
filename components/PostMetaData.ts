@@ -5,4 +5,6 @@ export interface PostMetaData {
     coverImage: string,
     excerpt: string,
     tags: string[],
+    category: string,
+    [key:string]: string | string[],
 }

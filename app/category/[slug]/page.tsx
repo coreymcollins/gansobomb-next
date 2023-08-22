@@ -7,5 +7,5 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
 }
 
 export default function TermArchive( props: any ) {
-    return TermArchivePage( props, 'tags' )
+    return TermArchivePage( props, 'category' )
 };

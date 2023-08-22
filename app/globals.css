@@ -165,32 +165,32 @@ footer p {
   margin-bottom: 1.25rem;
 }
 
-.post-single-content .tag-list-container {
+.post-single-content .term-list-container {
   margin-top: 2rem;
 }
 
-.post-single-content .tag-list-container {
+.post-single-content .term-list-container {
   font-size: 1.15rem;
 }
 
-.post-single-content .tag-list-container h3 {
+.post-single-content .term-list-container h3 {
   margin-bottom: 0.5rem;
 }
 
-.post-single-content .tag-list-container a:not(:last-child) {
+.post-single-content .term-list-container a:not(:last-child) {
   margin-right: 0.5rem;
 }
 
-.tag-list {
+.term-list {
   line-height: 2;
   list-style: none;
 }
 
-.tag-list-item {
+.term-list-item {
   display: inline-block;
 }
 
-.tag-list-item:not(:last-child) {
+.term-list-item:not(:last-child) {
   margin-right: 1rem;
 }
 

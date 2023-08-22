@@ -15,6 +15,7 @@ const PostPreview = ( props: PostMetaData ) => {
                         height={640}
                         className="post-image"
                         sizes="(max-width: 1024px) 50vw, (max-width: 1200px) 100vw, 756px"
+                        quality={100}
                     />
                 }
                 <h2>{props.title}</h2>

@@ -20,6 +20,7 @@ const getPostsMetadata = (): PostMetaData[] => {
 			coverImage: matterResult.data.coverImage,
 			excerpt: matterResult.data.excerpt,
 			tags: matterResult.data.tags,
+			category: matterResult.data.category,
 		}
 	});
 

@@ -55,6 +55,7 @@ const postSingle = ( props: any ) => {
     const slug = props.params.slug;
     const post = getPostContent( slug );
     let tags = post.data.tags;
+    let category = post.data.category;
 
     if ( tags ) {
         tags.sort( function( a: string, b: string ) {
@@ -73,6 +74,7 @@ const postSingle = ( props: any ) => {
                             width={960}
                             height={640}
                             className="post-image"
+                            quality={100}
                         />
                     }
                     <div className="post-title-container">
@@ -84,14 +86,25 @@ const postSingle = ( props: any ) => {
                     <MarkdownRenderer content={post.content} />
                     
                     {
+                        category &&
+                        <div className="term-list-container">
+                            <h3>Category</h3>
+                            <Link href={`/category/${category}`} className="term-link">
+                                {/* {category.replace( '-', ' ' )} */}
+                                {category}
+                            </Link>
+                        </div>
+                    }
+
+                    {
                     tags &&
-                        <div className="tag-list-container">
+                        <div className="term-list-container">
                             <h3>Tags</h3>
-                            <ul className="tag-list">
+                            <ul className="term-list">
                                 { tags.map( (tag: any) => (
-                                    <li key={tag} className="tag-list-item">
-                                        <Link href={`/tag/${tag}`} className="tag-link">
-                                            {tag}
+                                    <li key={tag} className="term-list-item">
+                                        <Link href={`/tag/${tag}`} className="term-link">
+                                            {tag.replace( '-', ' ' )}
                                         </Link>
                                     </li>
                                 ))}
