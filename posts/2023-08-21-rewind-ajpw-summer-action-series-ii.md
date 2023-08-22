@@ -4,7 +4,7 @@ date: "2023-08-21"
 category: "REWIND"
 tags: ["wrestling", "review", "REWIND", "AJPW"]
 coverImage: "08-21-2023-rewind-ajpw-summer-action-series-ii.webp"
-excerpt: "A couple of months removed from Mitsuharu Misawa making his mark by defeating Jumbo Tsuruta, they come face to face once again – this time in a six-man tag."
+excerpt: "A couple of months removed from Mitsuharu Misawa making his mark by defeating Jumbo Tsuruta, they come face to face once again – this time in a six-man tag match."
 ---
 
 As part of this experiment of watching and writing about something each day, I'm usually searching something like "this day in wrestling [insert date]" which yields decent results for notable things that have happened on said date.
