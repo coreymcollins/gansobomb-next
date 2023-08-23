@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import { usePathname, useSearchParams } from 'next/navigation'
 
 export default function HeaderText() {
@@ -12,6 +13,8 @@ export default function HeaderText() {
                 :
                     <p>Pro wrestling is life.</p>
             }
+
+            <Link href="mailto:gansobombdotcom@gmail.com?subject=I would like to pay you $5,000 to write something for me">Email me.</Link>
         </footer>
     )
 }

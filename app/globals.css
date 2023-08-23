@@ -124,6 +124,7 @@ header a:focus,
 
 footer p {
   font-size: 2rem;
+  margin-bottom: 2rem;
 }
 
 .page-interior {
@@ -333,7 +334,16 @@ iframe[src*='youtube'] {
   }
 
   footer {
+    align-items: baseline;
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: max-content 1fr;
+    justify-items: end;
     text-align: left;
+  }
+
+  footer p {
+    margin-bottom: 0;
   }
 }
 
