@@ -216,7 +216,7 @@ footer p {
 iframe[src*='youtube'] {
   aspect-ratio: 16 / 9;
   height: auto;
-  margin: 0 auto 1rem;
+  margin: 1.25rem auto 2rem;
   width: 100%;
 }
 
