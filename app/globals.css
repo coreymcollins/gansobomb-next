@@ -87,8 +87,23 @@ footer {
 }
 
 header h1,
-p {
+p,
+ol,
+ul {
   font-family: 'IBM Plex Serif Regular';
+}
+
+ol,
+ul {
+  font-size: 1.25rem;
+  list-style-position: inside;
+  margin: 1.25rem 0;
+}
+
+ol li + li,
+ul li + li {
+  line-height: 1.75rem;
+  margin-top: 1rem;
 }
 
 header a,
