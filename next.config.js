@@ -27,13 +27,33 @@ const nextConfig = {
                 permanent: true,
             },
             {
-                source: '/2018/11/04/newcomers-guide-stardom-world',
-                destination: '/posts/2018-11-04-newcomers-guide-stardom-world',
+                source: '/tag/:slug/feed',
+                destination: '/tag/:slug',
                 permanent: true,
             },
             {
-                source: '/2019/03/05/random-review-tetsuya-naito-vs-masato-tanaka',
-                destination: '/posts/2019-03-05-random-review-tetsuya-naito-vs-masato-tanaka',
+                source: '/category/:slug/feed',
+                destination: '/category/:slug',
+                permanent: true,
+            },
+            {
+                source: '/:number/:number/:number/:slug',
+                destination: '/',
+                permanent: true,
+            },
+            {
+                source: '/author/:slug',
+                destination: '/',
+                permanent: true,
+            },
+            {
+                source: '/go',
+                destination: '/',
+                permanent: true,
+            },
+            {
+                source: '/page/:number',
+                destination: '/',
                 permanent: true,
             },
         ]
