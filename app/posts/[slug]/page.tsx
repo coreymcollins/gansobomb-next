@@ -28,7 +28,7 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
         openGraph : {
             title: metaTitle,
             description: metaDescription,
-            url: `https://www.gansobomb.com/${slug}`,
+            url: `https://www.gansobomb.com/posts/${slug}`,
             siteName: 'Ganso Bomb',
             images: [
                 {
@@ -48,7 +48,7 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
             images: metaImage,
         },
         alternates: {
-            canonical: `https://www.gansobomb.com/${slug}`,
+            canonical: `https://www.gansobomb.com/posts/${slug}`,
         }
     }    
 }
