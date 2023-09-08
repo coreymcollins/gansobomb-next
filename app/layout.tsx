@@ -25,7 +25,10 @@ export async function generateMetadata(): Promise<Metadata> {
             card: 'summary',
             title: metaTitle,
             description: metaDescription,
-          },
+        },
+        alternates: {
+            canonical: '/'
+        }
     }    
 }
 

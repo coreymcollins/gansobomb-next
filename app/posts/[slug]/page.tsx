@@ -47,6 +47,9 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
             description: metaDescription,
             images: metaImage,
         },
+        alternates: {
+            canonical: `https://www.gansobomb.com/${slug}`,
+        }
     }    
 }
 
