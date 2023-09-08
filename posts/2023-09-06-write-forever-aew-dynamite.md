@@ -4,7 +4,7 @@ date: "2023-09-06"
 category: "write-forever"
 tags: ["wrestling", "review", "aew", "dynamite"]
 coverImage: "2023-09-06-write-forever-aew-dynamite.webp"
-excerpt: ""
+excerpt: "The most important parts of wrestling to me right now are Ricky Starks, Swerve Strickland, Roderick Strong, and Roderick Strong's neck brace."
 ---
 
 The show opened up with the sweet sounds of *"Jane"* as Orange Cassidy made his way to the ring for a solo promo. The former International Champion said he was told he could stay home but decided "nah", then followed up saying that he'll be here every week whether or not he has a title. Short and sweet, Cassidy left the ring but as he made his way up the ramp *"Wild Thing"* kicked in as the *new* International Champion, Jon Moxley, made his way to the ring.
