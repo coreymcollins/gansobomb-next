@@ -8,6 +8,7 @@ export async function generateMetadata(): Promise<Metadata> {
 
     const metaTitle = 'Ganso Bomb'
     const metaDescription = 'Pro wrestling is life.'
+    const metaImage = 'https://www.gansobomb.com/images/ganso-bomb-fallback.webp'
 
     return {
         metadataBase: new URL( 'https:/www.gansobomb.com' ),
@@ -18,13 +19,22 @@ export async function generateMetadata(): Promise<Metadata> {
             description: metaDescription,
             url: 'https://www.gansobomb.com/',
             siteName: metaTitle,
+            images: [
+                {
+                    url: metaImage,
+                    width: 960,
+                    height: 640,
+                    alt: `${ metaTitle }: ${ metaDescription }`,
+                }
+            ],
             type: 'website',
-            locale: 'en_US'
+            locale: 'en_US',
         },
         twitter: {
-            card: 'summary',
+            card: 'summary_large_image',
             title: metaTitle,
             description: metaDescription,
+            images: metaImage,
         },
         alternates: {
             canonical: '/'

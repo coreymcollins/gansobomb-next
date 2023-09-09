@@ -39,7 +39,7 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
                 }
             ],
             type: 'website',
-            locale: 'en_US'
+            locale: 'en_US',
         },
         twitter: {
             card: 'summary_large_image',
