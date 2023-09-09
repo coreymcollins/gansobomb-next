@@ -19,7 +19,7 @@ I think a lot of that had to do with the birth of AEW and the ease at which good
 
 That being said – I'm going to try and venture out to whatever piques my interest on non-AEW days of the week. These could be single matches, bits of a show, or a whole card. For this first go, there's some ECW, New Japan, and NWA/JCP in addition to the weekly AEW shows.
 
-### August 13: 2 Cold Scorpio vs Sabu, ECW Hardcore Heaven 1994
+## August 13: 2 Cold Scorpio vs Sabu, ECW Hardcore Heaven 1994
 
 We're just focusing on one of the main events of this show which [was uploaded to Dailymotion](https://www.dailymotion.com/video/x71nmgx) straight from the VHS rip which warms my old man heart. God, I wish I had convinced my parents to give me the money to send away for literally *any* of the VHS tapes ECW used to advertise during Hardcore TV.
 
@@ -43,7 +43,7 @@ Sabu eventually picks up the win with a Paul E-assisted Arabian Facebuster while
 
 The match itself isn't technically great or a masterpiece. It's a fun time capsule of Sabu, Scorpio, and ECW in 1994 with Sabu seemingly dialing in what would become some of his trademark offense for the next twenty-something years. Joey Styles reacts several times in amazement in a way that makes it feel like this is the first time Sabu has pulled these moves out. Scorpio isn't left out of the party, though – he also hits a few moves that befuddle Styles on commentary, like a slingshot somersault splash and a twisting moonsault into a legdrop from the top rope (different from Da Bomb, his insane moonsault legdrop).
 
-### August 14: Masahiro Chono vs Kazuyuki Fujita, G1 15 Finals (2005)
+## August 14: Masahiro Chono vs Kazuyuki Fujita, G1 15 Finals (2005)
 
 This isn't an era of New Japan I'm super familiar with, and I know nothing about Fujita. Chono is someone who broke into my field of view in the 90s thanks to his presence in WCW. I'm sure I probably saw him in several of the 9,000 wrestling magazines I'd get from the grocery store, too.
 
@@ -65,7 +65,7 @@ This isn't as exciting a match as some modern G1 Finals, but Chono is always coo
 
 Chono just officially retired this year alongside Keiji Mutoh who, as it turns out, we're watching tomorrow against Shinya Hashimoto in what I'm expecting to be a far more exciting matchup.
 
-### August 15: Keiji Mutoh vs Shinya Hashimoto, G1 5 Finals (1995)
+## August 15: Keiji Mutoh vs Shinya Hashimoto, G1 5 Finals (1995)
 
 Let me just start off by saying how much I fucking love the G1. It's just the coolest tournament in pro wrestling. I'm honestly surprised AEW hasn't tried doing some version of the G1 themselves, especially with Tony Khan's apparent love affair with always running a tournament (or at least a series of loosely-connected matches called a tournament). There are just so many stories you can tell in a tournament like this, and watching just the finals of these tournaments back to back makes me want to watch some old G1s in full.
 
@@ -89,7 +89,7 @@ It should be no surprise, but this absolutely kicked ass and was deserving of a 
 
 Again, this is an era of New Japan I wasn't tuned into. I don't know how I would have pulled that off as a 12-year-old in Central New York. As a WWF kid who didn't grow up with TBS, I was deep in the wilds of the New Generation while broadening my horizons with ECW. That said, every time I see a Hashimoto match I just want to see more – so maybe I'll do a deep dive on him at some point. Until then!
 
-### August 16: AEW Dynamite
+## August 16: AEW Dynamite
 
 Dynamite has felt a bit up and down lately, not really consistently grabbing my attention. It may just have been the lull before beginning the build to All In, but this week's show felt like a bit of a return to form. It had the kind of peak batshit AEW I really love. Each segment meant something – big stupid brawls, goofball segments that shouldn't make sense or be any good but actually are, weird fever dream bullshit like Angry Tony Khan... I wish they operated on this level for Dynamite more often/consistently. 
 
@@ -119,7 +119,7 @@ In the main event, the Young Bucks beat The Gunns with a little trickery before 
 
 Overall, a solid show with a better first half than its second half but with a lot of seeds planted for Wembley on the 27th.
 
-### August 17: Nikita Koloff vs Magnum TA, Best of Seven
+## August 17: Nikita Koloff vs Magnum TA, Best of Seven
 
 Back into the halls of "things I've always read and heard about but didn't grow up on and never got around to watching", it's the Nikita Koloff/Magnum TA Best of Seven series from 1986. Earlier in the year Magnum was stripped of his US Heavyweight Championship for punching then-President of the NWA Bob Geigel. To determine a new champion, the belt was held up between Koloff and Magnum in a Best of Seven series.
 
@@ -153,7 +153,7 @@ Magnum would never regain the title, and his career would sadly be cut short two
 
 From some quick searching, it looks like only the final three matches of the series were actually televised. Having watched the final, I'll check out the others to see how they compare. Even if you only watch one, the final match in the series is a hell of a thing to see.
 
-### August 18: Big Van Vader vs Davey Boy Smith, Clash of the Champions XXIV
+## August 18: Big Van Vader vs Davey Boy Smith, Clash of the Champions XXIV
 
 It's August 18 and I tell ya – there's not a ton of compelling wrestling history on this day, at least not outside of modern history which doesn't feel all that interesting to talk about. I don't necessarily feel like doing a Rampage show because, let's face it, it's Rampage and it's fine but it's not really delivering anything crazy. But who knows! Maybe this week's episode will surprise me and I'll be writing about it next year with reverence.
 
@@ -185,7 +185,7 @@ After the match, Cactus Jack sprints toward the ring to attack Vader. This is Ca
 
 This match wasn't especially bad or anything. It was a fine sprint for a TV match, clocking in at just over 11 minutes. Davey would make his way back to the WWF just over a year later to interject himself in the all-timer Bret & Owen Hart storyline. Vader would hold the WCW World Title until December where he'd drop the belt to Ric Flair at Starrcade in a Title vs Career match.
 
-### August 19: AEW Collision
+## August 19: AEW Collision
 
 I wish I could properly put into words how disappointed I am to have Kevin Kelly back on commentary for Collision. I'm not the biggest fan of the Ian Riccaboni/Caprice Coleman team, but Ian and Nigel McGuinness really hit the spot for me. I enjoy Kevin in New Japan, but something about his commentary for New Japan just doesn't grab me. Ah well.
 

@@ -9,9 +9,13 @@ export default function HeaderText() {
         <footer>
             {
                 '/' === pathname && ! searchParams?.has( 'page' ) ?
-                    <p>Ganso Bomb</p>
+                    <>
+                        <p>Ganso Bomb</p>
+                    </>
                 :
-                    <p>Pro wrestling is life.</p>
+                    <>
+                        <p>Pro wrestling is life.</p>
+                    </>
             }
 
             <Link href="mailto:gansobombdotcom@gmail.com?subject=I would like to pay you $5,000 to write something for me">Email me.</Link>

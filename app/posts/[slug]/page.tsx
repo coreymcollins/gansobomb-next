@@ -132,7 +132,7 @@ const postSingle = ( props: any ) => {
                         />
                     }
                     <div className="post-title-container">
-                        <h2>{post.data.title}</h2>
+                        <h1>{post.data.title}</h1>
                         <PostDate dateString={post.data.date} />
                     </div>
                 </div>

@@ -109,7 +109,7 @@ If you’re looking for an hour to fill a wrestling-sized void in your heart and
 
 There are a few services out there that I haven’t pulled the trigger on just yet but that I definitely have my eyes on. At the moment I think I’ll stick with what I have and see how well I manage my time/life with the services mentioned above before I add something new to my plate. Nonetheless, I wanted to mention them.
 
-### Sendai Girls
+## Sendai Girls
 
 Sendai Girls’ Pro Wrestling is another Japanese women’s wrestling league and is just getting into the streaming game. They don’t have as much content stored up as Stardom; they were founded in 2005 but just entered the streaming world within the last few months. As of this post they currently have three videos up on their service with [one free to watch right now](https://sendaiglobal.pivotshare.com/media/sendai-girls-may-26%2C-2018-ondemand-launch/75758/feature). Of note on the Stardom roster is Sendai Girls’ founder [Meiko Satomura](https://www.youtube.com/watch?v=eIBWu9zbZDQ) who will be featured in the 2018 Mae Young Classic. I thought Sendai Girls was also in the $10 bracket so I was holding off on subscribing, but I just saw that it’s only $5.99 so… like… why wouldn’t I? I may still wait until the library is a bit more fleshed out, though.
 
@@ -118,7 +118,7 @@ Sendai Girls’ Pro Wrestling is another Japanese women’s wrestling league and
 **Billing:** By date of registration  
 **Apps:** Sendai Girls runs through Pivotshare which notes that it can be viewed on iOS devices, Apple TV, and via Chromecast
 
-### PROGRESS
+## PROGRESS
 
 PROGRESS is a UK-based league formed in 2012. If you haven’t heard of PROGRESS then I’m going to assume you’ve been living under a rock for the past few years. They put together some huge shows featuring ridiculous indie dream matches like Walter/Matt Riddle and Zack Sabre Jr/Kassius Ohno (Chris Hero) as well as NXT/NXT UK talent and defenses of the WWE UK Title. PROGRESS is [about to embark on a US tour](https://progresswrestling.myshopify.com/blogs/news/usa-coasttocoast-touring-roster-announced) so if you’re in Philadelphia, Boston, New York City, Chicago, Detroit, or Seattle don’t pass up the chance to check them out. They’ll be touring with World Champion Travis Banks, Women’s Champion Jinny, Tag Team Champions Grizzled Young Veterans (James Drake and Zack Gibson), Pete Dunne, Moustache Mountain, Flash Morgan Webster, Jimmy Havoc, Mark Andrews and more.
 

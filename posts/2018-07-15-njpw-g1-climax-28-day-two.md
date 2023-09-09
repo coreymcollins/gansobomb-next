@@ -38,6 +38,6 @@ Tomorrow we get Tanahashi and Jay White and Makabe taking on Suzuki amongst othe
 
 What do your brackets look like for the G1 Climax this year? Who do you see in the finals and who do you see heading to the Tokyo Dome to challenge for the IWGP Heavyweight Title? Let me know in the comments below!
 
-### Catch Up:
+## Catch Up:
 
 - [NJPW G1 Climax 28: Day One](https://www.gansobomb.com/2018/07/14/njpw-g1-climax-28-day-one/)

@@ -62,7 +62,13 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
   font-family: 'IBM Plex Sans Condensed Semi';
 }
 
@@ -87,6 +93,7 @@ footer {
 }
 
 header h1,
+header .h1,
 p,
 ol,
 ul {
@@ -224,7 +231,7 @@ footer p {
   padding: 0.5rem 0;
 }
 
-.post-single-header h2 {  
+.post-single-header h1 {  
   font-size: 2rem;
 }
 
@@ -250,7 +257,8 @@ iframe[src*='youtube'] {
   margin-bottom: 1rem;
 }
 
-.site-name h1 {
+.site-name h1,
+.site-name .h1 {
   font-family: 'IBM Plex Serif Regular';
   font-size: 2rem;
   font-weight: 400;
@@ -367,7 +375,7 @@ iframe[src*='youtube'] {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
-  .post-single-header h2 {
+  .post-single-header h1 {
     font-size: 3rem;
   }
 

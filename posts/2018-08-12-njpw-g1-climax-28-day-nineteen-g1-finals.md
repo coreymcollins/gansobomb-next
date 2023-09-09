@@ -75,7 +75,7 @@ Tana would be presented with the G1 trophy and a flag by Masahiro Chono in the p
 
 The G1 is over and I don’t know what to do with my life.
 
-### Catch Up:
+## Catch Up:
 
 - [NJPW G1 Climax 28: Day One](https://www.gansobomb.com/2018/07/14/njpw-g1-climax-28-day-one/)
 - [NJPW G1 Climax 28: Day Two](https://www.gansobomb.com/2018/07/15/njpw-g1-climax-28-day-two/)

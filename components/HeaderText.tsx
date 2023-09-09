@@ -8,11 +8,18 @@ export default function HeaderText() {
     return (
         <div className="site-name">
             {
-                '/' === pathname && ! searchParams?.has( 'page' ) ?
+                // Is the homepage.
+                '/' === pathname ?
                     <h1>Pro wrestling is life.</h1>
-                :
+                // Is a search result and/or paginated page.
+                : '/' === pathname && searchParams?.has( 'page' ) || searchParams?.has( 'query' ) || pathname?.includes( '/tag/' ) || pathname?.includes( '/category/' ) ?
                     <Link href="/">
                         <h1>Ganso Bomb</h1>
+                    </Link>
+                // Is a single article page.
+                :
+                    <Link href="/">
+                        <p className="h1">Ganso Bomb</p>
                     </Link>
             }
         </div>

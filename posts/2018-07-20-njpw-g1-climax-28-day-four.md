@@ -78,7 +78,7 @@ Toru Yano: 0
 
 I’m going to cry myself to sleep with YTR’s loss to ZSJ weighing heavy on my heart.
 
-### Catch Up:
+## Catch Up:
 
 - [NJPW G1 Climax 28: Day One](https://www.gansobomb.com/2018/07/14/njpw-g1-climax-28-day-one/)
 - [NJPW G1 Climax 28: Day Two](https://www.gansobomb.com/2018/07/15/njpw-g1-climax-28-day-two/)

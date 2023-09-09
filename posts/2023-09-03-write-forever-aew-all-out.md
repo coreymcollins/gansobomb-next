@@ -9,7 +9,7 @@ excerpt: "A pay-per-view marred by Kevin Kelly."
 
 It's All Out 2023, the sequel to All Out 2023 and the spin-off of All In! This two PPVs in two weeks thing is a bit much, and the card feels a little undercooked but it's not like any of the matches should be bad – and, in fact, some of them should absolutely rip.
 
-### ROH Tag Team Titles: Better Than You Bay Bay vs Dark Order
+## ROH Tag Team Titles: Better Than You Bay Bay vs Dark Order
 
 The ROH Tag Titles start off the main show with Better Than You Bay Bay defending against the renewed and rude Dark Order. Can The Beaver Boys finally step into the spotlight that has eluded Dark Order for essentially their entire run sans Brodie Lee?
 
@@ -29,7 +29,7 @@ As Cole and the injured MJF make their way to the back, Samoa Joe enters for his
 
 If we're getting MJF vs Samoa Joe because CM Punk got himself fired, then hell fuckin' yeah buddy.
 
-### ROH TV Title: Samoa Joe vs Shane Taylor
+## ROH TV Title: Samoa Joe vs Shane Taylor
 
 BIG MEATY MEN SLAPPIN' MEAT.
 
@@ -41,7 +41,7 @@ Listen, I don't know what to say about this match – they beat the piss out of 
 
 I'm so glad Joe went from wearing a poncho at WrestleMania to this revitalizing run in AEW.
 
-### AEW TNT Title: Luchasaurus vs Darby Allin
+## AEW TNT Title: Luchasaurus vs Darby Allin
 
 Is lil Nick Wayne going to support Darby Allin from the corner, or will he cause the fall of the skeleton boy? Wayne is still a little peeved about Darby forgiving AR Fox after Fox committed a home invasion and burglary at Nick Wayne's house which, you know, I understand. Plus, after the split of Jurassic Express, Luchasaurus and Christian are probably looking for a new son.
 
@@ -61,7 +61,7 @@ Darby sets up for the Coffin Drop, but Christian grabs his attention by setting 
 
 Really fun stuff here with some more seeds of dissension to be laid between Darby and Nick. Was Darby truly going to let Nick get his brains scrambled just to win the TNT Title? Will Nick Wayne actually care about that at all?
 
-### Powerhouse Hobbs vs Miro
+## Powerhouse Hobbs vs Miro
 
 It's the second of two beef boys matches of the night, though I don't know if this one will live up to Joe/Taylor from earlier in the night.
 
@@ -89,7 +89,7 @@ Beautiful stuff. Just pure pro wrestling art. I'm going to be thinking about thi
 
 AEW should be required to have at least one beef boys match per show.
 
-### TBS Title: Kris Statlander vs Ruby Soho
+## TBS Title: Kris Statlander vs Ruby Soho
 
 It's a tough spot to follow Miro/Hobbs but I think they can do it.
 
@@ -111,7 +111,7 @@ With Saraya distracting the referee, Ruby grabs the spray paint but a wild Toni 
 
 Another fucking banger here, folks. Turns out when you have the women go out there and have fun, cool, competitive, hard-hitting matches you get fun, cool, competitive, hard-hitting matches!
 
-### Strap Match: Ricky Starks vs Bryan Danielson
+## Strap Match: Ricky Starks vs Bryan Danielson
 
 Ricky Steamboat on commentary!
 
@@ -145,7 +145,7 @@ Danielson applies the LeBell Lock in the ring and Starks won't quit. Dragon shif
 
 Simply amazing.
 
-### Eddie Kingston & Katsuyori Shibata vs Claudio Castagnoli & Wheeler Yuta
+## Eddie Kingston & Katsuyori Shibata vs Claudio Castagnoli & Wheeler Yuta
 
 Taz is here!
 
@@ -169,7 +169,7 @@ Maybe Eddie should have listened to Kawada...
 
 <Tweet tweetId="1698398847251132476" />
 
-### Kenny Omega vs Konosuke Takeshita
+## Kenny Omega vs Konosuke Takeshita
 
 Fuck, this show has so much on it.
 
@@ -195,7 +195,7 @@ Don misses his target, the screwdriver stuck in the mat. Omega hits a V-Trigger 
 
 Takeshita and Omega counter back and forth with victory rolls, but in the end it's a pair of Powerdrive knee strikes with the kneepad pulled down which lead Takeshita to the massive win.
 
-### Bullet Club Gold vs FTR & Young Bucks
+## Bullet Club Gold vs FTR & Young Bucks
 
 Bullet Club Gold is perfection.
 
@@ -215,7 +215,7 @@ The Bucks & FTR come together for some extremely fun double-team spots, includin
 
 A lot of fun stuff in this one that had its ebbs and flows as needed by this point in the show. Bullet Club Gold continue to dominate and look strong in everything they do.
 
-### AEW International Title: Orange Cassidy vs Jon Moxley
+## AEW International Title: Orange Cassidy vs Jon Moxley
 
 Both guys get the Goldberg walking-through-the-hallways entrance with their respective stablemates as we head into Orange Cassidy's first-ever AEW PPV main event.
 
