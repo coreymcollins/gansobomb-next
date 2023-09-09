@@ -41,7 +41,7 @@ The match itself was a lot of fun, though, and Sting looked far more mature in t
 
 Barry Windham is a guy who probably goes without the respect he deserves. He's so solid in the ring, he's a huge guy, and he bumps like a maniac if he so chooses. Growing up a WWF kid, I only really saw him in the fed for a short time and, sadly, the best thing about any of his runs there was the nickname "The Widowmaker". It's just such a bad-ass moniker.
 
-## Ranking of REWINDs
+### Ranking of REWINDs
 
 As a new little thing here, I'm going to start ranking the individual matches I've watched for this series. This won't include full shows like the first episode of Nitro, but just one-off matches. So let's go to the big board!
 

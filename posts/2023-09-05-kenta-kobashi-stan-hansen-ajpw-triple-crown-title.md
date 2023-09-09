@@ -71,7 +71,7 @@ I love the selling of the left arm as a means to take away Hansen's biggest move
 
 Kobashi looks great here as well, holding his own with the veteran just 8 years into his career. His strength in muscling Hansen up multiple times is just bewildering, especially the inside-out suplex from the apron.
 
-## Ranking of REWINDs
+### Ranking of REWINDs
 
 As a new little thing here, I'm going to start ranking the individual matches I've watched for this series. This won't include full shows like the first episode of Nitro, but just one-off matches. So let's go to the big board!
 

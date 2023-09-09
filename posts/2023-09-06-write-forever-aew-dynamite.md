@@ -11,7 +11,7 @@ The show opened up with the sweet sounds of *"Jane"* as Orange Cassidy made his 
 
 Cassidy paused on the ramp to watch his opponent from last Sunday make his entrance before exiting, pausing briefly next to AR Fox and Darby Allin as they made their entrance. Fox continued to the ring while Darby and OC exited to the back, leading to our opening contest.
 
-## International Title: Jon Moxley vs AR Fox
+### International Title: Jon Moxley vs AR Fox
 
 Fox was able to garner a bit of an advantage in the beginning with brief glimpses of hope here and there, but it was Moxley's brutality and overbearing offense keeping the challenger at bay. Just as Fox began to cook a little bit, Moxley cut him off with a King Kong Lariat and a Death Rider for the three count to retain the title.
 
@@ -19,7 +19,7 @@ A fine little opener but nothing to write home about for either man. It sounds l
 
 Post-match, Darby made his way back to Fox's side to help him up and raise his hand while Nick Wayne watched on from the big screen. Wayne turned to walk away, coming face to face with Christian and Luchasaurus. The TNT Champion didn't want any trouble – Christian offered his skills as a mentor to the young Wayne before vacating the scene, but not before asking Wayne to let his mother know he said hello. What a sweet guy!
 
-## TBS Title: Kris Statlander vs Emi Sakura
+### TBS Title: Kris Statlander vs Emi Sakura
 
 I'm sure Emi came to Dynamite with the rage of a thousand suns for not having been able to wear a fake mustache in Wembley Stadium.
 
@@ -29,7 +29,7 @@ This looked like as much a hard sell from Emi to prove why she should be feature
 
 Stat had enough at a certain point and powered up to drill Emi with the second discus lariat I've seen in two days, following with the Wednesday Night Fever to wrap things up and retain the title!
 
-## Story Time with Roderick Strong
+### Story Time with Roderick Strong
 
 In the greatest comeback story of 2023, Roderick Strong sat backstage in full Bob Ducca gear with The Kingdom by his side. He talked about his parents and his rough upbringing, detailing his mother's drug issues and his father's alcohol issues. Professional wrestling was the only place where Roderick felt good and whole – the most important thing in his life.
 
@@ -39,7 +39,7 @@ Roddy has his sights set on winning the entire Grand Slam tournament before beco
 
 In the ring, Roddy has always been great in his AEW run but this new twist of the jilted, jealous ex-best-friend is maybe one of the greatest character turnarounds I can remember seeing. I hope he never takes that neckbrace off!
 
-## Le Sex Gods vs Aussie Open
+### Le Sex Gods vs Aussie Open
 
 There are two stories to be told here: the growing uneasiness between Chris Jericho and Sammy Guevara and the former ROH Tag Team Champions, Aussie Open, trying to get back on the winning track.
 
@@ -57,7 +57,7 @@ Jericho was able to recover again and catch Fletcher with the Judas Effect for t
 
 Post-match, Sammy returned the favor and shoved Jericho away when The Ocho attempted to make amends. Guevara bailed through the crowd as a dejected Jericho looked on from the ring.
 
-## Ricky Starks is the fucking man
+### Ricky Starks is the fucking man
 
 Informative video package time!
 
@@ -65,11 +65,11 @@ With bits of footage from the incredible strap match with Bryan Danielson at All
 
 One of these days, it's gonna be Ricky Starks' time. I just hope it's not too far down the road because I'm already looking forward to the days of guys like Starks, Hobbs, Swerve Strickland, and Brody King holding the AEW World Heavyweight Title.
 
-## ~~Sister Wendy's~~ Don Callis' ~~American~~ Canadian Collection
+### ~~Sister Wendy's~~ Don Callis' ~~American~~ Canadian Collection
 
 Don Callis and Konosuke Takeshita were backstage with Renee Paquette and a covered easel, stating that they will unveil the artwork – and their next target – one week from tonight on Dynamite.
 
-## M-Joe-F. Is that anything?
+### M-Joe-F. Is that anything?
 
 In an in-ring promo, the World Heavyweight Champion at first complained about having to wrestle again on September 20 before realizing that September 20 is Grand Slam. In the backyard of The Devil, MJF was more than eager to step back into the ring.
 
@@ -95,7 +95,7 @@ But that wasn't all! Over the PA system we heard the sweet voice of Roderick Str
 
 Roddy and The Kingdom shot some verbal barbs at Cole as they made their way to the ring leading into a break.
 
-## Grand Slam Tournament: Roderick Strong vs Trent Beretta
+### Grand Slam Tournament: Roderick Strong vs Trent Beretta
 
 Sadly, Roderick didn't wrestle with the neckbrace on.
 
@@ -105,13 +105,13 @@ After clutching to the ropes to avoid further offense from Trent, Roderick came 
 
 Thankfully, The Kingdom rushed into the ring post-match to put the neckbrace back on Winner Roddy as they're apparently the only two other people in the company who care about Roderick's neck health.
 
-## The Illustrious Toni Storm
+### The Illustrious Toni Storm
 
 Renee was backstage with Toni Storm asking about Toni's involvement in Kris Statlander/Ruby Soho at All In leading to Ruby eating the loss against Stat. Toni brushed Renee off and then mentioned that we'd be getting a special look at her life next week.
 
 Toni exited with the catchphrase that will sweep the nation: "Chin up, tits out, watch for the shoe" before a shoe (from *someone*) came speeding towards Renee.
 
-## Swerve Boy Shit
+### Swerve Boy Shit
 
 In the ring, Tony Schiavone asked Hangman about his weekend. Hangman detailed his battle royale win and his donation of $50,000 to the Chicago Public School Fund.
 
@@ -129,7 +129,7 @@ This was enough to draw Page back into the ring, leading to Brian Cage clobberin
 
 Swerve Strickland vs Adam Page is extremely my shit, I just want this to be a moment for Swerve to move to that next step. I'm just not sure that's what we'll get, as it seems like we're in a rebuilding era for Hangman Page.
 
-## Grand Slam Tournament: Darby Allin vs Nick Wayne
+### Grand Slam Tournament: Darby Allin vs Nick Wayne
 
 I wondered, will this match will be equal parts good and insane? And as I did, Darby Allin flung his little body out of the ring like a sad little cannon ball with a topé suicida attempt on Nick Wayne *which missed* sending Darby flying into the guard rail at about 8,500 miles per hour.
 
