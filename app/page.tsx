@@ -11,8 +11,33 @@ export default function Home( props: any ) {
 		<PostPreview key={post.slug} {...post} />
 	))
 
+	const jsonLd = {
+        '@context': 'https://schema.org/',
+        '@type': 'Blog',
+        '@id': 'https://www.gansobomb.com/',
+        'mainEntityOfPage': 'https://www.gansobomb.com/',
+        'name': 'Ganso Bomb',
+        'description': 'Pro wrestling is life.',
+        'publisher': {
+            '@type': 'Organization',
+            '@id': 'https://www.gansobomb.com/',
+            'name': 'Ganso Bomb',
+            'logo': {
+                '@type': 'ImageObject',
+                '@id': 'https://www.gansobomb.com/images/ganso-bomb-fallback.webp',
+                'url': 'https://www.gansobomb.com/images/ganso-bomb-fallback.webp',
+                'width': '960',
+                'height': '640'
+            }
+        },
+    }
+
 	return (
 		<>
+			<script
+				type="application/ld+json"
+				dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+			/>
 			<div className="post-grid">
 				{postPreviews}
 			</div>
