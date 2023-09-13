@@ -4,7 +4,7 @@ date: "2023-09-12"
 category: "REWIND"
 tags: ["wrestling", "review", "REWIND", "ric-flair", "sting", "dick-slater", "great-muta", "nwa"]
 coverImage: "2023-09-12-rewind-ric-flair-sting-dick-slater-great-muta.webp"
-excerpt: "Unlikely partners Sting and Ric Flair take aim at Gary Hart's J-Tex Corporation consisting of Terry Funk and The Great Muta at Clash of the Champions VIII: Fall Brawl.."
+excerpt: "Unlikely partners Sting and Ric Flair take aim at Gary Hart's J-Tex Corporation consisting of Terry Funk and The Great Muta at Clash of the Champions VIII: Fall Brawl."
 ---
 
 One year later, almost to the day, that Sting unsuccessfully challenged Horseman Barry Windham for the United States Heavyweight Title, he finds himself on the opposite side of the ring with partner Ric Flair.
