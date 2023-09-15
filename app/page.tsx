@@ -16,6 +16,7 @@ export default function Home( props: any ) {
         '@type': 'Blog',
         '@id': 'https://www.gansobomb.com/',
         'mainEntityOfPage': 'https://www.gansobomb.com/',
+		'url': 'https://www.gansobomb.com/',
         'name': 'Ganso Bomb',
         'description': 'Pro wrestling is life.',
         'publisher': {
