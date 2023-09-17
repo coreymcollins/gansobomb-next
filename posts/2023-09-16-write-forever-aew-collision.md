@@ -51,7 +51,7 @@ After a hard-hitting match with great efforts from both guys, Andrade picked up 
 
 Jay introduced all members of Bullet Club Gold, including Cardblade, with nicknames except for the as-of-yet un-nicknamed Austin Gunn. Switchblade told Andrade that he didn't appreciate him watching his boys last week on Collision and laid out a challenge for a match between the two next week.
 
-## 
+## Main Event Stat
 
 The Hardys wrestled The Righteous and The Righteous won. Post-match, The Righteous talked about the devil and whatever and called out MJF & Adam Cole.
 
