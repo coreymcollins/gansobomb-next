@@ -37,7 +37,7 @@ Sags piledrove Buck in the center of one of the rings, Buck's feet touching the 
 
 Terry Funk, completely out of his mind, entered next and could barely contain his excitement. He first launched a chair at the side of the cage before removing his cowboy boot while trying to rip the door open. He flew into the action, swinging his cowboy boot wildly and connected with Dustin while also sending himself flying over the top rope and onto the two ring aprons.
 
-As the 30-second countdown hit, Sags piledrove Funk between the rings with Funk looking like he got spiked a little awkwardly on one apron. He fell between the two rings, disappearing into the abyss briefly before coming back up with a cowbell attached to a bull rope.
+As the 30-second countdown hit, Sags piledrove Funk between the rings with Funk looking like he got spiked a little awkwardly on one apron. He fell between the two rings, disappearing into the abyss briefly before coming back up with, I think, the belt from around his jeans.
 
 Brian Knobbs was in next and did the needful – he ran wild on everybody to the glee of the crowd while Colonel Robert Parker looked ready to shit his pants on the outside. My man had the full-body flop sweats counting down the seconds until he became a legal participant in the match.
 
