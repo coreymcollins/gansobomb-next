@@ -36,3 +36,6 @@ next-env.d.ts
 
 # playwright
 /playwright-report
+
+# rss
+/public/rss.xml
