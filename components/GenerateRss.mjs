@@ -20,6 +20,31 @@ function trimStringTo30Words( inputString ) {
   return trimmedString;
 }
 
+function convertedDate( dateString, lastEditedTime ) {
+    
+    const inputDate = new Date( dateString );
+
+    if ( isNaN( inputDate.getTime() ) ) {
+        return;
+    }
+    
+    const daysOfWeek = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+    const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  
+    const dayOfWeek = daysOfWeek[inputDate.getUTCDay()];
+    const day = inputDate.getUTCDate().toString().padStart(2, "0");
+    const month = months[inputDate.getUTCMonth()];
+    const year = inputDate.getUTCFullYear();
+    const hours = inputDate.getUTCHours().toString().padStart(2, "0");
+    const minutes = inputDate.getUTCMinutes().toString().padStart(2, "0");
+    const seconds = inputDate.getUTCSeconds().toString().padStart(2, "0");
+    const timeZoneAbbr = inputDate.toLocaleTimeString('en-US', { timeZoneName: 'short', timeZone: 'EST' }).split(' ')[2];
+  
+    const formattedDate = `${dayOfWeek}, ${day} ${month} ${year} ${lastEditedTime} EST`;
+
+    return formattedDate;
+}
+
 const getRssForAllPosts = () => {
 
 	const folder = path.join(process.cwd(), 'posts');
@@ -27,20 +52,28 @@ const getRssForAllPosts = () => {
 	const markdownPosts = files.filter( ( file ) => file.endsWith( '.md' ) );
 	
 	const posts = markdownPosts.map( ( filename ) => {
-		const fileContents = fs.readFileSync( `${folder}/${filename}`, 'utf8' );
+        const filePath = `${folder}/${filename}`;
+        const slug = filename.replace( '.md', '' );
+		const fileContents = fs.readFileSync( filePath, 'utf8' );
 		const matterResult = matter( fileContents );
-    const matterPostContent = matterResult.data.excerpt ? matterResult.data.excerpt : trimStringTo30Words( matterResult.content );
+        const matterPostContent = matterResult.data.excerpt ? matterResult.data.excerpt : trimStringTo30Words( matterResult.content );
+        const fileStats = fs.statSync( filePath );
+        const lastModifiedTime = fileStats.mtime;
+        const lastModifiedHours = lastModifiedTime.getHours().toString().padStart(2, '0');
+        const lastModifiedMinutes = lastModifiedTime.getMinutes().toString().padStart(2, '0');
+        const lastEditedTime = `${lastModifiedHours}:${lastModifiedMinutes}`;
 
 		return {
-			title: matterResult.data.title,
-			date: matterResult.data.date,
-			excerpt: matterPostContent,
-			link: `https://www.gansobomb.com/post/${ matterResult.data.slug }`,
+			title: `<![CDATA[ ${matterResult.data.title} ]]>`,
+            originalDate: matterResult.data.date,
+            date: convertedDate( matterResult.data.date, lastEditedTime ),
+			excerpt: `<![CDATA[ ${matterPostContent} ]]>`,
+			link: `https://www.gansobomb.com/posts/${ slug }`,
 		}
 	});
     
     posts.sort( ( a, b ) => {
-        if ( a.date < b.date ) {
+        if ( a.originalDate < b.originalDate ) {
             return 1;
         } else {
             return -1;
