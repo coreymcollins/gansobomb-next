@@ -38,7 +38,7 @@ const nextConfig = {
             },
             {
                 source: '/:number/:number/:number/:slug',
-                destination: '/posts/:number-:number-:number-:slug',
+                destination: '/',
                 permanent: true,
             },
             {
