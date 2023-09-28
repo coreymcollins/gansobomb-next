@@ -29,7 +29,7 @@ Any and every good thing for Eddie Kingston for the rest of his life.
 
 In the ongoing saga of Neck Health and Neck Health Awareness, Roderick Strong laid in a hospital bed with The Kingdom at his side. The Kingdom had to leave as Taven (I'M MATT TAVEN) explained that they had to prepare to become number one contenders for the ROH Tag Titles with Roddy wishing them good luck. Adam Cole arrived late and had a few words for Roddy before telling him he had to leave in support of MJF, to which Roddy complained.
 
-As Cole walked away, Roderick raised his incredibly noisy hospital bed reminiscent of WWE ruining then-Alistair Black's entrance by adding a creaky sound effect. He told Cole to just leave before lowering his bed back down.
+As Cole walked away, Roderick raised his incredibly noisy hospital bed reminiscent of WWE ruining then-Aleister Black's entrance by adding a creaky sound effect. He told Cole to just leave before lowering his bed back down.
 
 In a match I wasn't necessarily clamoring for, Chris Jericho defeated Sammy Guevara. Building off of all of the tumult within and around the Jericho Appreciation Society, Jericho and Guevara decided that the best move would be to face each other to settle their differences before setting their sights on tag team gold.
 
