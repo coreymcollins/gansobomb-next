@@ -1,5 +1,5 @@
 ---
-title: "Write Forever: WrestleDream"
+title: "Write Forever: Adam Elite Wrestling presents WrestleDream"
 date: "2023-10-01"
 category: "write-forever"
 tags: ["wrestling", "review", "aew", "wrestledream"]
