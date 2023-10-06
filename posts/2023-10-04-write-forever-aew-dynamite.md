@@ -1,5 +1,5 @@
 ---
-title: "Write Forever: Toniness is next to Timelessness"
+title: "Write Forever: On AEW Dynamite, Toniness is next to Timelessness"
 date: "2023-10-04"
 category: "write-forever"
 tags: ["wrestling", "review", "aew", "dynamite"]
