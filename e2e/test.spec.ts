@@ -22,6 +22,6 @@ test.describe( 'New Test', () => {
         await expect( page.locator( 'footer' ) ).toBeVisible()
     
         // Expect the site footer to have the expected text.
-        await expect( page.locator( 'p' ) ).toHaveText( 'Ganso Bomb' )
+        await expect( page.locator( 'footer p' ) ).toHaveText( 'Ganso Bomb' )
     })
 })
