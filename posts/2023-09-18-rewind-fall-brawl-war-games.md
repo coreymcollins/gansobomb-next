@@ -1,7 +1,7 @@
 ---
 title: "REWIND: War Games, Fall Brawl 1994"
 date: "2023-09-18"
-category: "REWIND"
+category: [ 'REWIND' ]
 tags: ["wrestling", "review", "REWIND", "war-games"]
 coverImage: "2023-09-18-rewind-fall-brawl-war-games.webp"
 excerpt: "Can a match look so bad on paper but actually end up turning out to be pretty fun when all is said and done? Fall Brawl: War Games puts that question to the test!"

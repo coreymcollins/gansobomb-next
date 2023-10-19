@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: AEW Dynamite Grand Slam 9/20/23"
 date: "2023-09-20"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "dynamite", "grand-slam"]
 coverImage: "2023-09-20-write-forever-aew-dynamite-grand-slam.webp"
 excerpt: "Can Samoa Joe become the new AEW World Heavyweight Champion, or is MJF going to right the wrong of being shoved in a hallway eight years ago?"

@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: An instant classic main event on AEW Collision"
 date: "2023-10-14"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "collision"]
 coverImage: "2023-10-14-write-forever-aew-collision.webp"
 excerpt: "Christian Cage and Bryan Danielson got themselves a big chunk of time for a main event and more than delivered, as did most of the rest of this episode of Collision!"

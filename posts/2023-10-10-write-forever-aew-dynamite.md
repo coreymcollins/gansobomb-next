@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: AEW Title Tuesday thrives with head-to-head competition"
 date: "2023-10-10"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "dynamite", "title-tuesday"]
 coverImage: "2023-10-10-write-forever-aew-dynamite.webp"
 excerpt: "Whether it's on Twitter or booking Dynamite, Tony Khan came out swinging today and we were all better for it. It's Title Tuesday!"

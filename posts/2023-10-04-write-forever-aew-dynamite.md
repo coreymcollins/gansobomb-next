@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: On AEW Dynamite, Toniness is next to Timelessness"
 date: "2023-10-04"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "dynamite"]
 coverImage: "2023-10-04-write-forever-aew-dynamite.webp"
 excerpt: "Put another penny in the swear jar, I know you meant no harm... but Christian did with his big bad F-Word!"

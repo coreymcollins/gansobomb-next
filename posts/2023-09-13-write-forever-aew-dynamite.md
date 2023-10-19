@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: AEW Dynamite 9/13/23"
 date: "2023-09-13"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "dynamite"]
 coverImage: "2023-09-13-write-forever-aew-dynamite.webp"
 excerpt: "NECK STRONG Roderick Strong battled Samoa Joe in the finals of the Grand Slam Eliminator Tournament. Did Roderick avenge his neck tonight ahead of avenging his former best friend next week at Grand Slam?"

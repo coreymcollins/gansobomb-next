@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: Adam Elite Wrestling presents WrestleDream"
 date: "2023-10-01"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "wrestledream"]
 coverImage: "2023-10-01-write-forever-aew-wrestledream.webp"
 excerpt: "The dream of Inoki is alive in Seattle as AEW presents the inaugural WrestleDream headlined by Christian Cage and Darby Allin in a battle for a belt and a boy's heart."

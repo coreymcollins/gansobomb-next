@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: AEW Dynamite 9/6/23"
 date: "2023-09-06"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "dynamite"]
 coverImage: "2023-09-06-write-forever-aew-dynamite.webp"
 excerpt: "The most important parts of wrestling to me right now are Ricky Starks, Swerve Strickland, Roderick Strong, and Roderick Strong's neck brace."

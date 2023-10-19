@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: AEW Collision 9/2/23"
 date: "2023-09-02"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "collision"]
 coverImage: "2023-09-02-write-forever-aew-collision.webp"
 excerpt: "The one where CM Punk gets fired."

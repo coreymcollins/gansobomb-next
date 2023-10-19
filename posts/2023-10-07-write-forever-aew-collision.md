@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: An Absolutely Big Episode of AEW Collision"
 date: "2023-10-07"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "collision"]
 coverImage: "2023-10-07-write-forever-aew-collision.webp"
 excerpt: "Ricky Starks and Big Bill (who I will now call Absolutely Big until a better name comes along) are your new Tag Team Champions and, baby, I love it."

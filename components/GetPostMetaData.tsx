@@ -22,6 +22,7 @@ const getPostsMetadata = (): PostMetaData[] => {
 			tags: matterResult.data.tags,
 			category: matterResult.data.category,
 			index: matterResult.data.index,
+			withFirstExcerpt: matterResult.data.withFirstExcerpt,
 		}
 	});
 

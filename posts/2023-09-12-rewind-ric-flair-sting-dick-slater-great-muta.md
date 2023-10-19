@@ -1,7 +1,7 @@
 ---
 title: "REWIND: Ric Flair & Sting vs Dick Slater & Great Muta"
 date: "2023-09-12"
-category: "REWIND"
+category: [ 'REWIND' ]
 tags: ["wrestling", "review", "REWIND", "ric-flair", "sting", "dick-slater", "great-muta", "nwa"]
 coverImage: "2023-09-12-rewind-ric-flair-sting-dick-slater-great-muta.webp"
 excerpt: "Unlikely partners Sting and Ric Flair take aim at Gary Hart's J-Tex Corporation consisting of Terry Funk and The Great Muta at Clash of the Champions VIII: Fall Brawl."

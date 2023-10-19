@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: AEW Collision 9/16/23"
 date: "2023-09-16"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "collision"]
 coverImage: "2023-09-16-write-forever-aew-collision.webp"
 excerpt: "Was Kris Statlander able to overcome Britt Baker with whatever you call hometown support when it's just the place where you went to college?"

@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: AEW Dynamite 9/27/23"
 date: "2023-09-27"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "dynamite"]
 coverImage: "2023-09-27-write-forever-aew-dynamite.webp"
 excerpt: "NO DANCING ALLOWED by decree of Swerve Strickland. Plus, the Impact/NXT Ninjas arrive in AEW and Christian Cage reveals his hatred for other dead family members."

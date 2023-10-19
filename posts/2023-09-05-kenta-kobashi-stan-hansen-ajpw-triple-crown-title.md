@@ -1,7 +1,7 @@
 ---
 title: "REWIND: Kenta Kobashi vs Stan Hansen"
 date: "2023-09-05"
-category: "REWIND"
+category: [ 'REWIND' ]
 tags: ["wrestling", "review", "REWIND", "AJPW", "kenta-kobashi", "stan-hansen"]
 coverImage: "2023-09-05-kenta-kobashi-stan-hansen-ajpw-triple-crown-title.webp"
 excerpt: "Stan Hansen wears a cowboy hat, vest, and chaps while Kenta Kobashi wears a spaceman's jacket and a smart haircut."

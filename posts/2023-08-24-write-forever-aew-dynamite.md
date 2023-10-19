@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: AEW Dynamite 8/23/23"
 date: "2023-08-23"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew",]
 coverImage: "2023-08-23-write-forever-aew-dynamite.webp"
 excerpt: "It's the final AEW Dynamite before All In at Wembley – let's see how long it takes Jon Moxley to start bleeding!"

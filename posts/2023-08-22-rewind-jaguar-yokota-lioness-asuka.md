@@ -1,7 +1,7 @@
 ---
 title: "REWIND: Jaguar Yokota vs Lioness Asuka"
 date: "2023-08-22"
-category: "REWIND"
+category: [ 'REWIND' ]
 tags: ["wrestling", "review", "REWIND", "AJW"]
 coverImage: "2023-08-22-rewind-jaguar-yokota-lioness-asuka.webp"
 excerpt: "Headlining AJW's Summer Night Festival in Budokan Hall, Jaguar Yokota defends the WWWA Title against Lioness Asuka."

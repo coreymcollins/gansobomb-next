@@ -1,7 +1,7 @@
 ---
 title: "REWIND: Sting vs Barry Windham, Fall Brawl '88"
 date: "2023-09-07"
-category: "REWIND"
+category: [ 'REWIND' ]
 tags: ["wrestling", "review", "REWIND", "WCW", "NWA", "sting", "barry-windham"]
 coverImage: "2023-09-07-sting-barry-windham-clash-of-the-champions-fall-brawl.webp"
 excerpt: "Can Sting's desire be what drives him to his first title in the NWA, or will Barry Windham stand tall at the end of Fall Brawl 1988?"

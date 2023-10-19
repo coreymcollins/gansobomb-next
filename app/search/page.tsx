@@ -63,11 +63,11 @@ export default function SearchPage( props: any ) {
     
     return (
         <>
-            <div className="page-interior">
-                <h2>{searchQueryHeading}</h2>
-            </div>
-            <div className="post-grid">
-                { postPreviews }
+            <div className="posts-section">
+                <h2 className="section-heading">{searchQueryHeading}</h2>
+                <div className="section-grid">
+                    { postPreviews }
+                </div>
             </div>
             <PaginationControls
 				hasNextPage={allSearchParams.end < foundPosts.length}

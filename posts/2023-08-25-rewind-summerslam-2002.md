@@ -1,7 +1,7 @@
 ---
 title: "REWIND: Brock Lesnar vs The Rock"
 date: "2023-08-25"
-category: "REWIND"
+category: [ 'REWIND' ]
 tags: ["wrestling", "review", "REWIND", "WWE", "Summerslam"]
 coverImage: "2023-08-25-rewind-summerslam-2002.webp"
 excerpt: "Just 5 months after debuting as a monster destroying everything in his path, Brock Lesnar takes on The Rock for the WWE Undisputed Championship."

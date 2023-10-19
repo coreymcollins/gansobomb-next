@@ -4,7 +4,7 @@ import Image from "next/image";
 import PostDate from './Date';
 
 const PostPreview = ( props: PostMetaData ) => {
-    const { index } = props;
+    const { index, withFirstExcerpt } = props;
     let loadingType: 'lazy' | 'eager' | undefined = undefined;
     if ( '0' === index || '1' === index || '2' === index ) {
         loadingType = 'eager'
@@ -27,6 +27,12 @@ const PostPreview = ( props: PostMetaData ) => {
                 }
                 <h2>{props.title}</h2>
                 <PostDate dateString={props.date} />
+                {
+                    undefined !== withFirstExcerpt && true === withFirstExcerpt && '0' === index ?
+                        <p className="post-excerpt">{ props.excerpt }</p>
+                    :
+                        undefined
+                }
             </Link>
         </article>
     )

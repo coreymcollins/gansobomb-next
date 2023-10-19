@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: Collision is a blanket and warm glass of milk before WrestleDream"
 date: "2023-09-30"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "collision"]
 coverImage: "2023-09-30-write-forever-aew-collision.webp"
 excerpt: "Just what did all of the good wrestle boys and girls get up to less then 24 hours before WrestleDream in Seattle?"

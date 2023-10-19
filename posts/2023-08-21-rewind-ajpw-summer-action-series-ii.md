@@ -1,7 +1,7 @@
 ---
 title: "REWIND: AJPW Summer Action Series II"
 date: "2023-08-21"
-category: "REWIND"
+category: [ 'REWIND' ]
 tags: ["wrestling", "review", "REWIND", "AJPW"]
 coverImage: "08-21-2023-rewind-ajpw-summer-action-series-ii.webp"
 excerpt: "A couple of months removed from Mitsuharu Misawa making his mark by defeating Jumbo Tsuruta, they come face to face once again – this time in a six-man tag match."

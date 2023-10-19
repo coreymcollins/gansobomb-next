@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: AEW Collision 9/9/23"
 date: "2023-09-09"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "collision"]
 coverImage: "2023-09-09-write-forever-aew-collision.webp"
 excerpt: "A perfectly fine episode of Collision, but definitely not one for the books. The Grand Slam Tournament continues on with Roderick Strong and Samoa Joe advancing to the finals."

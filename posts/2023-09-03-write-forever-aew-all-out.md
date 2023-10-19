@@ -1,7 +1,7 @@
 ---
 title: "Write Forever: AEW All Out 9/3/23"
 date: "2023-09-03"
-category: "write-forever"
+category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "all-out"]
 coverImage: "2023-09-02-write-forever-aew-all-out.webp"
 excerpt: "A pay-per-view marred by Kevin Kelly."

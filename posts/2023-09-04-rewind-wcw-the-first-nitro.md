@@ -1,7 +1,7 @@
 ---
 title: "REWIND: The First Nitro 9/4/1995"
 date: "2023-09-04"
-category: "REWIND"
+category: [ 'REWIND' ]
 tags: ["wrestling", "review", "REWIND", "WCW", "Nitro"]
 coverImage: "2023-09-04-rewind-wcw-the-first-nitro.webp"
 excerpt: "Do you like malls? Pasta? Professional wrestling? Then this is the show for you!"

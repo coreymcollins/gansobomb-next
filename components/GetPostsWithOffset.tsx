@@ -1,4 +1,7 @@
-function getPostsWithOffset( posts: any[], numberOfPosts: number, offset: number ) {
+function getPostsWithOffset( posts: any[], options: {offset: number, numberOfPosts: number } ) {
+
+    let { offset, numberOfPosts } = options;
+
     if ( offset < 0 ) {
         offset = 0
     } else if ( offset >= posts.length ) {

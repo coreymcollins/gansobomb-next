@@ -1,7 +1,7 @@
 ---
 title: "REWIND: Terry Funk vs Bret Hart, 50 Years of Funk"
 date: "2023-09-11"
-category: "REWIND"
+category: [ 'REWIND' ]
 tags: ["wrestling", "review", "REWIND", "terry-funk", "bret-hart"]
 coverImage: "2023-09-11-rewind-terry-funk-bret-hart-50-years-of-funk.webp"
 excerpt: "Terry Funk retires for what is definitely the last time in a match against Bret Hart on an unprecedented card which brought together wrestlers from different promotions around the world."
