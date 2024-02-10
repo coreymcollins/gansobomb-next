@@ -3,7 +3,7 @@ title: "Write Forever: Big Business, After The Shakeup"
 date: "2024-02-07"
 category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "dynamite"]
-coverImage: "2024-02-07-write-forever-aew-dynamite.webp"
+coverImage: "2024-02-07-write-forever-aew-dynamite-updated.webp"
 excerpt: "Can Sting and his son Darby Allin achieve Sting's life-long goal of becoming an AEW World Tag Team Champion? Only one way to find out as we inch closer to BIG BUSINESS!"
 ---
 
