@@ -17,7 +17,7 @@ export async function generateMetadata(): Promise<Metadata> {
         openGraph : {
             title: metaTitle,
             description: metaDescription,
-            url: 'https://www.gansobomb.com/',
+            url: 'https://www.gansobomb.com',
             siteName: metaTitle,
             images: [
                 {
@@ -36,9 +36,6 @@ export async function generateMetadata(): Promise<Metadata> {
             description: metaDescription,
             images: metaImage,
         },
-        alternates: {
-            canonical: '/'
-        }
     }    
 }
 

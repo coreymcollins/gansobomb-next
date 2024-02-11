@@ -46,14 +46,14 @@ export default function Home( props: any ) {
 	const jsonLd = {
         '@context': 'https://schema.org/',
         '@type': 'Blog',
-        '@id': 'https://www.gansobomb.com/',
-        'mainEntityOfPage': 'https://www.gansobomb.com/',
-		'url': 'https://www.gansobomb.com/',
+        '@id': 'https://www.gansobomb.com',
+        'mainEntityOfPage': 'https://www.gansobomb.com',
+		'url': 'https://www.gansobomb.com',
         'name': 'Ganso Bomb',
         'description': 'Pro wrestling is life.',
         'publisher': {
             '@type': 'Organization',
-            '@id': 'https://www.gansobomb.com/',
+            '@id': 'https://www.gansobomb.com',
             'name': 'Ganso Bomb',
             'logo': {
                 '@type': 'ImageObject',

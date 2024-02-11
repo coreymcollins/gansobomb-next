@@ -68,49 +68,47 @@ const postSingle = ( props: any ) => {
 
     const jsonLd = {
         '@context': 'https://schema.org/',
-        '@type': 'Blog',
-        '@id': 'https://www.gansobomb.com/',
-        'mainEntityOfPage': 'https://www.gansobomb.com/',
-        'name': 'Ganso Bomb',
-        'description': 'Pro wrestling is life.',
-        'publisher': {
-            '@type': 'Organization',
-            '@id': 'https://www.gansobomb.com/',
-            'name': 'Ganso Bomb',
-            'logo': {
-                '@type': 'ImageObject',
-                '@id': 'https://www.gansobomb.com/images/ganso-bomb-fallback.webp',
-                'url': 'https://www.gansobomb.com/images/ganso-bomb-fallback.webp',
-                'width': '960',
-                'height': '640'
-            }
+        '@type': 'BlogPosting',
+        '@id': `https://www.gansobomb.com/posts/${ slug }/`,
+        'mainEntityOfPage': `https://www.gansobomb.com/posts/${ slug }/`,
+        'headline': post.data.title,
+        'name': post.data.title,
+        'description': post.data.excerpt,
+        'datePublished': post.data.date,
+        'dateModified': post.data.date,
+        'author': {
+            '@type': 'Person',
+            '@id': 'https://www.gansobomb.com',
+            'name': 'Corey Collins'
         },
-        'blogPost': [
-            {
-                '@type': 'BlogPosting',
-                '@id': `https://www.gansobomb.com/posts/${ slug }/`,
-                'mainEntityOfPage': `https://www.gansobomb.com/posts/${ slug }/`,
-                'headline': post.data.title,
-                'name': post.data.title,
-                'description': post.data.excerpt,
-                'datePublished': post.data.date,
-                'dateModified': post.data.date,
-                'author': {
-                    '@type': 'Person',
-                    '@id': 'https://www.gansobomb.com/',
-                    'name': 'Corey Collins'
-                },
-                'image': {
+        'image': {
+            '@type': 'ImageObject',
+            '@id': `https://www.gansobomb.com/images/${ post.data.coverImage }`,
+            'url': `https://www.gansobomb.com/images/${ post.data.coverImage }`,
+            'height': '960',
+            'width': '640'
+        },
+        "url": `https://www.gansobomb.com/posts/${ slug }/`,
+        "keywords": tags,
+        'isPartOf': {
+            '@type': 'Blog',
+            '@id': 'https://www.gansobomb.com',
+            'mainEntityOfPage': 'https://www.gansobomb.com',
+            'name': 'Ganso Bomb',
+            'description': 'Pro wrestling is life.',
+            'publisher': {
+                '@type': 'Organization',
+                '@id': 'https://www.gansobomb.com',
+                'name': 'Ganso Bomb',
+                'logo': {
                     '@type': 'ImageObject',
-                    '@id': `https://www.gansobomb.com/images/${ post.data.coverImage }`,
-                    'url': `https://www.gansobomb.com/images/${ post.data.coverImage }`,
-                    'height': '960',
-                    'width': '640'
-                },
-                "url": `https://www.gansobomb.com/posts/${ slug }/`,
-                "keywords": tags
+                    '@id': 'https://www.gansobomb.com/images/ganso-bomb-fallback.webp',
+                    'url': 'https://www.gansobomb.com/images/ganso-bomb-fallback.webp',
+                    'width': '960',
+                    'height': '640'
+                }
             },
-        ]
+        }
     }
 
     return (
