@@ -56,8 +56,9 @@ export default function SearchPage( props: any ) {
     const searchQuery = props.searchParams.query
     const foundPosts = mySearchResults( searchQuery )
     const pagedResults = foundPosts.slice( allSearchParams.start, allSearchParams.end )
-	const postPreviews = pagedResults.map( ( post ) => (
-        <PostPreview key={post.slug} {...post} />
+    const startIndex = 1000;
+	const postPreviews = pagedResults.map( ( post, index ) => (
+        <PostPreview key={post.slug} {...post} index={(index + startIndex).toString()} />
         ))
     const searchQueryHeading = searchQuery ? `Search Results for "${searchQuery}"` : 'Please provide a search query'
     

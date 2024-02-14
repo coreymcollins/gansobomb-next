@@ -8,8 +8,9 @@ export function TermArchivePage(props: { searchParams: any, params: { slug: stri
     const allSearchParams = getSearchParams(props.searchParams);
     const foundPosts = getAllPostsByTerm(tax, props.params.slug);
     const pagedPosts = foundPosts.slice(allSearchParams.start, allSearchParams.end);
-    const postPreviews = pagedPosts.map((post) => (
-        <PostPreview key={post.slug} {...post} />
+    const startIndex = 1000;
+    const postPreviews = pagedPosts.map(( post, index ) => (
+        <PostPreview key={post.slug} {...post} index={(index + startIndex).toString()} />
     ));
     const titleVariation = 'tags' === tax ? 'tagged' : 'categorized';
     const linkVariation = 'tags' === tax ? 'tag' : 'category';

@@ -6,7 +6,7 @@ import PostDate from './Date';
 const PostPreview = ( props: PostMetaData ) => {
     const { index, withFirstExcerpt } = props;
     let loadingType: 'lazy' | 'eager' | undefined = undefined;
-    if ( '0' === index || '1' === index || '2' === index ) {
+    if ( '1000' === index || '1001' === index || '1002' === index ) {
         loadingType = 'eager'
     }
 

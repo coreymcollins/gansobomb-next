@@ -8,8 +8,9 @@ export default function Home( props: any ) {
     const allSearchParams = getSearchParams( props.searchParams )
 	const foundPosts = getPostsMetadata()
 	const pagedPosts = foundPosts.slice( allSearchParams.start, allSearchParams.end )
+    const startIndex = 1000
 	const postPreviews = pagedPosts.map( ( post, index ) => (
-		<PostPreview key={post.slug} {...post} index={index.toString()} />
+		<PostPreview key={post.slug} {...post} index={(index + startIndex).toString()} />
 	))
 
 	const jsonLd = {

@@ -6,8 +6,9 @@ import Link from 'next/link';
 
 export default function Home( props: any ) {
 	const foundPosts = getPostsMetadata().slice( 0, 3 )
+	const startIndex = 1000
 	const postPreviews = foundPosts.map( ( post, index ) => (
-		<PostPreview key={post.slug} {...post} index={index.toString()} withFirstExcerpt={true} />
+		<PostPreview key={post.slug} {...post} index={(index + startIndex).toString()} withFirstExcerpt={true} />
 	))
 
 	// Set our offset and posts-getting counts.
