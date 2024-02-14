@@ -3,6 +3,45 @@ import getPostsMetadata from '@/components/GetPostMetaData';
 import PaginationControls from '@/components/PaginationControls';
 import PostPreview from '@/components/PostPreview';
 import { getSearchParams } from '@/components/SearchParams';
+import type { Metadata } from 'next';
+
+export async function generateMetadata( props: any ): Promise<Metadata> {
+    const slug = props.params.slug;
+    const metaTitle = 'Archived posts on Ganso Bomb'
+    const metaDescription = 'View archived posts on Ganso Bomb'
+    const metaImage = '/images/ganso-bomb-fallback.webp'
+
+    return {
+        metadataBase: new URL( 'https:/www.gansobomb.com/' ),
+        title: metaTitle,
+        description: metaDescription,
+        openGraph : {
+            title: metaTitle,
+            description: metaDescription,
+            url: `https://www.gansobomb.com/archive`,
+            siteName: 'Ganso Bomb',
+            images: [
+                {
+                    url: metaImage,
+                    width: 960,
+                    height: 640,
+                    alt: metaTitle,
+                }
+            ],
+            type: 'website',
+            locale: 'en_US',
+        },
+        twitter: {
+            card: 'summary_large_image',
+            title: metaTitle,
+            description: metaDescription,
+            images: metaImage,
+        },
+        alternates: {
+            canonical: `https://www.gansobomb.com/archive`,
+        }
+    }    
+}
 
 export default function Home( props: any ) {
     const allSearchParams = getSearchParams( props.searchParams )

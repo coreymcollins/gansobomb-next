@@ -1,6 +1,6 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { SpeedInsights } from '@vercel/speed-insights/next'
 import PageHeader from '@/components/PageHeader'
 import PageFooter from '@/components/PageFooter'
 
@@ -36,6 +36,9 @@ export async function generateMetadata(): Promise<Metadata> {
             description: metaDescription,
             images: metaImage,
         },
+        alternates: {
+            canonical: '/',
+        }
     }    
 }
 
