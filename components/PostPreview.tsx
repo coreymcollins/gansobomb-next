@@ -28,7 +28,7 @@ const PostPreview = ( props: PostMetaData ) => {
                 <h2>{props.title}</h2>
                 <PostDate dateString={props.date} />
                 {
-                    undefined !== withFirstExcerpt && true === withFirstExcerpt && '0' === index ?
+                    undefined !== withFirstExcerpt && true === withFirstExcerpt && '1000' === index ?
                         <p className="post-excerpt">{ props.excerpt }</p>
                     :
                         undefined
