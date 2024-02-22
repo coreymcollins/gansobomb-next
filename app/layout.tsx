@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import { SpeedInsights } from '@vercel/speed-insights/next'
 import PageHeader from '@/components/PageHeader'
 import PageFooter from '@/components/PageFooter'
+import { Analytics } from '@vercel/analytics/react';
 
 export async function generateMetadata(): Promise<Metadata> {
 
@@ -11,7 +12,7 @@ export async function generateMetadata(): Promise<Metadata> {
     const metaImage = 'https://www.gansobomb.com/images/ganso-bomb-fallback.webp'
 
     return {
-        metadataBase: new URL( 'https:/www.gansobomb.com' ),
+        metadataBase: new URL( 'https://www.gansobomb.com' ),
         title: metaTitle,
         description: metaDescription,
         openGraph : {
@@ -57,6 +58,7 @@ export default function RootLayout({
                 </main>
                 <PageFooter />
                 <SpeedInsights />
+                <Analytics />
             </body>
         </html>
     )
