@@ -119,6 +119,10 @@ const postSingle = ( props: any ) => {
             />
             <article className="post-single">
                 <div className="post-single-header">
+                    <div className="post-title-container">
+                        <h1>{post.data.title}</h1>
+                        <PostDate dateString={post.data.date} />
+                    </div>
                     {post.data.coverImage &&
                         <Image
                             src={`/images/${post.data.coverImage}`}
@@ -129,10 +133,6 @@ const postSingle = ( props: any ) => {
                             quality={100}
                         />
                     }
-                    <div className="post-title-container">
-                        <h1>{post.data.title}</h1>
-                        <PostDate dateString={post.data.date} />
-                    </div>
                 </div>
                 <div className="post-single-content">
                     <MarkdownRenderer content={post.content} />
