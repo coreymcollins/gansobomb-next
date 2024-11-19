@@ -100,22 +100,34 @@ ul {
   font-family: 'IBM Plex Serif Regular';
 }
 
-ol,
-ul {
+article ol,
+article ul {
   font-size: 1.25rem;
   list-style-position: inside;
   margin: 1.25rem 0;
 }
 
-ol li + li,
-ul li + li {
+article ol li + li,
+article ul li + li {
   line-height: 1.75rem;
   margin-top: 1rem;
 }
 
+.menu-navigation-list {
+  display: grid;
+  gap: 1rem;
+  list-style-type: none;
+  text-align: center;
+}
+
+.menu-navigation-list li {
+  display: inline-block;
+}
+
 header a,
 .post-single-content a,
-.pagination-container a {
+.pagination-container a,
+footer a {
   text-decoration: underline;
   transition: 400ms;
 }
@@ -134,19 +146,33 @@ header a:focus,
   text-underline-offset: 0.25em;
 }
 
-.post-single-content a {
+.post-single-content a,
+footer a {
   text-underline-offset: 0.3em;
 }
 
 .post-single-content a:hover,
 .post-single-content a:active,
-.post-single-content a:focus {
+.post-single-content a:focus,
+footer a:hover,
+footer a:active,
+footer a:focus {
   text-underline-offset: 0.15em;
+}
+
+.footer-bottom {
+  border-top: 1px solid var(--callout-rgb);
+  margin-top: 2rem;
+  padding-top: 2rem;
 }
 
 footer p {
   font-size: 2rem;
   margin-bottom: 2rem;
+}
+
+footer a {
+  font-size: 1.25rem;
 }
 
 .page-interior {
@@ -362,17 +388,29 @@ iframe[src*='youtube'] {
     margin-bottom: 0;
   }
 
-  footer {
+  .footer-top,
+  .footer-bottom {
     align-items: baseline;
     display: grid;
     gap: 0.5rem;
     grid-template-columns: max-content 1fr;
-    justify-items: end;
     text-align: left;
+  }
+  
+  .footer-top {
+    justify-items: end;
   }
 
   footer p {
     margin-bottom: 0;
+  }
+
+  .menu-navigation-list {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: max-content 1fr;
+    list-style-type: none;
+    text-align: left;
   }
 }
 
