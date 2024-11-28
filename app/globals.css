@@ -92,6 +92,11 @@ footer {
   text-align: center;
 }
 
+.align-center-image {
+  display: block;
+  margin: 0 auto;
+}
+
 header h1,
 header .h1,
 p,

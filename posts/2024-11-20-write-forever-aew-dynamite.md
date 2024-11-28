@@ -45,7 +45,7 @@ The post-match beating on OC gave Yuta a little more of that ruthless streak, bu
 
 ## Wrapping Up
 
-Mark Davis' gutwrench piledriver is digusting and it fucking rules.
+Mark Davis' gutwrench piledriver is disgusting and it fucking rules.
 
 Claudio Castagnoli's _Feats of Strength_ against Darby Allin were a sight to behold. The match was a little clunky at times, but overall served as a reminder of how insane both Claudio and Darby are. I'm still firm that Darby will end up being the one to take the World Title off of Mox, but I do hope Tony remembers that Death Riders are also the Trios Champions and begins to build up a trios team to, if not take the titles off of them, to at least give them a credible feud.
 
