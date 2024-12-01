@@ -2,7 +2,7 @@
 title: "Write Forever: The Continental Classic is finally back on AEW Dynamite for November 27"
 date: "2024-11-27"
 category: [ 'write-forever' ]
-tags: ["wrestling", "review", "aew", "dynamite"]
+tags: ["wrestling", "review", "aew", "dynamite", "continental-classic", "continental-classic-2024"]
 coverImage: "2024-11-27-write-forever-aew-dynamite.webp"
 excerpt: "Continental Classic time is my favorite time of the year in AEW, but it didn't start off quite as hot as I would have hoped."
 ---
