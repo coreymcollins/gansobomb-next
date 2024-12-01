@@ -1,6 +1,6 @@
 ---
 title: "Write Forever: Daniel Garcia proved he belongs in the main event on AEW Collision for November 30"
-date: "2024-11-27"
+date: "2024-11-30"
 category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "collision", "continental-classic", "continental-classic-2024"]
 coverImage: "2024-11-30-write-forever-aew-dynamite.webp"
