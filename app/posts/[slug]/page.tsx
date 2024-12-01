@@ -156,7 +156,7 @@ const postSingle = ( props: any ) => {
                                 { tags.map( (tag: any) => (
                                     <li key={tag} className="term-list-item">
                                         <Link href={`/tag/${tag}`} className="term-link">
-                                            {tag.replace( '-', ' ' )}
+                                            {tag.replaceAll( '-', ' ' )}
                                         </Link>
                                     </li>
                                 ))}
