@@ -24,6 +24,7 @@ export default function HeaderText() {
 
             <div className="footer-bottom">
                 <ul className="menu-navigation-list">
+                    <li><Link href="/rss.xml">RSS Feed</Link></li>
                     <li><Link href="/write-forever">Write Forever Archives</Link></li>
                     <li><Link href="/rewind">REWIND Archives</Link></li>
                 </ul>

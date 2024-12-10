@@ -413,7 +413,7 @@ iframe[src*='youtube'] {
   .menu-navigation-list {
     display: grid;
     gap: 1rem;
-    grid-template-columns: max-content 1fr;
+    grid-template-columns: repeat(3, auto);
     list-style-type: none;
     text-align: left;
   }
