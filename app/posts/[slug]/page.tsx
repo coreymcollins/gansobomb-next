@@ -5,6 +5,7 @@ import MarkdownRenderer from '@/components/MarkdownRenderer';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import getPostContent from '@/components/GetPostContent';
+import AEWMatchRankings2025 from '@/components/AEWMatchRankings2025';
 
 export const generateStaticParams = async () => {
     const posts = getPostsMetadata();
@@ -136,6 +137,11 @@ const postSingle = ( props: any ) => {
                 </div>
                 <div className="post-single-content">
                     <MarkdownRenderer content={post.content} />
+
+                    {
+                        tags.includes( 'aew-match-rankings' ) &&
+                        <AEWMatchRankings2025 />
+                    }
                     
                     {
                         category &&
