@@ -4,22 +4,26 @@ export default function AEWMatchRankings2025() {
             <br /><h2>Best AEW Matches of 2025</h2>
             <ol>
                 <li>"Hangman" Adam Page vs Orange Cassidy (Dynamite: January 1, 2025)</li>
+                <li>Swerve Strickland vs Ricochet (Dynamite: February 5, 2025)</li>
                 <li>Daniel Garcia vs Mark Briscoe: TNT Title (Collision: January 4, 2025)</li>
                 <li>Rated FTR vs Jon Moxley, Claudio Castagnoli, & Wheeler Yuta (Dynamite: January 1, 2025)</li>
                 <li>Roderick Strong vs Jay White vs Swerve Strickland (Dynamite: January 1, 2025)</li>
                 <li>Toni Storm vs Kris Statlander vs Willow Nightingale (Dynamite: January 8, 2025)</li>
                 <li>"Hangman" Adam Page vs Christopher Daniels: Texas Death Match (Collision: January 18, 2025)</li>
+                <li>Toni Storm vs Queen Aminata (Dynamite: February 5, 2025)</li>
                 <li>Private Party vs The Hurt Syndicate: Tag Team Titles (Dynamite: January 22, 2025)</li>
                 <li>PAC vs Komander (Collision: January 11, 2025)</li>
                 <li>Will Ospreay vs Buddy Matthews (Dynamite: January 8, 2025)</li>
                 <li>Toni Storm vs Deonna Purrazzo (Collision: January 4, 2025)</li>
                 <li>Women's Casino Gauntlet (Dynamite: January 15, 2025)</li>
+                <li>Hounds of Hell vs Konosuke Takeshita & Kyle Fletcher (Dynamite: February 5, 2025)</li>
                 <li>Jon Moxley vs Powerhouse Hobbs: World Title (Dynamite: January 15, 2025)</li>
                 <li>Swerve Strickland vs AR Fox (Dynamite: January 22, 2025)</li>
                 <li>FTR vs Jon Moxley & Wheeler Yuta: Mid-South Street Fight (Collision: February 1, 2025)</li>
                 <li>Jamie Hayter vs Julia Hart (Dynamite: January 22, 2025)</li>
                 <li>Cope vs PAC (Dynamite: January 22, 2025)</li>
                 <li>Jamie Hayter vs Julia Hart (Dynamite: January 1, 2025)</li>
+                <li>Will Ospreay vs Mark Davis (Dynamite: February 5, 2025)</li>
                 <li>Rated FTR vs The Learning Tree (Collision: January 4, 2025)</li>
                 <li>Private Party vs Lio Rush & Action Andretti: Tag Team Titles (Collision: January 4, 2025)</li>
                 <li>Daniel Garcia vs Katsuyori Shibata: TNT Title (Collision: January 11, 2025)</li>
@@ -50,7 +54,6 @@ export default function AEWMatchRankings2025() {
                 <li>Brody King vs Trevor Blackwell (Collision: January 11, 2025)</li>
                 <li>Dustin Rhodes vs Adam Priest (Collision: January 18, 2025)</li>
                 <li>"Hangman" Adam Page vs A Jobber (Dynamite: January 22, 2025)</li>
-                
             </ol>
         </>
     )
