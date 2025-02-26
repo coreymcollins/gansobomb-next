@@ -12,21 +12,19 @@ coverImage: "Stardom-World-Opening-Banner-2-960x640-1.jpg"
 
 _**UPDATE May 5, 2019: STARDOM World has launched a new version of their online service. I’ve tried signing up for the new service but when I submit my email address, I just never receive the confirmation. Not in my spam, not in my trash – nowhere! If I do ever receive that confirmation, though, I’ll try and post an updated version of this.**_
 
-There are a ton of ways to watch pro-wrestling these days, and I’ve covered them in the past. Leading up to and after this year’s WrestleMania, I was in a pretty steady downturn in my interest in wrestling. I had been a subscriber to NJPW World in the past and used a Chromecast to stream it to my TV, but my Chromecast crapped out a couple years back and I didn’t have an easy way to watch NJPW on my TV anymore. I’m not someone who likes to sit around watching things on my computer, so without an easy way to watch things like a normal person I let my subscription lapse and stayed out of the loop for a couple of years.
+There are a ton of ways to [watch pro-wrestling](/posts/2018-08-01-stop-paying-for-bad-wrestling) these days, and I’ve covered them in the past. Leading up to and after this year’s WrestleMania, I was in a pretty steady downturn in my interest in wrestling. I had been a subscriber to NJPW World in the past and used a Chromecast to stream it to my TV, but my Chromecast crapped out a couple years back and I didn’t have an easy way to watch NJPW on my TV anymore. I’m not someone who likes to sit around watching things on my computer, so without an easy way to watch things like a normal person I let my subscription lapse and stayed out of the loop for a couple of years.
 
 With WWE killing my love of wrestling, I knew I needed to look around for some alternatives to lift me out of my funk. After doing some quick research, I found out that NJPW now had an app on the Amazon Firestick – so I threw my money at directly at Amazon and had one of those suckers delivered. I’ve since ordered a second so I can have access to all of these wonderful streaming things in multiple rooms in the house. I’d recommend it if you’re into watching any or all of this stuff.
 
 Along with NJPW World having an app on the Firestick, the device also offers something that Apple TV doesn’t – the option to use a web browser. Because of that ability, I now also have subscriptions to a handful of services with websites but no dedicated apps including STARDOM World, Pro Wrestling EVE, and Sendai Girls.
 
-STARDOM was the second promotion I started paying for after re-upping my NJPW World subscription. It’s a promotion I’d always heard of and only tangentially knew about, mostly just knowing some names and watching a few matches here and there. Once NJPW’s G1 wrapped up, STARDOM kicked off their own round-robin tournament – the 5 Star Grand Prix. This seemed like the perfect time to get into a new promotion. Not only will I get to see a ton of matches where the outcomes all matter in a points-based tournament, but I’ll get to see the top names in STARDOM over the course of several weeks. Win-win!
+STARDOM was the second promotion I started paying for after re-upping my NJPW World subscription. It’s a promotion I’d always heard of and only tangentially knew about, mostly just knowing some names and watching a few matches here and there. Once [NJPW’s G1](/posts/2018-07-14-njpw-g1-climax-28-day-one) wrapped up, STARDOM kicked off their own round-robin tournament – the [5 Star Grand Prix](/posts/2018-08-13-preview-stardom-5-star-grand-prix-2018). This seemed like the perfect time to get into a new promotion. Not only will I get to see a ton of matches where the outcomes all matter in a points-based tournament, but I’ll get to see the top names in STARDOM over the course of several weeks. Win-win!
 
 The tournament has since wrapped up and I’m a STARDOM World subscriber for the long haul. We’re traveling to Tokyo in a couple of months for Wrestle Kingdom and are hoping to check out a STARDOM show while we’re there (and hopefully a DDT show, too). For now, though, I wanted to share some tips on how to use STARDOM World and what to expect from it. It’s a bit different from any of the other streaming services out there and some aspects of it really bummed me out at first, but I’ve actually grown to like those features – I’ll explain why in the sections below.
 
 So, you want to watch some of the best women’s wrestling on the planet from the comfort of your own home? Let’s do this!
 
-1
-
-## Signing Up
+## 1. Signing Up
 
 Get your Google Translate ready! Signing up for sites like this and NJPW World can always be a little confusing because the text and buttons don’t always translate exactly, but we’ll walk through it here to help you out.
 
@@ -70,9 +68,7 @@ Now that you’re in, you can jump back to stardom-world.com/home and check out 
 
 So, you’ve signed up. Now the only thing left to do is watch! You can watch right from the browser on your laptop, but what if you want to do it another way?
 
-2
-
-## How To Watch
+## 2. How To Watch
 
 One of the biggest things holding me back from subscribing to a bunch of different wrestling streaming services was the severe lack of apps available. In our house, we had a couple of smart TVs as well as an Apple TV and PS4. Unfortunately, there aren’t a ton of options for easy streaming with those options alone. You can get Powerbomb.tv on an Apple TV as well as Roku which is fantastic, but it wasn’t until I learned that NJPW World had an app on the Amazon Firestick that I decided to pick one of those up, too.
 
@@ -82,9 +78,7 @@ This is fantastic because for services like STARDOM World, Sendai Girls, and Pr
 
 Now that you know what you’re going to use to watch STARDOM, _how_ do the shows actually make their way to you?
 
-3
-
-## Content Delivery
+## 3. Content Delivery
 
 Before I signed up for STARDOM World, the main issue I had with how I heard the service worked was that it uploaded matches one at a time as individual videos rather than uploading an entire show at once. This seemed like such a hassle to me, especially as someone who was coming from services like NJPW World and Powerbomb.tv who offer not only live streams but archives upon archives of full shows.
 
@@ -96,9 +90,7 @@ There are some other things to know about the way STARDOM does things, too. The 
 
 Turns out, this isn’t a major issue for me either. While I do see how a commentary team could help, especially with the quieter Japanese crowds, I don’t think that _not_ having commentary really takes away from anything. If nothing else, it just means you’ll hear every kick, chop, and forearm strike even more clearly because nobody will be talking over them.
 
-4
-
-## The Language Barrier
+## 4. The Language Barrier
 
 If you don’t speak Japanese, there’s always the question of whether or not you’ll be able to fully follow along the storylines from show to show. With NJPW (my base frame of reference for Japanese streaming wrestling, as I’m sure you’ve noticed) the storylines are often simple enough that you don’t need to understand the language to know why a rivalry exists. A lot of the time it boils down to someone having a title and someone else wants that title, and even in the case of more nuanced stories you can still piece things together if you’re paying attention.
 
@@ -110,9 +102,7 @@ Dialogue within matches isn’t always subtitled, but if it warrants then you’
 
 In-ring promos and the customary end-of-show promo are also subtitled, so there isn’t much that you’ll miss if you don’t speak the language! I’d say that STARDOM does a better job than NJPW at making their Japanese content accessible to foreigners. While NJPW does offer English commentary on most shows and does subtitle post-match interviews once they eventually pop up on YouTube, they don’t offer anything in the way of subtitling in-ring promos or video packages available on NJPW World. STARDOM World gives you everything you need to follow along in one place which is a huge, huge bonus and makes it super easy for a foreigner unfamiliar with the language to get right into the thick of things.
 
-5
-
-## Avoiding Spoilers
+## 5. Avoiding Spoilers
 
 This one is going to be tricky if you’re an avid Twitter user and want to actively stay up to date on all things STARDOM. STARDOM has both [Japanese](https://twitter.com/wwr_stardom) and [English](https://twitter.com/we_are_stardom) Twitter accounts, and if you’re following the English account you’ll want to avoid looking at your timeline during live shows. They do a great job at getting results out on Twitter – during events, tweets are hitting in real-time letting you know who won and how for every match on the card.
 

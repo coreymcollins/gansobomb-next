@@ -15,11 +15,11 @@ This week, my body no longer feels like that guy in RoboCop who gets exploded in
 
 ### A little rough, but a well-earned win for Willow Nightingale
 
-There were some shaky patches in the women's four-way match to name a number one contender for Julia Hart's TBS Title, but nothing that lingered too long or soured the match as a whole.
+There were some shaky patches in the women's four-way match to name a number one contender for [Julia Hart's](/posts/2023-12-31-5-reasons-why-aew-continental-classic) TBS Title, but nothing that lingered too long or soured the match as a whole.
 
 Mercedes Moné sat in on commentary which was _fine_ but not interesting or spectacular by any means. Honestly, most of Mercedes' promo work has been lacking since arriving in AEW and I'm eager to see her get in the ring to do the thing she does best.
 
-It feels like people on the internet (or maybe just in the places I frequent) have been expecting a heel turn from either Kris Statlander or Willow as a wrinkle in this whole Stokely Hathaway saga. I don't know that I necessarily want or need to see either of them turn, and at this point it feels like a turn from either may be less likely.
+It feels like people on the internet (or maybe just in the places I frequent) have been expecting a heel turn from either [Kris Statlander](/posts/2024-03-06-write-forever-aew-dynamite) or Willow as a wrinkle in this whole Stokely Hathaway saga. I don't know that I necessarily want or need to see either of them turn, and at this point it feels like a turn from either may be less likely.
 
 If I rub my temples hard enough to see the future, I'm sensing something along the lines of: Willow wins the TBS Title from Julia at Dynasty, teasing some dissension with Stat that hangs in the air for a little bit without anything actually happening. Maybe some miscommunications. In her quest for revenge for her loss to Willow for the NJPW Strong Women's Title, Mercedes challenges Willow for the TBS Title. Willow accepts, and it's there when Stokely – not Willow or Stat – turns giving the TBS Title to Mercedes.
 
@@ -31,7 +31,7 @@ Can you believe that the power of AEW Dynamite this week was on the professional
 
 ### Ospreay vs Shibata reminded me why it's so easy to love professional wrestling.
 
-It's been a long time since I've actively followed New Japan Pro Wrestling. I fell off sometime between Wrestle Kingdom 14 and 15, if I'm remembering correctly. So while I spent a lot of time watching NJPW for a good number of years, seeing guys like Will Ospreay, Kenny Omega, and Katsuyori Shibata somewhat regularly it's still completely wild to me that there exists in 2024 a wrestling promotion in the United States that gives us Ospreay, Omega, and Shibata on free weekly TV.
+It's been a long time since I've actively followed New Japan Pro Wrestling. I fell off sometime between [Wrestle Kingdom](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) 14 and 15, if I'm remembering correctly. So while I spent a lot of time watching NJPW for a good number of years, seeing guys like Will Ospreay, Kenny Omega, and Katsuyori Shibata somewhat regularly it's still completely wild to me that there exists in 2024 a wrestling promotion in the United States that gives us Ospreay, Omega, and Shibata on free weekly TV.
 
 There has likely never been a better time to be a fan of professional wrestling with how many options there are at our fingertips, especially now that quality professional wrestling on TV is alive in the US again. For a lot of years it was hard to love pro-wrestling due to the scraps we were getting in the US along with the hoops you often had to jump through to find and follow the good stuff. It's nice that it's easy to love pro-wrestling again.
 

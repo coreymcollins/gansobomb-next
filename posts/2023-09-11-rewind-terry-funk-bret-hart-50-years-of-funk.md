@@ -7,11 +7,11 @@ coverImage: "2023-09-11-rewind-terry-funk-bret-hart-50-years-of-funk.webp"
 excerpt: "Terry Funk retires for what is definitely the last time in a match against Bret Hart on an unprecedented card which brought together wrestlers from different promotions around the world."
 ---
 
-What a wild show to have happen in 1997 of all years! Just two months before the Montreal Screwjob would wrest the WWF World Heavyweight Title away from Bret Hart, The Hitman squared off with The Funker in Amarillo, Texas. With special guest referee Dennis Stamp!
+What a wild show to have happen in 1997 of all years! Just two months before the Montreal Screwjob would wrest the WWF World Heavyweight Title away from [Bret Hart](/posts/2019-02-23-wrestling-fans-afraid-competition), The Hitman squared off with The Funker in Amarillo, Texas. With special guest referee Dennis Stamp!
 
 How I've gone this many REWINDs without a Bret Hart match is beyond me, but here we are – and what a way to bring him into the fold.
 
-*"50 Years of Funk"* was just a wild little show on paper. It brought to it wrestlers from the WWF, ECW, and FMW where WWF wrestlers were obviously the odd ones out. Funk's histories in ECW and Japan were far more decorated than his history in the WWF. In all, Funk only spent a couple of years in the WWF – and one of those years happened after this retirement!
+*"50 Years of Funk"* was just a wild little show on paper. It brought to it wrestlers from the WWF, ECW, and FMW where WWF wrestlers were obviously the odd ones out. Funk's histories in ECW and Japan were far more decorated than his history in the WWF. In all, [Funk](/posts/2023-08-20-rewind-kawasaki-dream) only spent a couple of years in the WWF – and one of those years happened after this retirement!
 
 The festivities began with an in-ring ceremony in which Tommy Dreamer, Paul Heyman, and the ECW locker room presented Funk with the Lifetime Championship.
 

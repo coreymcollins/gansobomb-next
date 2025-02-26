@@ -9,13 +9,13 @@ excerpt: "Darby Allin and Will Ospreay had one of the nuttiest matches I can rem
 
 I'm stuffed full of enfrijoladas and ready for a holiday bash, bayyyy beeeee!
 
-We're closing in on the final weeks of the C2 and I don't know if my finals predictions are going to come through at this point. As of the start of the show, I think everything I laid out is still mathematically possible. I'm just not certain it's the direction they're going in with the various storylines in and out of the tournament.
+We're closing in on the final weeks of the [C2](/posts/2023-12-31-5-reasons-why-aew-continental-classic) and I don't know if my finals predictions are going to come through at this point. As of the start of the show, I think everything I laid out is still mathematically possible. I'm just not certain it's the direction they're going in with the various storylines in and out of the tournament.
 
-Tonight's Dynamite is a stacked card with a surprise Shibata appearance that I only learned about this afternoon. I'm probably looking most forward to Ospreay/Darby just because I know it's going to be a spectacle, but Shelton Benjamin vs The Beast Mortos has a real chance of being match of the night. Shelton has been fantastic since coming to AEW and Mortos is always the best.
+Tonight's Dynamite is a stacked card with a surprise Shibata appearance that I only learned about this afternoon. I'm probably looking most forward to Ospreay/Darby just because I know it's going to be a spectacle, but Shelton Benjamin vs [The Beast Mortos](/posts/2024-12-14-write-forever-aew-collision) has a real chance of being match of the night. Shelton has been fantastic since coming to AEW and Mortos is always the best.
 
 ## Anna Jay had the best match of her AEW career against Mercedes Moné
 
-Anna Jay has been on a solid run since coming back from her STARDOM sojourn earlier this year. Not only that, but it seems like her improving in-ring skills have endeared her to the crowds even more the past few months.
+[Anna Jay](/posts/2024-12-04-write-forever-aew-dynamite) has been on a solid run since coming back from her STARDOM sojourn earlier this year. Not only that, but it seems like her improving in-ring skills have endeared her to the crowds even more the past few months.
 
 Tonight, she challenged Mercedes Moné for the TBS Title and looked great even in defeat. It helped that the crowd was especially into basically everything both Anna and Mercedes did from bell to bell. There were a couple of nearfalls and near-submissions for Anna toward the end where she fully had the crowd in the palm of her hand.
 

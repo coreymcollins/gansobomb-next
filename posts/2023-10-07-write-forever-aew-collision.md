@@ -15,7 +15,7 @@ I burned my nachos trying to multitask feeding the dogs and getting dinner ready
 
 ### The Main Event Promo Era
 
-AEW doesn't tend to make a habit out of main eventing with a promo, but this is two shows in a row with Adam Copeland and Christian ending the show with a promo.
+AEW doesn't tend to make a habit out of main eventing with a promo, but this is two shows in a row with [Adam Copeland and Christian](/posts/2023-10-04-write-forever-aew-dynamite) ending the show with a promo.
 
 _Because_ AEW doesn't do this every week, I can be forgiving of them when they decide to go this route. I just hope that we don't start seeing this become a regular thing where the main event is headlined by talking and a brawl rather than a kick-ass wrestling match.
 
@@ -27,11 +27,11 @@ Sometimes Collision feels like too much filler, and this show was that at times.
 
 ### Some Killer Some Filler 
 
-There was nothing wrong with Bullet Club Gold vs Angelico, Metalik, and Gravity (aside from a couple of slips and awkward landings), but it's not necessarily the kind of match you tune into Collision to see. And listen, I love BCG and am crossing my fingers and toes that Jay White somehow walks out of Full Gear with the AEW World Heavyweight Title.
+There was nothing wrong with [Bullet Club Gold](/posts/2023-09-09-write-forever-aew-collision) vs Angelico, Metalik, and Gravity (aside from a couple of slips and awkward landings), but it's not necessarily the kind of match you tune into Collision to see. And listen, I love BCG and am crossing my fingers and toes that Jay White somehow walks out of Full Gear with the AEW World Heavyweight Title.
 
 But, if we're trying to make Collision feel like a big show every week then I don't know if it's enough to put your featured players against a random group of guys. Maybe I'm wrong, though!
 
-I have similar feelings about Toni Storm vs Kiera Hogan. I like Kiera a lot and wish she got to do more in AEW, but for whatever reason she's just been on the back burner for most of her run. Pulling her out to just be a sub for Willow or someone to eat a loss to establish Toni Storm's new character is disappointing.
+I have similar feelings about [Toni Storm](/posts/2023-10-04-write-forever-aew-dynamite) vs Kiera Hogan. I like Kiera a lot and wish she got to do more in AEW, but for whatever reason she's just been on the back burner for most of her run. Pulling her out to just be a sub for Willow or someone to eat a loss to establish Toni Storm's new character is disappointing.
 
 I understanding needing to build a new character and that not every match on the show can be a marquee match, but Kiera is someone who definitely deserves better than being remembered every 6 months or just so she can eat a loss.
 

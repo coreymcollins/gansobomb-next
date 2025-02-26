@@ -21,9 +21,9 @@ The lows aren't incredibly low, they're just lower than the rest of the show. I'
 
 Again, nothing that was a letdown or that was outright bad on the show tonight – but I'm trying to fill out these sections here.
 
-The Hook handicap match was really not much of anything. He beat The Outrunners and then hit the bricks. Good to keep him visible and on TV, but nothing to write home about.
+The Hook handicap match was really not much of anything. He beat [The Outrunners](/posts/2024-11-30-write-forever-aew-collision) and then hit the bricks. Good to keep him visible and on TV, but nothing to write home about.
 
-The Mark Briscoe promo was similarly fine with the interruption from The House of Black. I appreciate that the House of Black is delivering promos like real people instead of *only* doing extremely spooky lore dumps or whatever. I love lore, I love spooky – but at a certain point, we need a reason why these folks are spooky wrestling folks and not, I don't know, spooky carnival people or fortune tellers or something.
+The [Mark Briscoe](/posts/2025-01-04-write-forever-aew-collision) promo was similarly fine with the interruption from The House of Black. I appreciate that the House of Black is delivering promos like real people instead of *only* doing extremely spooky lore dumps or whatever. I love lore, I love spooky – but at a certain point, we need a reason why these folks are spooky wrestling folks and not, I don't know, spooky carnival people or fortune tellers or something.
 
 I enjoyed Malakai's line about making Mark disappear because it's his favorite magician's trick, which I am 1000% sure is leading to Nigel McGuinness joining the House of Black.
 
@@ -35,7 +35,7 @@ New signings, luchadores, and just a whole lot of great wrestling on a Saturday 
 
 ### The Bounty Hunter is All Elite
 
-Bryan Keith rules. There's no way two ways about it. I first became loosely familiar with him during the years we lived in Austin, Texas and it's a thrill to see him get so many chances to show out on AEW television as of late. There have been rumors and rumblings that he (along with the fantastic Queen Aminata, who has been similarly showcased lately) has been signed and I hope upon hope that rumor is actually true for both of them.
+[Bryan Keith](/posts/2025-02-01-write-forever-aew-collision) rules. There's no way two ways about it. I first became loosely familiar with him during the years we lived in Austin, Texas and it's a thrill to see him get so many chances to show out on AEW television as of late. There have been rumors and rumblings that he (along with the fantastic Queen Aminata, who has been similarly showcased lately) has been signed and I hope upon hope that rumor is actually true for both of them.
 
 You're never going to be disappointed in a Bryan Keith match, and pairing him with Eddie Kingston in a proving ground match was a great choice. It was an equally great choice to do this match in Texas so the crowd would get behind their home-state wrestler against the perennial fan favorite Eddie Kingston.
 

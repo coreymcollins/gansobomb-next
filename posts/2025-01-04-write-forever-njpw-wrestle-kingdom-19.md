@@ -11,7 +11,7 @@ I'm here – it's 2am local time and I'm running on the power of a 3-hour nap ju
 
 These days, though, I'm not a regular New Japan watcher. It used to be my main promotion, but with the advent of AEW (and a pretty lousy run that bored me into disinterest) I stopped watching the promotion. I still loosely follow it online but haven't watched a full NJPW show outside of Windy City Riot in the past year or so.
 
-I still can't believe we were there in person for Wrestle Kingdom 13. The Tokyo Dome is such a cool place and they really have the simple things like queues, rules for not being a dickhead during the show, and getting everyone to leave in an orderly fashion. Plus, the show was great too (as were the STARDOM & TJPW shows we saw prior).
+I still can't believe we were there in person for Wrestle Kingdom 13. The Tokyo Dome is such a cool place and they really have the simple things like queues, rules for not being a dickhead during the show, and getting everyone to leave in an orderly fashion. Plus, the show was great too (as were the [STARDOM](/posts/2018-09-29-stardom-5-star-grand-prix-2018-finals) & TJPW shows we saw prior).
 
 This year, I will be committing the cardinal sin of watching with English commentary so I'll have someone to explain the ongoing storylines to me. Long gone are the days where I was so engrossed in everything happening in New Japan that I could watch with Japanese commentary and still understand everything going on despite not knowing anymore than pleasantries in Japanese.
 
@@ -27,7 +27,7 @@ Toru Yano became the MVP Of the Ranbo when he eliminated the cooked pair of KENT
 
 Just 5 Guys is Just 4 Guys now and I hope they continue to lose enough Guys to the point that Just 1 Guy becomes a nickname for the last remaining member rather than the name of a stable. Imagine the collective sobbing across the globe when the remaining Guy eventually retires and proclaims there are now Just 0 Guys.
 
-In the end, Hirooki Goto won the match and, thus, a shot at the World Heavyweight Title. Was it good? Not really. Was it fun? Sort of.
+In the end, [Hirooki Goto](/posts/2018-08-02-njpw-g1-climax-28-day-twelve) won the match and, thus, a shot at the World Heavyweight Title. Was it good? Not really. Was it fun? Sort of.
 
 Maybe this year, maybe _this time_ will finally be Goto's chance to shine!
 
@@ -41,7 +41,7 @@ Just like a New Japan Dad, post-match I made a cup of tea and heated up my heati
 
 The opening four-team ladder match was fine – it was dangerous, it was scary, it was exciting, and it was fun. Nothing too revolutionary happening in terms of crazy ladder spots other than guys trying to find different ways to kill each other. I liked the finish of a guy being stuck in a submission at the top of the ladder while the other guy grabbed the belts.
 
-Mayu Iwatani and AZM had an excellent match, though I wish it were longer! I fell off of STARDOM around the same time I fell off of New Japan, but that was more because they changed their website and how they presented shows which made it incredibly inconvenient to watch on a TV. Plus, the last time I tried signing up for STARDOM World they wouldn't take my credit card. Boo!
+Mayu Iwatani and [AZM](/posts/2024-04-13-write-forever-aew-collision) had an excellent match, though I wish it were longer! I fell off of STARDOM around the same time I fell off of New Japan, but that was more because they changed their website and how they presented shows which made it incredibly inconvenient to watch on a TV. Plus, the last time I tried signing up for STARDOM World they wouldn't take my credit card. Boo!
 
 But, unsurprisingly Mayu and AZM kicked a lot of ass. I don't follow anything enough to know whether or not it's a bummer that AZM lost storyline-wise, but I do like her a ton and would have been perfectly happy to see her win the IWGP Women's Title.
 

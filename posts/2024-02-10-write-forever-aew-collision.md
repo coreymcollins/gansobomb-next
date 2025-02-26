@@ -7,7 +7,7 @@ coverImage: "2024-02-10-write-forever-aew-collision.webp"
 excerpt: "A bit of a sleepy episode of Collision compared to recent weeks, but when the wrestling hit it really, really hit."
 ---
 
-You're telling me Tomohiro Ishii is wrestling Orange Cassidy on the same show where we get more of CMLL wrestling Blackpool Combat Club, where Queen Aminata gets yet another chance to shine, where Brody King fights Mark Briscoe, and where Daniel Garcia fights Shane Taylor and you expect me to find anything substantial to put in the _The Bad_ section other than "Kevin Kelly stinks"?
+You're telling me [Tomohiro Ishii](/posts/2025-01-05-write-forever-njpw-wrestle-dynasty) is wrestling Orange Cassidy on the same show where we get more of CMLL wrestling Blackpool Combat Club, where Queen Aminata gets yet another chance to shine, where Brody King fights Mark Briscoe, and where Daniel Garcia fights [Shane Taylor](/posts/2024-04-13-write-forever-aew-collision) and you expect me to find anything substantial to put in the _The Bad_ section other than "Kevin Kelly stinks"?
 
 Get a life!
 
@@ -19,7 +19,7 @@ Kevin Kelly stinks. Get him off of my TV and out of my ears!
 
 ### Outrunning The Outrunners
 
-What can you really say about a Brian Cage squash? Essentially identical to the Hook squash of the same guys, Cage laid waste to Turbo Floyd and Truth Magnum in short order before also disposing of Local Sports Team's hockey mascot after the match.
+What can you really say about a [Brian Cage](/posts/2024-12-04-write-forever-aew-dynamite) squash? Essentially identical to the Hook squash of the same guys, Cage laid waste to Turbo Floyd and Truth Magnum in short order before also disposing of Local Sports Team's hockey mascot after the match.
 
 Before any more damage could be done, Hook (noted mascot enthusiast) rushed out to pull Cage away from Chance The Gila Monster. While this is in the _The Bad_ section, I do like that I just wrote that sentence.
 

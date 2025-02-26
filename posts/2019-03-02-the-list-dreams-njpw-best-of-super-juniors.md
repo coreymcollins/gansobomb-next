@@ -9,7 +9,7 @@ tags:
 coverImage: "bosj-max.jpg"
 ---
 
-The NJPW Best of the Super Juniors holds a special place in my heart.
+The NJPW [Best of the Super Juniors](/posts/2018-07-12-how-i-learned-to-love-pro-wrestling-again) holds a special place in my heart.
 
 As any rational human being would, I found myself growing tired of WWE programming last year. Truly, the whole company had grown tiresome for quite some time but it was easy enough to find on TV and Smackdown was almost always at least good if not great.
 
@@ -25,7 +25,7 @@ It’s sad to say that WWE nearly killed my love of professional wrestling. Agai
 
 ## Saved From Trash
 
-I found some things here and there which kept my interest while WWE ground my spirit into dust. MLW presented, and still presents, a weekly wrestling show which is solid and, like the Smackdown of yore, almost always at least good. Independent Wrestling TV (formerly Powerbomb TV) was a solid source of keeping up with random indies and I got to see my first barbed wire match in years thanks to Joey Janela and David Starr.
+I found some things here and there which kept my interest while WWE ground my spirit into dust. [MLW](/posts/2018-07-29-mlw-battle-riot) presented, and still presents, a weekly wrestling show which is solid and, like the Smackdown of yore, almost always at least good. Independent Wrestling TV (formerly Powerbomb TV) was a solid source of keeping up with random indies and I got to see my first barbed wire match in years thanks to Joey Janela and David Starr.
 
 But what truly reignited the flame that had almost burned out was New Japan Pro Wrestling’s Best of the Super Juniors.
 
@@ -51,9 +51,7 @@ NJPW doesn’t shy away from including non-NJPW wrestlers in the tournament. Las
 
 As a side note, I don’t know the fine details of any contracts for the wrestlers mentioned below. I keep up with wrestling news but try not to dive too deeply into the nitty gritty of stuff, so maybe one or more of these guys has contractual obligations which would preclude them from competing in the tournament. I don’t know! But, these are my hopes and dreams and you can’t take them away from me.
 
-5
-
-## Orange Cassidy
+## 5. Orange Cassidy
 
 This is easily the longest of long shots, but Orange Cassidy in the BOSJ would be absolutely ridiculous. We tend to get comedy in New Japan tournaments by way of Toru Yano and Ryusuke Taguchi and Orange Cassidy could bring that to another level.
 
@@ -67,9 +65,7 @@ I don’t know the likelihood of Cassidy ever working a New Japan show. The comp
 
 I’d put my money on a big fat “yes” and wager that Cassidy could have some of the best matches of the tournament, held in just as high regard as some of the pure wrestling bouts we’ll see. That is if he can work up the energy to board a flight and step onto the cerulean blue mat.
 
-4
-
-## Bandido
+## 4. Bandido
 
 In the recent line of luchadores who have taken the United States by storm, Bandido has to sit firmly at the top of that list. His largest exposure to a US audience likely came at All In last year where he blew the minds of the 10,000+ in the arena and everybody watching at home in the main event where he teamed with Rey Mysterio Jr and Rey Fenix to take on The Young Bucks and Kota Ibushi.
 
@@ -81,9 +77,7 @@ He may be the most likely out of anybody on this list to actually appear in the 
 
 The questions then become, just how far could Bandido make it in the BOSJ and could we see a rematch, of sorts, with Shingo Takagi?
 
-3
-
-## Shane Strickland
+## 3. Shane Strickland
 
 Oh, Shane Strickland.
 
@@ -105,9 +99,7 @@ It’s not that I have something against wrestlers signing with WWE, as that’s
 
 We all know that Swerve is confidence. Could Swerve also be the Best of the Super Juniors?
 
-2
-
-## Jonathan Gresham
+## 2. Jonathan Gresham
 
 Jonathan Gresham isn’t a man.
 
@@ -125,9 +117,7 @@ Despite not being super familiar with his work, Gresham is high on this list bec
 
 With a tag team win over IWGP Junior Heavyweight Champion Ishimori already under his belt, Gresham could already be on a roll toward the highest levels of success in a New Japan ring.
 
-1
-
-## Hiromu Takahashi
+## 1. Hiromu Takahashi
 
 Honestly, this should be the name at the top of everybody’s BOSJ Wish List. Hiromu was taken away from us far too abruptly when he suffered a broken neck after a grotesque botched suplex from Dragon Lee last July.
 

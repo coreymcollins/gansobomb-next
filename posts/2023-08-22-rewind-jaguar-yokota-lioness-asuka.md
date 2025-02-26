@@ -53,6 +53,6 @@ So far, through about a week and a half of doing these posts, I think this is my
 
 Lioness Asuka retired in 2005 due to injury, teaming with Crush Gals partner Chigusa Nagayo one last time. Yokota, on the other hand, did the wrestler's dance – retired in 1986, came out of retirement in 1995, retired again in 1998, then returned to the ring in 2004 and is still active today.
 
-I was two-years-old when this match happened and it's dumb that it took me 38 additional years to actually see it. There's a lot from the later 80s and 90s joshi that I've seen, and I guess I've just been stuck in those eras more than the early/mid 80s. That's going to change fast. If I'm not mistaken, [IWTV](https://independentwrestling.tv/) added a bunch of AJW stuff in the past year or two but I know there's also just a ton floating around on Youtube as well.
+I was two-years-old when this match happened and it's dumb that it took me 38 additional years to actually see it. There's a lot from the later 80s and 90s joshi that I've seen, and I guess I've just been stuck in those eras more than the early/mid 80s. That's going to change fast. If I'm not mistaken, [IWTV](/posts/2018-08-01-stop-paying-for-bad-wrestling) added a bunch of AJW stuff in the past year or two but I know there's also just a ton floating around on Youtube as well.
 
 Go watch this match now. Victory Through fucking Guts. God damn.

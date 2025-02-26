@@ -12,11 +12,11 @@ excerpt: "With the seventh episode of the new series, it feels like AEW Collisio
 
 AEW's Collision has finally had its landmark episode, in my opinion, in its seventh week.
 
-While it's obvious that there have been great matches and moments sprinkled throughout the previous half-dozen shows, no single episode has felt quite as rounded or cohesive as this one. I don't think that there was any match on this episode that was technically better than the FTR/Bullet Club Gold two-out-of-three-falls match, for instance, but with this seventh episode, it finally feels like Collision has a solid identity as a show whose characters' motivations are crystallizing.
+While it's obvious that there have been great matches and moments sprinkled throughout the previous half-dozen shows, no single episode has felt quite as rounded or cohesive as this one. I don't think that there was any match on this episode that was technically better than the FTR/[Bullet Club](/posts/2023-10-14-write-forever-aew-collision) Gold two-out-of-three-falls match, for instance, but with this seventh episode, it finally feels like Collision has a solid identity as a show whose characters' motivations are crystallizing.
 
 This isn't a full-on recap of each match or anything, but let's just revisit the episode with some high-level notes.
 
-## Andrade El Idolo vs Buddy Matthews
+## Andrade El Idolo vs [Buddy Matthews](/posts/2025-01-08-write-forever-aew-dynamite)
 For weeks, the House of Black has been tormenting the singular Andrade who only came back onto the AEW scene with the inception of Collision. With a previous singles match in the books against Buddy, Andrade would now fight for more than just pride – he would fight for his mask, stolen by the House of Black weeks back.
 
 To not only open with this match but to have it be as hard-hitting as it was set the tone for the entire episode of Collision. The match escaped most ladder match tropes, even playing with some false devious finishes toward the end with a pair of handcuff spots. With Andrade sending Julia off of a ladder, into Buddy, and through a table he was able to retrieve his mask and claim victory.
@@ -24,7 +24,7 @@ To not only open with this match but to have it be as hard-hitting as it was set
 But, this doesn't feel like the end of the story. Andrade is a man alone on Collision right now against the Trios Champions. Could the recent news of Rush officially signing with AEW lead to an LFI feud for the House of Black's belts? I'm all for it, but I have my fingers crossed that Dralistico would be slotted in as the third man rather than Preston Vance.
 
 ## Miro is doing... something
-I don't honestly know what's going on with Miro and this ongoing story, but we got some sort of next step with Aaron Solo signing his life away by attacking The Redeemer with a chair. If this leads to Miro vs Hobbs in a beef boys hoss-off, I won't complain.
+I don't honestly know what's going on with Miro and this ongoing story, but we got some sort of next step with Aaron Solo signing his life away by attacking The Redeemer with a chair. If this leads to Miro vs [Hobbs](/posts/2025-01-15-write-forever-aew-dynamite) in a beef boys hoss-off, I won't complain.
 
 ## Darby's Bad Day
 In a pre-show promo, Darby admitted that things hadn't been going well for him lately and wanted to fight *anyone* tonight. My ears perked up as the opening notes of "Kaze Ni Nare" came through my TV; my joy contrasted with the look of despair on poor Darby's face.

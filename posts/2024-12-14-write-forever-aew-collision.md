@@ -7,15 +7,15 @@ coverImage: "2024-12-14-write-forever-aew-dynamite.webp"
 excerpt: "Mark Briscoe is the C2 Spoiler and the women's division is alive and well on AEW Collision!"
 ---
 
-For weeks I've had it in my head that the winner of the Continental Classic would get a shot at the World Title at the end of the tournament. I don't know why! That didn't happen last year! I think I'm just too G1-brained and got my wonderful round-robin tournaments mixed up.
+For weeks I've had it in my head that the winner of the Continental Classic would get a shot at the World Title at the end of the tournament. I don't know why! That didn't happen last year! I think I'm just too [G1](/posts/2018-08-12-njpw-g1-climax-28-day-nineteen-g1-finals)-brained and got my wonderful round-robin tournaments mixed up.
 
-So, the winner of this tournament won't be a stopgap for Jon Moxley on the way to losing to Darby Allin (assumed). Darby mentioned recently that he's planning on climbing Mount Everest in April, so I guess we can expect the Moxley & Death Riders run to last at least until All In. If you're going to crown your new babyface champion, it probably makes sense to do it at your biggest show of the year.
+So, the winner of this tournament won't be a stopgap for Jon Moxley on the way to losing to [Darby Allin](/posts/2023-08-20-a-week-in-wrestling) (assumed). Darby mentioned recently that he's planning on climbing Mount Everest in April, so I guess we can expect the Moxley & Death Riders run to last at least until All In. If you're going to crown your new babyface champion, it probably makes sense to do it at your biggest show of the year.
 
 It's still frigidly cold here in upstate New York so the Winter Is Coming theme continues to fit, though it's going to be 47 on Tuesday so who the hell really knows what's coming or going other than a fine two hours of professional wrestling television!
 
 ## Booking a coherent women's division is easy if you just try
 
-Willow Nightingale and Jamie Hayter kicked off the show with an excellent women's match, placing Willow into the Wrestle Dynasty four way match in the Tokyo Dome. I've been in that Dome! It's a great Dome! I think I'll also be watching Wrestle Kingdom and Wrestle Dynasty this year, maybe even doing the ole set-the-alarm-to-wake-up-at-3am-eastern-time razzle dazzle to watch them live.
+[Willow Nightingale](/posts/2024-02-14-write-forever-aew-dynamite) and Jamie Hayter kicked off the show with an excellent women's match, placing Willow into the Wrestle Dynasty four way match in the Tokyo Dome. I've been in that Dome! It's a great Dome! I think I'll also be watching Wrestle Kingdom and Wrestle Dynasty this year, maybe even doing the ole set-the-alarm-to-wake-up-at-3am-eastern-time razzle dazzle to watch them live.
 
 It's great that Willow and Jamie were given the spot to open the show, a spot you generally reserve for something that's going to hook the viewing audience of the gate. They absolutely delivered in what was maybe Hayter's best match since coming back from injury.
 

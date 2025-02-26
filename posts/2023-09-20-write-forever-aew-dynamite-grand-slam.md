@@ -7,11 +7,11 @@ coverImage: "2023-09-20-write-forever-aew-dynamite-grand-slam.webp"
 excerpt: "Can Samoa Joe become the new AEW World Heavyweight Champion, or is MJF going to right the wrong of being shoved in a hallway eight years ago?"
 ---
 
-It's a night of title matches and redemption stories with three championships on the line in Arthur Ashe Stadium. Can Samoa Joe complete the gauntlet of running through the eliminator tournament to become the new AEW World Heavyweight Champion, or is MJF going to right the wrong of being shoved in a hallway eight years ago?
+It's a night of title matches and redemption stories with three championships on the line in Arthur Ashe Stadium. Can Samoa Joe complete the gauntlet of running through the eliminator tournament to become the new AEW World Heavyweight Champion, or is [MJF](/posts/2025-01-08-write-forever-aew-dynamite) going to right the wrong of being shoved in a hallway eight years ago?
 
 ## The Mad King Vindicated
 
-On commentary, the quartet (Excalibur, Taz, Tony, and Ian) recalled the shared history of not only Eddie and Claudio but referee Bryce Remsburg. This rivalry goes back over a decade and spans multiple promotions, the catalyst for this particular story point being that Eddie resents Claudio for leaving the indies for WWE without doing business the right way on his way out.
+On commentary, the quartet (Excalibur, Taz, Tony, and Ian) recalled the shared history of not only [Eddie](/posts/2024-02-28-write-forever-aew-dynamite) and Claudio but referee Bryce Remsburg. This rivalry goes back over a decade and spans multiple promotions, the catalyst for this particular story point being that Eddie resents Claudio for leaving the indies for WWE without doing business the right way on his way out.
 
 For Eddie Kingston, this was a chance to solidify himself in AEW/ROH by finally becoming a World Heavyweight Champion. For Claudio Castagnoli, it was an opportunity to shut Kingston down and prove once and for all that he was the better man.
 

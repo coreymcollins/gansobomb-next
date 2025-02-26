@@ -13,7 +13,7 @@ tags:
 coverImage: "stars-plus-one-5star.jpg"
 ---
 
-Day Seven of the STARDOM 5 Star Grand Prix is upon us with just a couple of actual tournament matches. This shorter show has just five matches on the card with two trios matches swallowing up the majority of the 5\*GP pool.
+Day Seven of the [STARDOM 5 Star Grand Prix](/posts/2018-08-13-preview-stardom-5-star-grand-prix-2018) is upon us with just a couple of actual tournament matches. This shorter show has just five matches on the card with two trios matches swallowing up the majority of the 5\*GP pool.
 
 In the first of two tournament matches, Rachael Ellering continued to befuddle and aggravate me by picking up a win over Tam Nakano in Red Stars Block. I DON’T GET IT! WHY?! Despite being in the ring with another brutal kick warehouse, Ellering was able to control herself and not throw a temper tantrum halfway through the match. That’s a pretty low bar to shoot for, but I guess it’s something. It seemed like Tam had a bit of kick trouble, to be honest, as many of her kicks aiming for the taller Ellering’s head landed more on the arm or shoulder. Ellering persevered with her alley-oop powerbomb for the three count and another two points. I’m starting to get very worried about Ellering winning the entire Red Stars Block.
 
@@ -23,7 +23,7 @@ This one started off with Kimber standing strong against repeated shoulder block
 
 <Tweet tweetId="1041979609921675264" />
 
-In the show opener, Shik☆d (Shiki Shibusawa and Starlight Kid) took on Jamie Hayter and Nicole Savoy. These are my two standouts as far as the foreigners involved in the tournament go and they have a fun chemistry together in their pre-match promo. Savoy looks like an absolute giant against Shiki and Kid as the faster pair use their teamwork to keep her off-balance and off her gameplan. Savoy is finally able to slow things down by catching Kid in an attempted hurricanrana which she countered into a Boston Crab which escaped via rope break. She followed up with a camel clutch and surfboard to further weaken the back of the smaller Kid.
+In the show opener, Shik☆d (Shiki Shibusawa and Starlight Kid) took on [Jamie Hayter](/posts/2025-01-01-write-forever-aew-dynamite) and Nicole Savoy. These are my two standouts as far as the foreigners involved in the tournament go and they have a fun chemistry together in their pre-match promo. Savoy looks like an absolute giant against Shiki and Kid as the faster pair use their teamwork to keep her off-balance and off her gameplan. Savoy is finally able to slow things down by catching Kid in an attempted hurricanrana which she countered into a Boston Crab which escaped via rope break. She followed up with a camel clutch and surfboard to further weaken the back of the smaller Kid.
 
 With Hayter tagged into the match, Shik☆d is able to once again use their double-team tactics to take their larger opponents off of their feet. Shiki can’t get Jamie up for a suplex, however, which opens her up to feeling the brunt of Hayter’s Falcon Arrow for just a two count. As Savoy held Kid at bay outside of the ring, Hayter pulled Shiki back up and nailed her with a Falcon Arrow lung blower to put this away for the team of foreigners. Hayter continues to look impressive in the ring despite only having 4 points in the block out of a potential 6.
 
@@ -39,7 +39,7 @@ This one came to a close in similar fashion to how it started – with Leo feeli
 
 <Tweet tweetId="1041952785980260353" />
 
-In the main event, and in another hard-fought trios match, the Queen’s Quest pairing of Konami, Momo Watanabe, and AZM battled STARS +1 in Mayu Iwatani, Saki Kashima, and Utami Hayshishita. In their pre-match promo, STARS and Utami wished for a birthday victory for the rookie who is just turning twenty years-old.
+In the main event, and in another hard-fought trios match, the Queen’s Quest pairing of Konami, Momo Watanabe, and AZM battled STARS +1 in [Mayu Iwatani](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19), Saki Kashima, and Utami Hayshishita. In their pre-match promo, STARS and Utami wished for a birthday victory for the rookie who is just turning twenty years-old.
 
 The match kicks off with a pair of stalemates between Utami & AZM and Mayu & Konami before Momo is finally able to take control over Saki with some harsh kicks. After knocking Mayu and Utami off of the apron, QQ barrage Saki with a set of dropkicks and a running knee in the corner before all three choke her out with smiles on their faces. It really is impressive how happy Queen’s Quest looks whenever they’re pounding the ever-loving crap out of an opponent. We should all approach our jobs with the same positive attitude.
 

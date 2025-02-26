@@ -13,7 +13,7 @@ But, it's not everything.
 
 For today, and probably going forward, I'm also going to cross-reference with the [Internet Wrestling Database's](http://www.profightdb.com/date-search.php) date search so I can just get a list of all events that happened on the day, notable or not. My first thought was to try and find something that would just give me a list of all matches (and who knows, maybe [CAGEMATCH](https://www.cagematch.net/) does that somewhere), but this will do for now.
 
-All that to say, the IWD site brought me to this: AJPW Summer Action Series II (Day 4) and the main event of Jumbo Tsuruta, Masanobu Fuchi, and Mighty Inoue vs Kenta Kobashi, Mitsuharu Misawa, and Tsuyoshi Kikuchi. I'd be a liar if I said I'd seen all of these guys wrestle, but I'd say I score a 50% here.
+All that to say, the IWD site brought me to this: AJPW Summer Action Series II (Day 4) and the main event of Jumbo Tsuruta, Masanobu Fuchi, and Mighty Inoue vs [Kenta Kobashi](/posts/2023-09-05-kenta-kobashi-stan-hansen-ajpw-triple-crown-title), Mitsuharu Misawa, and Tsuyoshi Kikuchi. I'd be a liar if I said I'd seen all of these guys wrestle, but I'd say I score a 50% here.
 
 My first memory of Jumbo Tsuruta is of seeing his name while playing [TNM 7](http://www.tnm7.de/redirects/1692665115.shtml) (which I'm surprised is still a thing), a memory that will live in my head as brightly as the big blue interface of TNM7 itself. I honestly don't know why I remember it so vividly.
 

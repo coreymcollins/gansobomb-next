@@ -9,17 +9,17 @@ excerpt: "Three hours of wrestling on TV in a single night is almost certainly t
 
 It's three hours of wrestling in one night! Is that too much for a regular TV show? Probably! But here we are!
 
-The show opened up not with cold-open promos, which I love and miss dearly, but with Tony Schiavone and Daddy Magic opening up the show at ringside which is another stylistic thing I love. They dropped the news that Jon Moxley is the new IWGP World Heavyweight Champion after beating Tetsuya Naito at Windy City Riot, a show which also saw heat magnet Jack Perry endear himself to the fans in Chicago.
+The show opened up not with cold-open promos, which I love and miss dearly, but with Tony Schiavone and [Daddy Magic](/posts/2024-11-16-write-forever-aew-collision) opening up the show at ringside which is another stylistic thing I love. They dropped the news that Jon Moxley is the new IWGP World Heavyweight Champion after beating Tetsuya Naito at Windy City Riot, a show which also saw heat magnet Jack Perry endear himself to the fans in Chicago.
 
 Tonight, though, it's Collision and a Battle of the Belts which will almost certainly have zero title changes – though I'm holding out hope that we see a new FTW Champion in Shane Taylor tonight.
 
 ## Kentucky sickos love Satan (hell, same)
 
-The House of Black have had a somewhat confusing run in AEW. All members are sensational, but the trio has spent more time floundering than doing what they're all best at. The closest we've come is having Brody King with an impressive showing in the Continental Classic, but otherwise they haven't been doing as much as I wish they were.
+The House of Black have had a somewhat confusing run in AEW. All members are sensational, but the trio has spent more time floundering than doing what they're all best at. The closest we've come is having [Brody King](/posts/2024-12-04-write-forever-aew-dynamite) with an impressive showing in the Continental Classic, but otherwise they haven't been doing as much as I wish they were.
 
 Their Trios Title run was fine but felt more like a springboard for The Acclaimed, who then proceeded to torpedo any momentum the titles had in the first place.
 
-They've been tuned up lately for some kind of feud with Adam Copeland which felt like it should culminate in a Malakai Black/Copeland TNT Title Match, but as of yet that hasn't been in the stars. We will get a trios match at Dynasty between the House of Black and Copeland/Eddie Kingston/Mark Briscoe, and I hope there's more to come after that.
+They've been tuned up lately for some kind of feud with [Adam Copeland](/posts/2024-03-30-write-forever-aew-collision) which felt like it should culminate in a Malakai Black/Copeland TNT Title Match, but as of yet that hasn't been in the stars. We will get a trios match at Dynasty between the House of Black and Copeland/Eddie Kingston/Mark Briscoe, and I hope there's more to come after that.
 
 There are, of course, constant rumors that the men in the House of Black are unhappy. Malakai doesn't want to job, Brody King is upset that they aired the All In footage, and both Buddy Matthews and Malakai are counting down the days until they can go back to WWE. I don't know if any of that's true. I hope it's not, because they're a highlight for me in AEW and I'd hate to see them depart.
 

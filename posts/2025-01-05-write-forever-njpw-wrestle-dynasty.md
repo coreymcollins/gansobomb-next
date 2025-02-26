@@ -7,13 +7,13 @@ coverImage: "2025-01-05-write-forever-njpw-wrestle-dynasty.webp"
 excerpt: "No freak injuries but a freakish march toward death between Kenny Omega and Gabe Kidd helped edge Wrestle Dynasty above Wrestle Kingdom."
 ---
 
-Due to a late start on Collision for me, I unfortunately missed the pre-show – although the only match there I was really hoping to see was the women's four way. I still don't quite understand why that got shoved onto the pre-show instead of the main card with how much build it required across different companies, but that's a question for another day I guess.
+Due to a late start on [Collision](/posts/2025-01-04-write-forever-aew-collision) for me, I unfortunately missed the pre-show – although the only match there I was really hoping to see was the women's four way. I still don't quite understand why that got shoved onto the pre-show instead of the main card with how much build it required across different companies, but that's a question for another day I guess.
 
 I'm sure I'll go back and watch at least that at some point, but I have no real desire to catch up on an ROH Tag Title match. If I hear good things about it, I'll give it a whirl.
 
 Last night's [Wrestle Kingdom](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) (or, I guess, technically this morning's Wrestle Kingdom for me) was a big mixed bag. Most of the matches were at least good, but the show overall was marred by three things: the terrible DOUKI injury, the awful Naito match, and a main event that truly did not need to be 43 minutes long.
 
-I may have to go back to watch ZSJ/Shota again on a brain operating on more than 2 and a half hours of sleep but if I do I think I'll still walk away feeling the same. I think the story they told could have been done in less time than they used, and that time could have been better spent on giving Mayu/AZM and Takeshita/Shingo more time.
+I may have to go back to watch ZSJ/Shota again on a brain operating on more than 2 and a half hours of sleep but if I do I think I'll still walk away feeling the same. I think the story they told could have been done in less time than they used, and that time could have been better spent on giving Mayu/[AZM](/posts/2024-04-13-write-forever-aew-collision) and Takeshita/Shingo more time.
 
 The card for Wrestle Dynasty is a little more interesting on the surface because it involves a bunch of people I'm more regularly familiar with, like Brody King, Jack Perry, Takeshita again (and Ishii, who I will love 'til death), and, of course, the returning Kenny Omega.
 

@@ -7,9 +7,9 @@ coverImage: "2024-11-30-write-forever-aew-dynamite.webp"
 excerpt: "Another mixed bag in terms of match quality for the Continental Classic on AEW Collision, but hey – I went 3 for 3 with my picks!"
 ---
 
-The C2 continues, so let's see if my picks continue to fail me. I only got one of three picks correct for Dynamite, coming up on the wrong end of things by picking Darby over Brody and Mark Briscoe over Shelton Benjamin.
+The C2 continues, so let's see if my picks continue to fail me. I only got one of three picks correct for Dynamite, coming up on the wrong end of things by picking Darby over Brody and Mark Briscoe over [Shelton Benjamin](/posts/2024-11-13-write-forever-aew-dynamite).
 
-I think tonight's matches are somewhat more clear-cut, but I'm still unsure about my pick of a draw in Daniel Garcia vs Kazuchika Okada. I just can't see them handing Garcia a loss right after coming off of the TNT Title win, but I also wouldn't expect Okada to lose the first match unless it becomes the motivation to win every match going forward.
+I think tonight's matches are somewhat more clear-cut, but I'm still unsure about my pick of a draw in Daniel Garcia vs [Kazuchika Okada](/posts/2018-07-12-how-i-learned-to-love-pro-wrestling-again). I just can't see them handing Garcia a loss right after coming off of the TNT Title win, but I also wouldn't expect Okada to lose the first match unless it becomes the motivation to win every match going forward.
 
 Whatever the outcome of Garcia/Okada, I think the story _will_ be that Okada isn't taking things seriously enough because he's had a bit of an easy ride alongside The Elite the past few months. He hasn't had to wrestle often and not every match has been on the level of classic New Japan Okada. He could be settled into a false sense of security or in a new comfort zone, and a freshly motivated Daniel Garcia might push him out of that zone.
 
@@ -17,7 +17,7 @@ I didn't end up watching this show live, as expected. I had to complete the esse
 
 ## Another mixed night for the Continental Classic
 
-The show opener with Will Ospreay vs Juice Robinson didn't blow me away, but it was fun enough. I saw some posts online about Juice appearing at a convention over the weekend on crutches, and I hope that if he's injured it's nothing bad enough to keep him out of the tournament and he's just exercising an over-abundance of caution. I think Juice in the tournament is a fun wild card, even if I don't see him getting more than three points.
+The show opener with [Will Ospreay](/posts/2024-03-27-write-forever-aew-dynamite) vs Juice Robinson didn't blow me away, but it was fun enough. I saw some posts online about Juice appearing at a convention over the weekend on crutches, and I hope that if he's injured it's nothing bad enough to keep him out of the tournament and he's just exercising an over-abundance of caution. I think Juice in the tournament is a fun wild card, even if I don't see him getting more than three points.
 
 This was a bit of a lighter workload for Ospreay, who just had that insane match with Kyle Fletcher at Full Gear and has Darby Allin in the tournament in a couple of weeks. So, while it wasn't at the level of Ospreay's marquee matches, it didn't have to be. Juice got enough offense in to solidify himself as a contender in the tournament and Ospreay came through with a victory to rebound off of the big loss to Fletcher.
 

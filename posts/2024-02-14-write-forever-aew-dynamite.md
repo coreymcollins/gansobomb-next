@@ -7,7 +7,7 @@ coverImage: "2024-02-14-write-forever-aew-dynamite.webp"
 excerpt: "AEW Dynamite is several heart-shaped boxes filled with weapons, repeated head trauma, and a bunch of blood on Valentine's Day."
 ---
 
-On a night where my partner and I pre-gamed Dynamite with _A Goofy Movie_, we get a Valentine's Day Texas Death Match and more from the lovely H.E. Butt Arena in Cedar Park, Texas. Every now and then I'll miss the old stomping grounds of Austin, and AEW seemingly popping up there every quarter kicks that into gear. I especially miss the easy access to Topo Chico and authentic Mexican baked goods.
+On a night where my partner and I pre-gamed Dynamite with _A Goofy Movie_, we get a Valentine's Day [Texas Death Match](/posts/2018-07-26-the-list-favorite-gimmick-matches) and more from the lovely H.E. Butt Arena in Cedar Park, Texas. Every now and then I'll miss the old stomping grounds of Austin, and AEW seemingly popping up there every quarter kicks that into gear. I especially miss the easy access to Topo Chico and authentic Mexican baked goods.
 
 Unlike the quality of Torchy's Tacos, though, AEW in 2024 is just getting better and better with Revolution looming in the distance.
 
@@ -21,11 +21,11 @@ As I've said before, I don't dislike Toni Storm. I even think her character work
 
 But, the AEW Women's World Title being stuck in a similar purgatory as the World Heavyweight Title was stuck in with MJF for far too long is a bummer. I know we're getting to the Revolution Factory in a matter of weeks, and I do hope Deonna is the one who takes the belt off of Toni.
 
-And then? Maybe a technical wizard feud with Serena Deeb to usher in a new era for the Women's World Title similar to how Samoa Joe injected life back into the World Heavyweight Title.
+And then? Maybe a technical wizard feud with Serena Deeb to usher in a new era for the Women's World Title similar to how [Samoa Joe](/posts/2023-09-20-write-forever-aew-dynamite-grand-slam) injected life back into the World Heavyweight Title.
 
 ### Weird choice for a main event, but okay!
 
-I love Matt Taven. I'M MATT TAVEN! But, it felt like an odd choice to make a non-title match with Orange Cassidy in a Texas Death Match, announced on Twitter in the past couple of days, the main event of this episode of Dynamite.
+I love [Matt Taven](/posts/2023-09-30-write-forever-aew-collision). I'M MATT TAVEN! But, it felt like an odd choice to make a non-title match with Orange Cassidy in a Texas Death Match, announced on Twitter in the past couple of days, the main event of this episode of Dynamite.
 
 I get it – Texas Death in Texas. I do wish they had let the stipulation rest a bit coming off of the classic Swerve/Hangman Texas Death Match at Full Gear.
 

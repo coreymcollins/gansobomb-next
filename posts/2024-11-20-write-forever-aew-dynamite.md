@@ -11,11 +11,11 @@ Baby, it's a mixed bag today – I've got a new haircut and a belly full of sush
 
 Hopefully a hot coffee, a 7-pound Sphynx cat resting on my legs, and professional wrestling can make things feel a little better. I mean, I don't _think_ watching wrestling can actually make this shooting pain in my shoulder blade go away but I'm willing to try anything once.
 
-This is the final Dynamite before Full Gear, which I think I may either miss some or all of on Saturday due to a Friendsgiving extravaganza so it is, as yet, unclear whether I'll be writing anything up on Saturday night. It might be a cozy Sunday morning/afternoon snuggle-in eating leftover pecan pie while catching up on the show.
+This is the final Dynamite before [Full Gear](/posts/2024-11-23-write-forever-aew-full-gear), which I think I may either miss some or all of on Saturday due to a Friendsgiving extravaganza so it is, as yet, unclear whether I'll be writing anything up on Saturday night. It might be a cozy Sunday morning/afternoon snuggle-in eating leftover pecan pie while catching up on the show.
 
 ## This Adam Cole bullshit has got to end
 
-I love Kyle O'Reilly. I really do. But this high school theater presentation of Adam Cole and KOR pouring their hearts out in the center of the ring was absolute dogshit.
+I love Kyle O'Reilly. I really do. But this high school theater presentation of [Adam Cole](/posts/2024-11-13-write-forever-aew-dynamite) and KOR pouring their hearts out in the center of the ring was absolute dogshit.
 
 I'm just so over anything that has to do with Adam Cole. He's not interesting or entertaining at all to me anymore, especially as a babyface. He's got some fucked up spray tan that just keeps getting worse every week. His matches are boring and plodding.
 
@@ -23,7 +23,7 @@ There is just no upside to Adam Cole right now, and I hope upon hope that he doe
 
 ## Bobby Lashley's feud with burgers has come to its natural conclusion
 
-Listen, I've been clear that I haven't watched much of what Bobby Lashley has done in the past decade or so. His initial WWE run was a slog for me, and I didn't see him do anything in TNA/Impact/Whatever that looked good or cool.
+Listen, I've been clear that I haven't watched much of what [Bobby Lashley](/posts/2024-11-23-write-forever-aew-full-gear) has done in the past decade or so. His initial WWE run was a slog for me, and I didn't see him do anything in TNA/Impact/Whatever that looked good or cool.
 
 But you know what I do remember? That one picture of him looking at a plate of burgers on Smackdown during his feud with Simon Dean. And tonight? Well, tonight everything came full circle when Lashley got into the ring with CHEESEBURGER (and Joe Keys was there also).
 

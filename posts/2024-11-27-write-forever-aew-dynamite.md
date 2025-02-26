@@ -7,11 +7,11 @@ coverImage: "2024-11-27-write-forever-aew-dynamite.webp"
 excerpt: "Continental Classic time is my favorite time of the year in AEW, but it didn't start off quite as hot as I would have hoped."
 ---
 
-It's the most wonderful time of the year: the Continental Classic!
+It's the most wonderful time of the year: the [Continental Classic](/posts/2023-12-31-5-reasons-why-aew-continental-classic)!
 
-Last year, the C2 was the best part of the year in AEW for me. Week-to-week great matches with tournament stories and the fun of playing with points to see who comes out on top of each bracket. I'll always have a fondness for round robin tournaments as the Best of the Super Juniors was largely responsible for reigniting my love of professional wrestling when it was at its lowest several years back.
+Last year, the C2 was the best part of the year in AEW for me. Week-to-week great matches with tournament stories and the fun of playing with points to see who comes out on top of each bracket. I'll always have a fondness for round robin tournaments as the [Best of the Super Juniors](/posts/2018-07-12-how-i-learned-to-love-pro-wrestling-again) was largely responsible for reigniting my love of professional wrestling when it was at its lowest several years back.
 
-As for my picks – we'll see if they're busted tonight. I went out on a limb with a couple, like picking Brody King to beat Will Ospreay. I think it's always important to have some upsets in the tournament to keep things fresh and setup future programs, and Brody getting a shock win over someone like Ospreay would absolutely rule.
+As for my picks – we'll see if they're busted tonight. I went out on a limb with a couple, like picking [Brody King](/posts/2024-12-04-write-forever-aew-dynamite) to beat Will Ospreay. I think it's always important to have some upsets in the tournament to keep things fresh and setup future programs, and Brody getting a shock win over someone like Ospreay would absolutely rule.
 
 Here are my Gold and Blue bracket points:
 

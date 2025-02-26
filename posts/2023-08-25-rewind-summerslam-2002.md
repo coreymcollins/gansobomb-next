@@ -7,7 +7,7 @@ coverImage: "2023-08-25-rewind-summerslam-2002.webp"
 excerpt: "Just 5 months after debuting as a monster destroying everything in his path, Brock Lesnar takes on The Rock for the WWE Undisputed Championship."
 ---
 
-When Brock Lesnar first debuted on WWE TV, he did so by appearing suddenly and ripping through whoever was in the ring in a matter of seconds. I still remember the way he mauled Spike Dudley and was captivated by this absolute maniac.
+When [Brock Lesnar](/posts/2018-07-12-how-i-learned-to-love-pro-wrestling-again) first debuted on WWE TV, he did so by appearing suddenly and ripping through whoever was in the ring in a matter of seconds. I still remember the way he mauled Spike Dudley and was captivated by this absolute maniac.
 
 When Summerslam 2002 rolled around, Brock was already becoming a favorite despite clearly being pushed as a heel. I was in my first semester of college when this pay per view happened and I remember watching it at a new friend's apartment, all of us eagerly awaiting Brock tearing through The Rock.
 

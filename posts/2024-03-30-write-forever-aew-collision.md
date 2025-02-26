@@ -15,13 +15,13 @@ Collision opened with Adam Copeland rushing to the ring for the first TNT Title 
 
 ## The TNT Title Copen Openland Challenge
 
-Matt Cardona answered the challenge which felt fine to me – I think his work on the indies has been a ton of fun from what I've seen, but the last time he popped up in AEW didn't do much of anything for me.
+[Matt Cardona](/posts/2024-12-21-write-forever-aew-collision) answered the challenge which felt fine to me – I think his work on the indies has been a ton of fun from what I've seen, but the last time he popped up in AEW didn't do much of anything for me.
 
 This is interesting, though, at least as a concept as we got the former Edgehead vs the former Edge. Matt Cardona looked like a rotisserie chicken. I haven't eaten a rotisserie chicken in years. The pre-made ones from the grocery store were always a little too salty for me, but it was nice to be able to get a relatively cheap, pre-made chicken that you could shred or just munch on. I'm a vegetarian now, though, so all chicken eaters can fuck off.
 
 Getting the cheapest heat possible, Cardona ripped up a fan's sign during picture-in-picture sending the crowd into the frenzy. In the early stages of the night, the crowd was white hot even prompting a _"Holy Shit!"_ chant as Cardona and Copeland faced off pre-match.
 
-The thing I liked most about this match was that it starts the Open Challenge off with a bang by telling the audience that anyone could show up at any time. This isn't simply an open challenge for the AEW roster, it's an open challenge for anyone in wrestling who thinks they can win the belt. It harkens back to Cody Rhodes' TNT Title Open Challenge which was one of the best parts of any TNT Title run, especially since it gave us Ricky Starks and Eddie Kingston in AEW.
+The thing I liked most about this match was that it starts the Open Challenge off with a bang by telling the audience that anyone could show up at any time. This isn't simply an open challenge for the AEW roster, it's an open challenge for anyone in wrestling who thinks they can win the belt. It harkens back to [Cody Rhodes'](/posts/2019-02-23-wrestling-fans-afraid-competition) TNT Title Open Challenge which was one of the best parts of any TNT Title run, especially since it gave us Ricky Starks and Eddie Kingston in AEW.
 
 Copeland retained in what was an expected outcome but turned out to be a much better match than I was expecting. This match alone was way better than Cardona's last brief run in AEW a few years back. I don't know that I need to see Cardona in AEW full-time, but this was a sweet moment for Copeland and Cardona to have.
 
@@ -29,7 +29,7 @@ After the bell, a wild Malakai Black appeared in what should set the stage for a
 
 ## The Tag Title Tournament is still mostly old news
 
-FTR moved on in the Tag Title Tournament by defeating The Infantry in a pretty decent match. The Infantry had one of the worst screwball wins of all time over House of Black a couple of weeks back and had a chance to prove themselves here. I think they half did so, with Carlie Bravo coming out of the match looking much stronger than Sean Dean.
+[FTR](/posts/2023-07-29-aew-best-episode-of-collision-yet) moved on in the Tag Title Tournament by defeating The Infantry in a pretty decent match. The Infantry had one of the worst screwball wins of all time over House of Black a couple of weeks back and had a chance to prove themselves here. I think they half did so, with Carlie Bravo coming out of the match looking much stronger than Sean Dean.
 
 Dean had a few messy moments that took the air out of a couple of spots, but the match was otherwise fine if not good. The crowd was into it, at least!
 

@@ -9,7 +9,7 @@ excerpt: "AEW Worlds End was an overall fun show with a main event and finish th
 
 I watched Dynamite on Christmas but didn't write about it as I was partaking in Christmas Joy. Actually, we were watching _Home Alone_ during Dynamite and I caught up on it later that night.
 
-It was a great show! Great wrestling! Good setups for the semi-finals of the Continental Classic! Darby Allin still looks like a chump since he got beaten by Claudio twice, but I guess he got his own moral victory by helping Komander cheat to keep Claudio out of the semi-finals?
+It was a great show! Great wrestling! Good setups for the semi-finals of the Continental Classic! [Darby Allin](/posts/2023-07-29-aew-best-episode-of-collision-yet) still looks like a chump since he got beaten by Claudio twice, but I guess he got his own moral victory by helping Komander cheat to keep Claudio out of the semi-finals?
 
 I think I correctly picked _some_ of the semi-finalists but not all, though I'm not unhappy with how the tournament played out. I still see a final of Ospreay/Okada with Ospreay coming out on top as the new Continental Champion.
 
@@ -21,7 +21,7 @@ But, nevermind that shit – it's Worlds End!
 
 ## Those continentals were classic!
 
-Will Ospreay and Kyle Fletcher opened the show with the first semi-final match in the Continental Classic. I didn't expect this to be the bloodbath match of the night, but okay! Fletcher busted Ospreay open early on with a lawn dart into the guardrail, and Ospreay bled a gusher.
+[Will Ospreay](/posts/2024-03-03-write-forever-aew-revolution) and Kyle Fletcher opened the show with the first semi-final match in the Continental Classic. I didn't expect this to be the bloodbath match of the night, but okay! Fletcher busted Ospreay open early on with a lawn dart into the guardrail, and Ospreay bled a gusher.
 
 Fletcher attempted cheating with his hand on the ropes for leverage on a pin against Ospreay but referee Paul Turner caught it. This almost cost Fletcher the match, as his argument with Turner led into an Ospreay Hidden Blade. Fletcher was able to survive, though, and come back for more.
 
@@ -33,7 +33,7 @@ Kazuchika Okada and Ricochet followed up with a match that was fine – nothing 
 
 I do love Ricochet working as a heel and he fits so much better in this role than as a happy-to-be-here babyface. He's just such a cornball dweeb! He's perfect!
 
-Post-match, Swerve Strickland showed up with Prince Nana who tossed rolls of toilet paper to the crowd. At Swerve's behest, the crowd threw rolls of toilet paper into the ring leaving a dejected Ricochet standing alone in the ring wrapped in toilet paper. Perfect!
+Post-match, [Swerve Strickland](/posts/2018-07-29-mlw-battle-riot) showed up with Prince Nana who tossed rolls of toilet paper to the crowd. At Swerve's behest, the crowd threw rolls of toilet paper into the ring leaving a dejected Ricochet standing alone in the ring wrapped in toilet paper. Perfect!
 
 In the tournament finals, Okada ruined my picks by getting the win over Ospreay. But what a hell of a way to get there! Unsurprisingly, this match was incredible and each guy drew you in to every nearfall in sensational ways. In the final several minutes, it truly looked like either guy could be leaving with the Continental Title.
 

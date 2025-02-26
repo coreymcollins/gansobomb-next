@@ -8,9 +8,9 @@ tags:
   - "wwe"
 ---
 
-Everything is about to change in the professional wrestling world. In fact, change already began at the start of the year with the announcement of All Elite Wrestling. With indie stalwarts The Young Bucks and Kenny Omega at the helm and the multi-generational Cody Rhodes beside them, AEW set out to change not just the world but the entire universe.
+Everything is about to change in the professional wrestling world. In fact, change already began at the start of the year with the announcement of All Elite Wrestling. With indie stalwarts The Young Bucks and [Kenny Omega](/posts/2018-07-12-how-i-learned-to-love-pro-wrestling-again) at the helm and the multi-generational Cody Rhodes beside them, AEW set out to change not just the world but the entire universe.
 
-What does AEW mean for professional wrestling, though? If their own words are to be believed, AEW will offer fair and competitive pay for wrestlers regardless of gender, a policy of inclusion without discrimination based on race, gender, religion or other factors, and the first true hint of competition to WWE since the collapse of World Championship Wrestling.
+What does AEW mean for professional wrestling, though? If their own words are to be believed, AEW will offer fair and competitive pay for wrestlers regardless of gender, a policy of inclusion without discrimination based on race, gender, religion or other factors, and the first true hint of competition to WWE since the collapse of [World Championship Wrestling](/posts/2023-09-07-sting-barry-windham-clash-of-the-champions-fall-brawl).
 
 One thing AEW hasn’t done is make any claim that they want to destroy WWE. For now, unlike the Monday Night War which saw WCW and then-WWF attempt to quite literally put one another out of business on a weekly basis, AEW seems poised to provide true competition rather than becoming the next professional wrestling monopoly.
 

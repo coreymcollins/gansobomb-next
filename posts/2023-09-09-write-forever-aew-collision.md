@@ -7,11 +7,11 @@ coverImage: "2023-09-09-write-forever-aew-collision.webp"
 excerpt: "A perfectly fine episode of Collision, but definitely not one for the books. The Grand Slam Tournament continues on with Roderick Strong and Samoa Joe advancing to the finals."
 ---
 
-This week's Collision was all about the road to Grand Slam, as Samoa Joe faced Penta El Zero Miedo and Roderick Strong squared up with Darby Allin in semi-final matches of the Grand Slam Eliminator Tournament. The winner of the final match on next week's Dynamite heads to New York to challenge MJF for the World Heavyweight Title – and both Roddy and Joe have storyline ties to the champ heading into the final which leaves things a little more unpredictable.
+This week's Collision was all about the road to [Grand Slam](/posts/2023-09-20-write-forever-aew-dynamite-grand-slam), as Samoa Joe faced Penta El Zero Miedo and Roderick Strong squared up with Darby Allin in semi-final matches of the Grand Slam Eliminator Tournament. The winner of the final match on next week's Dynamite heads to New York to challenge MJF for the World Heavyweight Title – and both Roddy and Joe have storyline ties to the champ heading into the final which leaves things a little more unpredictable.
 
 ## Open Challenge Night
 
-Jon Moxley defended the International Title in an open challenge against Action Andretti to start the show. Kevin Kelly rambled on about how we were in "bizarro land" because the Ohio fans were cheering Ohio native Moxley.
+[Jon Moxley](/posts/2024-11-23-write-forever-aew-full-gear) defended the International Title in an open challenge against Action Andretti to start the show. Kevin Kelly rambled on about how we were in "bizarro land" because the Ohio fans were cheering Ohio native Moxley.
 
 The "bizarro land" bullshit is one of the absolute most annoying things for a commentator to drone on about. It's not bizarro land, it's fans cheering who they want to cheer – and fans cheer for faces, heels, and tweeners in every town. AEW isn't like WWE where everyone has to get one type of reaction and if they don't, they just pipe in the desired reaction.
 

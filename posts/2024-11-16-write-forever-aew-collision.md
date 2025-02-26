@@ -11,7 +11,7 @@ Baby, I've got an arm full of covid booster and my temperature has been fluctuat
 
 I could have been at this show since Albany is just a few hours away from me, but that would require willingly putting myself in Albany. So, instead, I'm sitting in my bed watching it with our Siamese cat sitting next to me. I hope she's excited for the 9-minute Guns N' Roses music video tonight!
 
-As with Dynamite, we've got a full show booked and promoted well in advance of the show airing which is a lovely thing to see. Looking at the card ahead of time, it's going to be hard for anything to live up to what I've already imagined Shelton Benjamin vs Komander will be in my head.
+As with [Dynamite](/posts/2024-11-13-write-forever-aew-dynamite), we've got a full show booked and promoted well in advance of the show airing which is a lovely thing to see. Looking at the card ahead of time, it's going to be hard for anything to live up to what I've already imagined Shelton Benjamin vs Komander will be in my head.
 
 ## Feel the wrath of Harley Cameron
 
@@ -21,13 +21,13 @@ Then there was that one week where she sang and rapped and I realized that even 
 
 When she actually started wrestling, it was clear she wasn't on the level of the main event women in the company but she was fun to watch either way.
 
-Somewhere along the way, though, Harley really stepped it up and has become consistently good in the ring. I'm not going to put her on the same level as a Jamie Hayter or Toni Storm just yet, but I don't doubt that she could get there in time. In her short run so far, she's shown crazy improvement and her match with Mina Shirakawa proved that.
+Somewhere along the way, though, Harley really stepped it up and has become consistently good in the ring. I'm not going to put her on the same level as a [Jamie Hayter](/posts/2024-12-14-write-forever-aew-collision) or Toni Storm just yet, but I don't doubt that she could get there in time. In her short run so far, she's shown crazy improvement and her match with Mina Shirakawa proved that.
 
 This wasn't just Mina carrying Harley to a good match – Harley held her own and I think she's proven that she's going to be able to more than hold her own in the ring. And at just a couple of years as a professional wrestler, the sky really could be the limit for someone like Harley who is not only showing that she can learn and improve quickly in the ring but is loaded with personality and charisma.
 
 ## Everyone loves The Acclaimed breaking up
 
-The Acclaimed have been floundering for a long, long time. Their initial Tag Title run was fun, but their Trios Title run was pure misery at a time when half a dozen other trios would have been better suited as champions. The Bullet Club Gold saga dragged on and on, further souring them for me.
+[The Acclaimed](/posts/2023-09-02-write-forever-aew-collision) have been floundering for a long, long time. Their initial Tag Title run was fun, but their Trios Title run was pure misery at a time when half a dozen other trios would have been better suited as champions. The Bullet Club Gold saga dragged on and on, further souring them for me.
 
 But, now it seems like we're finally getting somewhere. They've been doing the same old shtick for far too long and it appears that we're on the verge of a break-up. The easy play here is for Max Caster to turn heel, possibly aligning with MVP who has been politely trying to lure him away for weeks.
 

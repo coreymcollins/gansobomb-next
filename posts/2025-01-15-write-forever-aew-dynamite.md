@@ -7,7 +7,7 @@ coverImage: "2025-01-15-write-forever-aew-dynamite.webp"
 excerpt: "Hobbs ate an ear, Megan Bayne finally returned/debuted, and MJF and Jeff Jarrett killed the entire crowd. What an AEW Dynamite!"
 ---
 
-The carnage levels are at their maximum! Tonight, AEW has the chance to do the most ridiculous thing and put the World Title on Powerhouse Hobbs. Will they do it? Probably not. _Should_ they do it? I don't know! I love Hobbs and this Death Riders shit is pretty boring to me, and they haven't really done a shock title change like this since Christian Cage beat Kenny Omega and that was just for an Impact/TNA Title.
+The carnage levels are at their maximum! Tonight, AEW has the chance to do the most ridiculous thing and put the World Title on Powerhouse Hobbs. Will they do it? Probably not. _Should_ they do it? I don't know! I love Hobbs and this Death Riders shit is pretty boring to me, and they haven't really done a shock title change like this since [Christian Cage](/posts/2023-10-14-write-forever-aew-collision) beat Kenny Omega and that was just for an Impact/TNA Title.
 
 So, why the hell not? Let's have some fun and spice up the main event scene. Put the belt on someone for a month or something and then he can drop it. Let's experiment.
 
@@ -23,7 +23,7 @@ Omega beat Brian Cage in his return to AEW television which wasn't a surprise at
 
 The most important thing to come out of Kenny's return? The fact that with his highlights and black & yellow color scheme, he's giving Jerry Lynn in ECW and it's absolutely beautiful.
 
-Post-match, the Don Callis Family beat Kenny up a bit before Will Ospreay made the save. The save was brief, though, as Konosuke Takeshita arrived to confront Kenny face-to-face. It all ended up being too much for Omegaspreay, who were laid out by Kyle Fletcher and Takeshita. Kenny and Ospreay shared some pained glances with each other to wrap things up.
+Post-match, the Don Callis Family beat Kenny up a bit before Will Ospreay made the save. The save was brief, though, as [Konosuke Takeshita](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) arrived to confront Kenny face-to-face. It all ended up being too much for Omegaspreay, who were laid out by Kyle Fletcher and Takeshita. Kenny and Ospreay shared some pained glances with each other to wrap things up.
 
 ## MJF is back to dragging down everyone around him
 

@@ -13,7 +13,7 @@ I'm going to try something new here where I watch *something* wrestling-related 
 
 This first pass is going to combine a whole week's worth into one post which was my original intent – a weekly digest sort of thing. But, I'm already feeling like I may want to just publish these each day rather than waiting. I'm trying not to give myself so much of a structure that it feels like work and that I don't feel bogged down by it.
 
-Currently, I'm a regular AEW viewer and I'll sporadically check out New Japan, Stardom, TJPW, or random US indies here and there. When I started this blog, it was just after finding my love of wrestling again thanks to NJPW and Stardom but I've since fallen off of both of them as a regular watcher.
+Currently, I'm a regular AEW viewer and I'll sporadically check out [New Japan](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19), Stardom, TJPW, or random US indies here and there. When I started this blog, it was just after finding my love of wrestling again thanks to NJPW and [Stardom](/posts/2018-08-13-preview-stardom-5-star-grand-prix-2018) but I've since fallen off of both of them as a regular watcher.
 
 I think a lot of that had to do with the birth of AEW and the ease at which good wrestling was suddenly available to me again. New Japan also went through some slumps for me creatively (who doesn't love a 40-minute EVIL match with tons of interference?), so it was fairly easy for me to let it slip away. Stardom really came down to them updating their website which made it way more cumbersome to access the platform with the browser on my TV, so that boiled down to frustration more than anything else.
 
@@ -59,7 +59,7 @@ The first chunk of this match feels like a showcase for Fujita who has the answe
 
 Even still, after a short flurry including a pair of diving dropkicks to the face in the corner, Fujita once again barrels Chono over with a knee to the stomach. Chono eventually regains control and locks in an STF, rolling onto his back and keeping the hold locked in so Fujita is locked in upside down. Not sure I've seen that before and it looked pretty sick.
 
-It's not too long before Fujita begins to get back to his feet but is met with a pair of Shining Wizards for Chono's fifth and final G1 Climax victory.
+It's not too long before Fujita begins to get back to his feet but is met with a pair of Shining Wizards for Chono's fifth and final [G1 Climax](/posts/2018-07-14-njpw-g1-climax-28-day-one) victory.
 
 This isn't as exciting a match as some modern G1 Finals, but Chono is always cool as can be watching him knock a dude's block off was a treat. Fujita is apparently still wrestling in NOAH and was active in MMA until around 2018 or so from a quick search. He didn't seem terribly impressive in the ring but is a real shooter and came off that way with how he manhandled Chono for most of the match. At 7 years Chono's junior, it felt like a story of Chono overcoming a refrigerator who loves knee strikes.
 

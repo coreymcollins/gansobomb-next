@@ -25,9 +25,9 @@ A little bit of imbalance hurt this week, with an opening promo that was solid b
 
 ### The Redemption of Swerve Strickland
 
-If folks still weren't sure the babyface turn of Swerve Strickland was happening, there can be no doubt after Dynamite. Swerve began the show with a solid babyface fire promo, promising to not let down all of the people who have supported him.
+If folks still weren't sure the babyface turn of [Swerve Strickland](/posts/2025-01-01-write-forever-aew-dynamite) was happening, there can be no doubt after Dynamite. Swerve began the show with a solid babyface fire promo, promising to not let down all of the people who have supported him.
 
-This Dynamite was severely under-booked, so when Samoa Joe came out to interrupt I was half-expecting Joe and Swerve for the title to happen tonight with Swerve taking the belt as a way to cement this "new season" of Dynamite.
+This Dynamite was severely under-booked, so when [Samoa Joe](/posts/2023-09-20-write-forever-aew-dynamite-grand-slam) came out to interrupt I was half-expecting Joe and Swerve for the title to happen tonight with Swerve taking the belt as a way to cement this "new season" of Dynamite.
 
 That didn't happen, but we did end up with a tag team match of Matt Taven (I'M MATT TAVEN) and Mike Bennett taking on the unfriendly duo of Joe and Swerve. The match was fine and short; shorter than the talking segment that opened the show, in fact.
 
@@ -39,7 +39,7 @@ It's still Swerve's House in 2024.
 
 ### Hook: Ruined By Jericho
 
-Hook successfully defended the FTW Title against Brian Cage in what was an exceptionally fun mess of a match. Cage made Hook like a million bucks out there, putting Hook over in a way that I'm not sure Hook has been put over to this point.
+Hook successfully defended the FTW Title against [Brian Cage](/posts/2023-09-13-write-forever-aew-dynamite) in what was an exceptionally fun mess of a match. Cage made Hook like a million bucks out there, putting Hook over in a way that I'm not sure Hook has been put over to this point.
 
 Obviously, Hook has won tons of matches but something about the visual of him choking Cage out while laying in a pile of thumbtacks just stands out differently from what we've seen to this point.
 

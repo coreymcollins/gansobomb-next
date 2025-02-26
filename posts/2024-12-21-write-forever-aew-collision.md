@@ -17,13 +17,13 @@ For now, I'll just kick back while it's toasty in my house and 10 degrees Fahren
 
 ## The devious Ricochet continues his slow burn
 
-I've talked about how much cheating there has been in the C2 this year and how much it's soured me on a lot of the matches. Not necessarily the _results_ because I think most everyone who has won has won when they should have. But, it seems like heels are cheating to win almost every match.
+I've talked about how much cheating there has been in the [C2](/posts/2023-12-31-5-reasons-why-aew-continental-classic) this year and how much it's soured me on a lot of the matches. Not necessarily the _results_ because I think most everyone who has won has won when they should have. But, it seems like heels are cheating to win almost every match.
 
 If it were done more sparingly, it'd be fine! For instance, if it was just Ricochet's tournament story that he started cheating to win matches as a way to impress The Hurt Syndicate then it'd be a fun story to see unfold. Unfortunately, we're also seeing at least Kyle Fletcher and Claudio also cheating to win matches.
 
-Ricochet pulling out some sneaky tactics tonight was the perfect way to put him over Ospreay while also trying to establish himself as a guy who will do whatever it takes to win a match, a killer instinct that's missing from his character if he wants to run with MVP, Shelton Benjamin, and Bobby Lashley.
+[Ricochet](/posts/2025-02-05-write-forever-aew-dynamite) pulling out some sneaky tactics tonight was the perfect way to put him over Ospreay while also trying to establish himself as a guy who will do whatever it takes to win a match, a killer instinct that's missing from his character if he wants to run with MVP, Shelton Benjamin, and Bobby Lashley.
 
-With his victory, Ricochet became the first man in the Gold League to capture 9 points. Darby Allin and Claudio Castagnoli had the same opportunity to reach 9 points in their match tonight as well.
+With his victory, Ricochet became the first man in the Gold League to capture 9 points. Darby Allin and [Claudio Castagnoli](/posts/2023-09-03-write-forever-aew-all-out) had the same opportunity to reach 9 points in their match tonight as well.
 
 ## What is actually happening with Kris Statlander?
 

@@ -12,7 +12,7 @@ tags:
   - "streaming"
 ---
 
-Day 1 of the month-long [NJPW G1 Climax](https://njpwworld.com/) is in the books and it kicked off with a bang. Or a stab, I guess. Whatever works best for talking about "Switchblade" Jay White.
+Day 1 of the month-long [NJPW G1 Climax](https://njpwworld.com/) is in the books and it kicked off with a bang. Or a stab, I guess. Whatever works best for talking about ["Switchblade" Jay White](/posts/2024-12-18-write-forever-aew-dynamite).
 
 The show started at 4:30am local time for me so I wisely set my alarm for 4:10 so I could catch the show live as I'm an idiot who doesn't like feeling totally rested all day. I did catch a quick little cat nap during EVIL/Elgin because fuck Mike Elgin and it left me recharged for the final two matches.
 
@@ -38,4 +38,4 @@ After the match, and backstage, White reiterated that Chaos was his and that he 
 
 https://twitter.com/totaldivaseps/status/1018110349642477569
 
-Night 2 is... well... tomorrow! And thankfully it starts at the more sane time of 1am Central Time so I'll either stay up stupidly late to watch it all and then try to sleep in, or just try and catch up on it throughout the day. Somehow I doubt I'll be sleeping in, though, as we just picked up a 6-month old foster puppy that will be staying with us for ten days and the little dude is full of non-stop energy - especially when mixed with our year-old pup. Give me strength.
+[Night 2](/posts/2018-07-15-njpw-g1-climax-28-day-two) is... well... tomorrow! And thankfully it starts at the more sane time of 1am Central Time so I'll either stay up stupidly late to watch it all and then try to sleep in, or just try and catch up on it throughout the day. Somehow I doubt I'll be sleeping in, though, as we just picked up a 6-month old foster puppy that will be staying with us for ten days and the little dude is full of non-stop energy - especially when mixed with our year-old pup. Give me strength.

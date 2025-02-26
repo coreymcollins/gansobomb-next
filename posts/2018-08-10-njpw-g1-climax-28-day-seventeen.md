@@ -12,7 +12,7 @@ tags:
   - "streaming"
 ---
 
-We are upon the final three days as we kick the weekend off with G1 Climax 28 day seventeen! Today and tomorrow we’ll see the finals of the tournament come to light with everything still every much up in the air and a number of interesting possibilities for the finals in Budokan. The set is nice and spruced up and I did a little dance that really confused my dog, so I’m good to go!
+We are upon the final three days as we kick the weekend off with G1 Climax 28 day seventeen! Today and [tomorrow](/posts/2018-08-11-njpw-g1-climax-28-day-eighteen) we’ll see the finals of the tournament come to light with everything still every much up in the air and a number of interesting possibilities for [the finals in Budokan](/posts/2018-08-12-njpw-g1-climax-28-day-nineteen-g1-finals). The set is nice and spruced up and I did a little dance that really confused my dog, so I’m good to go!
 
 ## Tomohiro Ishii & SHO vs Toa Henare & Shota Umino
 
@@ -24,7 +24,7 @@ Yano and Gedo almost take a countout loss right at the onset of this one as they
 
 ## Juice Robinson & David Finlay vs Hirooki Goto & YOH
 
-Goto is coming off of a tough loss to Zack Sabre Jr and contends that his looming match with Juice will be a fair fight [because now they’re both broken](https://www.youtube.com/watch?v=hYgfWwSxEMc). Goto’s elbow is wrapped here and he favors it on simple moves, like shoulder blocks, early on. Juice looks for Pulp Friction early on but Goto counters into a GTR attempt which Juice breaks out of. Goto looks for a big lariat but Juice hits his injured arm on the swing to block contact. With the limb now targeted, Juice tags in Finlay and the two attempt a double flapjack on the NEVER Openweight Champion. Goto fights out and disposes of Juice to the floor and survives a Urinage back breaker from Finlay before coming back with the Ushigoroshi and GTR for the win.
+Goto is coming off of a tough loss to Zack Sabre Jr and contends that his looming match with [Juice](/posts/2023-07-29-aew-best-episode-of-collision-yet) will be a fair fight [because now they’re both broken](https://www.youtube.com/watch?v=hYgfWwSxEMc). Goto’s elbow is wrapped here and he favors it on simple moves, like shoulder blocks, early on. Juice looks for Pulp Friction early on but Goto counters into a GTR attempt which Juice breaks out of. Goto looks for a big lariat but Juice hits his injured arm on the swing to block contact. With the limb now targeted, Juice tags in Finlay and the two attempt a double flapjack on the NEVER Openweight Champion. Goto fights out and disposes of Juice to the floor and survives a Urinage back breaker from Finlay before coming back with the Ushigoroshi and GTR for the win.
 
 ## Tetsuya Naito & SANADA vs Zack Sabre Jr & TAKA
 

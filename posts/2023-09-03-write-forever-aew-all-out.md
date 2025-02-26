@@ -7,13 +7,13 @@ coverImage: "2023-09-02-write-forever-aew-all-out.webp"
 excerpt: "A pay-per-view marred by Kevin Kelly."
 ---
 
-It's All Out 2023, the sequel to All Out 2023 and the spin-off of All In! This two PPVs in two weeks thing is a bit much, and the card feels a little undercooked but it's not like any of the matches should be bad – and, in fact, some of them should absolutely rip.
+It's All Out 2023, the sequel to All Out 2022 and the spin-off of All In! This two PPVs in two weeks thing is a bit much, and the card feels a little undercooked but it's not like any of the matches should be bad – and, in fact, some of them should absolutely rip.
 
 ## ROH Tag Team Titles: Better Than You Bay Bay vs Dark Order
 
 The ROH Tag Titles start off the main show with Better Than You Bay Bay defending against the renewed and rude Dark Order. Can The Beaver Boys finally step into the spotlight that has eluded Dark Order for essentially their entire run sans Brodie Lee?
 
-Dark Order boys are definitely playing dirty as MJF goes down with a re-aggravation of the neck injury he suffered at the hands of his partner, Adam Cole, at All In. Alex Reynolds lays MJF out with a steel chair on the floor behind the referee's back *(referees: do not report this)* leading to an injury spot with MJF being taken to the back.
+Dark Order boys are definitely playing dirty as [MJF](/posts/2025-02-05-write-forever-aew-dynamite) goes down with a re-aggravation of the neck injury he suffered at the hands of his partner, Adam Cole, at All In. Alex Reynolds lays MJF out with a steel chair on the floor behind the referee's back *(referees: do not report this)* leading to an injury spot with MJF being taken to the back.
 
 As Cole takes on Silver and Reynolds alone, the crowd kicks up a delightful *"SINGLE CLOTHESLINE!"* chant.
 
@@ -37,7 +37,7 @@ BIG MEATY MEN SLAPPIN' MEAT.
 
 Excalibur mentions that Toshiaki Kawada is in attendance tonight and I hope he delivers many kicks to the head of Kevin Kelly.
 
-Listen, I don't know what to say about this match – they beat the piss out of each other, hit hard, and it fucking ruled. Joe wins via tapout with the choke, and Shane Taylor should be on TV every week.
+Listen, I don't know what to say about this match – they beat the piss out of each other, hit hard, and it fucking ruled. Joe wins via tapout with the choke, and [Shane Taylor](/posts/2024-04-13-write-forever-aew-collision) should be on TV every week.
 
 I'm so glad Joe went from wearing a poncho at WrestleMania to this revitalizing run in AEW.
 

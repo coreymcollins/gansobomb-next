@@ -43,7 +43,7 @@ In the ring, Roddy has always been great in his AEW run but this new twist of th
 
 There are two stories to be told here: the growing uneasiness between Chris Jericho and Sammy Guevara and the former ROH Tag Team Champions, Aussie Open, trying to get back on the winning track.
 
-Both teams have their problems rooted in All In. For Jericho and Sammy, Jericho shoved his apprentice away after the match and essentially blamed Sammy for the loss the following week on Dynamite. For the Oi (Oi Oi) Bois, their loss of their titles to Adam Cole & MJF is a major setback in what was a quick rise to teh top after Mark Davis' return from injury.
+Both teams have their problems rooted in All In. For Jericho and Sammy, Jericho shoved his apprentice away after the match and essentially blamed Sammy for the loss the following week on Dynamite. For the Oi (Oi Oi) Bois, their loss of their titles to Adam Cole & MJF is a major setback in what was a quick rise to the top after Mark Davis' return from injury.
 
 There were a pretty decent number of "OI OI OI" chants for the Aussies, as there were evidently a ton of Australian Garfields in Indiana in attendance at the Garfield Arena. Do Australian Garfields hate Fridays instead?
 

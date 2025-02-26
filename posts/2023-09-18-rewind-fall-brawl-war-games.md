@@ -11,13 +11,13 @@ Ah, the smell of apple pies baking in ovens, the sound of dry leaves crunching u
 
 Well, technically we're still about a week out from Fall officially starting, but it's close enough to sit back with some Fall Brawl.
 
-This show may be most remembered for Jim Duggan beating Steve Austin in 35-seconds to win the United States Title. Even as a kid I knew that sucked. I had already grown tired of Hulk Hogan as a wise, wise 9-year-old when Hogan pulled Sid out of the ring at the 1992 Royal Rumble. I was there in person and my friends and I were shouting Hogan down from the cheap seats the whole time.
+This show may be most remembered for Jim Duggan beating Steve Austin in 35-seconds to win the United States Title. Even as a kid I knew that sucked. I had already grown tired of Hulk Hogan as a wise, wise 9-year-old when Hogan pulled Sid out of the ring at the 1992 [Royal Rumble](/posts/2018-07-26-the-list-favorite-gimmick-matches). I was there in person and my friends and I were shouting Hogan down from the cheap seats the whole time.
 
-When Hogan showed up in WCW, it became painfully obvious that all of these old WWF guys just followed with him. I think I was still not in a place where I could see WCW on TV regularly at that time, but I bought just about every wrestling magazine for sale at the grocery store so I was at least familiar with what was going on.
+When Hogan showed up in [WCW](/posts/2023-09-04-rewind-wcw-the-first-nitro), it became painfully obvious that all of these old WWF guys just followed with him. I think I was still not in a place where I could see WCW on TV regularly at that time, but I bought just about every wrestling magazine for sale at the grocery store so I was at least familiar with what was going on.
 
 A year to the day from this idiotic loss to Duggan, Steve Austin would show up in ECW and begin his incredible rise to the top of professional wrestling. That run in ECW barely lasted 3 months, but it felt hugely important to Austin and ECW (and Mikey Whipwreck, and me) at the time.
 
-But that's all superfluous to the main event – War Games pitting Dusty & Dustin Rhodes and The Nasty Boys against The Stud Stable of Terry Funk, Arn Anderson, Bunkhouse Bunk, and Colonel Robert Parker.
+But that's all superfluous to the main event – War Games pitting Dusty & Dustin Rhodes and The Nasty Boys against The Stud Stable of [Terry Funk](/posts/2023-09-11-rewind-terry-funk-bret-hart-50-years-of-funk), Arn Anderson, Bunkhouse Bunk, and Colonel Robert Parker.
 
 I watched the Peacock version which seemed to be pretty much intact, including some pre-match video packages detailing Double A turning on Dustin Rhodes leading to the impassioned promo from Dusty begging Dustin to allow him to be his partner in War Games. Wearing some kind of purple and gold Texas but in outer space button up, Dustin obliged his father's plea to give him not a handshake but a hug and a kiss to seal the deal. The two embraced and the deal was on!
 

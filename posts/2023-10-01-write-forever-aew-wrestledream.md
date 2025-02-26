@@ -19,7 +19,7 @@ I seriously could not care less about The Righteous. I know I said I thought I m
 
 They're not a swamp cult and they're not dark and spooky; the only way they're like the Wyatt family is that they have some somewhat cult-like vibes and the main guy has terrible white guy dread locks.
 
-And this MJF/Adam Cole tag team has run its course for me, at least in this form. I enjoyed the ride up to MJF defending the title against Adam Cole and I even appreciate that the blowoff was just "we're still friends" and not the regular wrestling thing one guy turning on the other (which we may still get, I don't know). I think I'm simply over the plucky babyface MJF shtick.
+And this [MJF/Adam Cole](/posts/2023-07-29-aew-best-episode-of-collision-yet) tag team has run its course for me, at least in this form. I enjoyed the ride up to MJF defending the title against Adam Cole and I even appreciate that the blowoff was just "we're still friends" and not the regular wrestling thing one guy turning on the other (which we may still get, I don't know). I think I'm simply over the plucky babyface MJF shtick.
 
 I don't need to see the AEW World Champion throwing one guy's head into another guy's ass or doing kangaroo kicks. It's also a little annoying that the ROH Titles, aside from the Women's Title which Athena has done wonders with, have become titles that get defended on AEW TV and PPV so much.
 
@@ -41,7 +41,7 @@ So, please AEW – put some effort into your font selections. Or pay me to think
 
 The four-way tag team match was pretty solid stuff. It wasn't anything too wild, just solid work from everybody involved, which is why it lands in this section instead of The Good. It was also marred a bit by what seemed like a potential injury to Fenix, possibly tweaking his shoulder on what looked like a simple movement in the ring with Nick Jackson. It's always the simple stuff!
 
-The Gunns shined here, in my opinion. Those wonderful Ass Boys have felt like such a big deal ever since Collision started; they rocketed up toward the main event, picked up some pretty big wins, and joined Bullet Club Gold. They're hitting their stride.
+[The Gunns](/posts/2023-09-03-write-forever-aew-all-out) shined here, in my opinion. Those wonderful Ass Boys have felt like such a big deal ever since Collision started; they rocketed up toward the main event, picked up some pretty big wins, and joined Bullet Club Gold. They're hitting their stride.
 
 I had picked The Bucks winning this match and, subsequently, Aussie Open defeating FTR for the AEW Tag Team Titles. I don't see getting another Bucks/FTR match so soon after All In and, honestly, we don't need one. I think Aussie Open cementing themselves as a top team by beating FTR here and then the Bucks at Full Gear is the way to go. Let's see if I'm right as the show goes on!
 

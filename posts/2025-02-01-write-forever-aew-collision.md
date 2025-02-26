@@ -19,11 +19,11 @@ Trans rights are human rights. Fix your hearts or die.
 
 ## Everybody can survive the Best Wrestler Alive
 
-Making Max Caster a complete buffoon is an inspired choice and also the correct choice. With The Acclaimed split being official, Caster stepped into his full dipshit heel persona and his character work bumped up a few notches.
+Making [Max Caster](/posts/2024-11-16-write-forever-aew-collision) a complete buffoon is an inspired choice and also the correct choice. With The Acclaimed split being official, Caster stepped into his full dipshit heel persona and his character work bumped up a few notches.
 
 It feels like a mistake to keep Anthony Bowens aligned with Billy Gunn. For me, it's clinging too much onto the past and not allowing Bowens to move on and establish his own identity. Caster is getting that chance and so far he's succeeding.
 
-After The Beast Mortos destroyed Adam Priest, Caster came out to make the first match in the _"Who Can Survive The Best Wrestler Alive?"_ open challenge official.
+After [The Beast Mortos](/posts/2024-12-14-write-forever-aew-collision) destroyed Adam Priest, Caster came out to make the first match in the _"Who Can Survive The Best Wrestler Alive?"_ open challenge official.
 
 Max was answered by the returning RUSH, in excellent new entrance gear, and completely dismantled. Caster got zero offense in and was instead put to bed by RUSH in a matter of moments.
 
@@ -35,7 +35,7 @@ I can't wait to see who kills Max Caster next!
 
 Not everybody in AEW always has some sensational bit of character work going on, but right now we're operating at a pretty high capacity in terms of character work and character development.
 
-Tonight we saw another small chapter in Swerve Strickland vs Ricochet. Ricochet's transformation into a scissor-toting psychopath wearing serial killer glasses with a _truly_ off-the-charts prescription has been so incredibly well done.
+Tonight we saw another small chapter in Swerve Strickland vs [Ricochet](/posts/2024-12-11-write-forever-aew-dynamite). Ricochet's transformation into a scissor-toting psychopath wearing serial killer glasses with a _truly_ off-the-charts prescription has been so incredibly well done.
 
 His initial run in AEW was underwhelming despite all of the exciting things he's able to do in the ring. Was that expected and all part of the plan? Or did they need to pivot once it became clear that crowds simply weren't buying the act?
 

@@ -7,7 +7,7 @@ coverImage: "2023-09-27-write-forever-aew-dynamite.webp"
 excerpt: "NO DANCING ALLOWED by decree of Swerve Strickland. Plus, the Impact/NXT Ninjas arrive in AEW and Christian Cage reveals his hatred for other dead family members."
 ---
 
-Are you ready to light the fuse on a fever dream episode of Dynamite? Up until around 7pm ET, I think the only matches announced were a 4-way preview of a 4-way tag team match at WrestleDream and Willow/Julia. In the run-up to the show, we got a Fenix/Jeff Jarrett International Title Match announcement as well as a Nick Jackson/Brian Cage/Claudio Castagnoli three-way for an International Title Match next week.
+Are you ready to light the fuse on a fever dream episode of Dynamite? Up until around 7pm ET, I think the only matches announced were a 4-way preview of a 4-way tag team match at [WrestleDream](/posts/2023-10-01-write-forever-aew-wrestledream) and Willow/Julia. In the run-up to the show, we got a Fenix/Jeff Jarrett International Title Match announcement as well as a Nick Jackson/Brian Cage/Claudio Castagnoli three-way for an International Title Match next week.
 
 This feels like it has the makings of one of those weird Dynamites where nothing was really planned in advance or a bunch of people are injured or something, but then it somehow ends up being incredible. Will this episode have the secret formula?
 
@@ -15,7 +15,7 @@ This feels like it has the makings of one of those weird Dynamites where nothing
 
 BREE WOO BREE WOO BREE WOO WOO BREE WOO WOO
 
-I was just watching Jeff Jarrett have to cheat to beat Doink on a Coliseum Home Video release from around 1994 or so and now he's here challenging Rey Fenix for the International Title. Fenix is also apparently injured coming out of the International Title Match with Mox in which Mox suffered a concussion.
+I was just watching [Jeff Jarrett](/posts/2025-01-15-write-forever-aew-dynamite) have to cheat to beat Doink on a Coliseum Home Video release from around 1994 or so and now he's here challenging Rey Fenix for the International Title. Fenix is also apparently injured coming out of the International Title Match with Mox in which Mox suffered a concussion.
 
 Part-way through the match, Fenix began favoring his leg. Expert selling knowing that people are clued in to his injury or actual re-aggravation? The jury's out!
 

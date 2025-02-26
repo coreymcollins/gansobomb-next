@@ -21,11 +21,11 @@ Anyway, enough lamenting about WISP (Wrestling In Strange Places) – let's get 
 
 Nobody likes to see anybody get injured. Juice Robinson is one of my special little guys and with him just coming off of an injury, I was pretty excited to see what he'd get to do in the C2. Unfortunately, he broke his fibula in his opening match and that was all she wrote for the ole Juicer.
 
-Rather than giving everybody in the block 3 points, it was decided that Komander would take Juice's place. Makes sense! Juice was never going to win the thing – he'd maybe get a total of 3 points by the end of the tournament. Someone like Komander could slot right in there and do the same thing, or even get 0 points and still be fine.
+Rather than giving everybody in the block 3 points, it was decided that [Komander](/posts/2025-01-11-write-forever-aew-collision) would take Juice's place. Makes sense! Juice was never going to win the thing – he'd maybe get a total of 3 points by the end of the tournament. Someone like Komander could slot right in there and do the same thing, or even get 0 points and still be fine.
 
 Komander's first match in the tournament was against Ricochet last night on Rampage (one of the best Rampage's of the year) and it was fantastic. Komander had the crowd behind him and they (and I) bit on a bunch of nearfalls where it looked like Komander could pull off the upset.
 
-Ricochet came out on top, predictably, but the match was a real showcase for Komander.
+[Ricochet](/posts/2025-02-05-write-forever-aew-dynamite) came out on top, predictably, but the match was a real showcase for Komander.
 
 Tonight, against Darby Allin, Komander did more of the same. He got the crowd behind him, and while nobody was going to _boo_ Darby Allin it was nice to hear the crowd equally behind both guys.
 
@@ -35,7 +35,7 @@ If there were people in the crowd who had never seen wrestling, or even just AEW
 
 ## AEW's future is on lock with Kyle Fletcher and Daniel Garcia
 
-I sing the praises of Kyle Fletcher and Daniel Garcia a lot, but man is it ever becoming more and more obvious how important these guys could be to the future of AEW with each passing week of the Continental Classic.
+I sing the praises of [Kyle Fletcher](/posts/2023-10-07-write-forever-aew-collision) and Daniel Garcia a lot, but man is it ever becoming more and more obvious how important these guys could be to the future of AEW with each passing week of the Continental Classic.
 
 Fletcher has been on an all-star run the past year and has never looked better, more confident, or more like a main event wrestler than he does right now. He doesn't look like a young wrestler unsure when he's in there with veterans; he holds his own with Kazuchika goddamn Okada of all people and looks right doing so.
 

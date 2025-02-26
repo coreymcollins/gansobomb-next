@@ -9,17 +9,17 @@ excerpt: "If Brody King doesn't come out of the Continental Classic and straight
 
 There are only two C2 matches this week, but that's okay because we also get PAC vs Jay White which should absolutely slap.
 
-This week we got the news that Juice Robinson is out of the tournament due to a fibula he broke a few minutes into his match on Collision. Juice rules. I love Juice. I hope he's back soon, especially since he's just coming off of an injury.
+This week we got the news that Juice Robinson is out of the tournament due to a fibula he broke a few minutes into his match on [Collision](/posts/2024-11-30-write-forever-aew-collision). Juice rules. I love Juice. I hope he's back soon, especially since he's just coming off of an injury.
 
 Juice has been replaced with Komander in the tournament and I'll stick by my previous points picks just to make things easy. I could see Komander going the full goose egg, but I'll hold out a little hope for him by way of my confidence in Juice Robinson.
 
-Also, call me simple but I love a god damned battle royal. I had hoped this would be the year someone upended MJF for the Dynamite Diamond Ring, but since we're in MJF/Adam Cole/Kyle O'Reilly (sadly) Hell forever I assume one of those two guys wins the right to face MJF for the ring and then wipes out. I assume KOR so we can drag this bullshit on even longer.
+Also, call me simple but I love a god damned battle royal. I had hoped this would be the year someone upended MJF for the [Dynamite Diamond Ring](/posts/2023-10-14-write-forever-aew-collision), but since we're in MJF/Adam Cole/Kyle O'Reilly (sadly) Hell forever I assume one of those two guys wins the right to face MJF for the ring and then wipes out. I assume KOR so we can drag this bullshit on even longer.
 
 But, nevermind that shit – it's the Continental Classic, week two!
 
 ## Shelton Benjamin is still the coolest
 
-While I've not watched WWE in ages, I did love Shelton Benjamin when he first showed up in that company and always thought he was great. Since arriving in AEW, he's cemented that for me.
+While I've not watched WWE in ages, I did love [Shelton Benjamin](/posts/2024-12-21-write-forever-aew-collision) when he first showed up in that company and always thought he was great. Since arriving in AEW, he's cemented that for me.
 
 I was sheepish on The Hurt Syndicate coming to AEW only because it's felt like a slew of ex-WWE wrestlers have shown up to take spots on the roster in the past year or two. I miss the early days of AEW when it felt like surprise debuts would be for people on the indies getting their long overdue big break rather than just picking up people who had just left or been fired from WWE.
 

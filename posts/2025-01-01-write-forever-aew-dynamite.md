@@ -17,7 +17,7 @@ On this, the first AEW show of the new year let's see what tricks the Khan Man h
 
 ## A lot of talking done quickly
 
-It felt like we got a backstage promo as a bumper after every match and I think that's just great. We heard from Mox, FTR & Adam Copeland, Jay White, The Acclaimed, and Swerve Strickland in succinct backstage promos all in the first half hour of the show. And the promos were good and insightful!
+It felt like we got a backstage promo as a bumper after every match and I think that's just great. We heard from Mox, [FTR](/posts/2023-09-03-write-forever-aew-all-out) & Adam Copeland, Jay White, The Acclaimed, and Swerve Strickland in succinct backstage promos all in the first half hour of the show. And the promos were good and insightful!
 
 You don't need to eat up ten minutes in the ring to get your point across. You also don't need to overthink the promos that you do put on the show. It just makes sense to have the matches on your show built up as the show goes on, and that doesn't _always_ happen on AEW shows. It used to be that Collision would open with those great cold open promos to really jazz up the night.
 
@@ -29,7 +29,7 @@ It's not rocket science. Wrestling shouldn't be hard to do well. Episodes of Dyn
 
 ## Julia Hart returned, but there may be some kinks to work out
 
-Unsure if it was due to ring rust on Julia or a chemistry mismatch with Jamie Hayter, but their match tonight didn't deliver as well as I had hoped it would. Perhaps this feud will continue on and we'll get a better, more hard-hitting match on a PPV.
+Unsure if it was due to ring rust on Julia or a chemistry mismatch with [Jamie Hayter](/posts/2018-09-22-stardom-5-star-grand-prix-2018-day-seven), but their match tonight didn't deliver as well as I had hoped it would. Perhaps this feud will continue on and we'll get a better, more hard-hitting match on a PPV.
 
 Since coming back from injury, Hayter hasn't felt quite as dynamic as she was before she left. Her matches all had a different air about them pre-injury. She hit harder than anyone on the roster and you knew you were in for a good time watching someone get their block knocked off whenever she was in the ring.
 
@@ -41,7 +41,7 @@ Whether this is a straight up feud between the two being built or Jamie Hayter a
 
 ## Swerve Strickland created a new arch nemesis
 
-If there's one thing Swerve Strickland is good at _(note: he's great at everything)_, it's creating new enemies at the drop of a hat. And I'm not just talking about regular enemies who want to beat you for a title or win a spirited feud. I'm talking about arch nemeses.
+If there's one thing [Swerve Strickland](/posts/2023-08-24-write-forever-aew-dynamite) is good at _(note: he's great at everything)_, it's creating new enemies at the drop of a hat. And I'm not just talking about regular enemies who want to beat you for a title or win a spirited feud. I'm talking about arch nemeses.
 
 Swerve made an enemy for life out of Hangman Page when he broke into his house and left a t-shirt on or near his baby. This drove Hangman out of his god damn mind, causing ole Hanger to drink Swerve's blood and burn down Swerve's childhood home.
 

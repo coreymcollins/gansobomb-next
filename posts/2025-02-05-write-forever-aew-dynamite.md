@@ -11,11 +11,11 @@ It's tough to just keep on writing about wrestling as if there aren't more insan
 
 So, here we are again to watch people bash each others' brains in for my enjoyment! And I _do_ enjoy it!
 
-Tonight, we get another chapter in Swerve Strickland vs Ricochet which should be maniacal. I know it's just a Wednesday and not a PPV, but I wouldn't be surprised to see either or both bleed buckets tonight. That is, unless we're saving the real bloodbath for a gimmick match on PPV.
+Tonight, we get another chapter in Swerve Strickland vs Ricochet which should be maniacal. I know it's just a Wednesday and not a PPV, but I wouldn't be surprised to see either or both bleed buckets tonight. That is, unless we're saving the real bloodbath for a [gimmick match](/posts/2018-07-26-the-list-favorite-gimmick-matches) on PPV.
 
-And what of Hangman Page?? Will we see what he's up to in regards to Swerve this week? There is so much swirling around with Swerve, Ricochet, Hangman, MJF, and Jeff Jarrett (lol) all in the vicinity of one another – and that's when wrestling is the most fun. When it feels like anything can happen and storylines can start branching in new and exciting directions.
+And what of Hangman Page?? Will we see what he's up to in regards to Swerve this week? There is so much swirling around with Swerve, Ricochet, Hangman, [MJF, and Jeff Jarrett](/posts/2025-01-15-write-forever-aew-dynamite#mjf-is-back-to-dragging-down-everyone-around-him) (lol) all in the vicinity of one another – and that's when wrestling is the most fun. When it feels like anything can happen and storylines can start branching in new and exciting directions.
 
-So, essentially, the complete opposite of Jon Moxley and Death Riders. Oh well, can't win 'em all!
+So, essentially, the complete opposite of [Jon Moxley and Death Riders](/posts/2025-02-01-write-forever-aew-collision). Oh well, can't win 'em all!
 
 ## The long and winding road of Dunkzilla
 

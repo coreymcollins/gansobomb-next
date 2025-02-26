@@ -9,7 +9,7 @@ excerpt: "A mixed bag of an AEW Dynamite with a classic tag team draw to start, 
 
 We ordered Indian food for dinner from our regular place but it was way spicier than usual. A wonderful thing about aging is that your body decides you just can't eat certain foods without feeling pain, which can sometimes be combined with eating foods after a certain time of day! It's great!
 
-Here's hoping my stomach doesn't explode in a ball of flame like I'm a Hechicero entrance or something.
+Here's hoping my stomach doesn't explode in a ball of flame like I'm a [Hechicero](/posts/2024-02-03-write-forever-aew-collision) entrance or something.
 
 My internet seems to have had a similarly spicy dinner because it's also struggling as I type this. It currently feels like I'm watching Dynamite in a slightly more crisp RealPlayer.
 
@@ -33,7 +33,7 @@ I understand the gesture of hiring the guy who essentially made Sting to be a pa
 
 ### One more Timeless squash
 
-It's barely worth writing about, but we got yet one more Toni Storm squash to build toward Revolution. This led directly into Deonna Purrazzo's entrance for her match with Madison Rayne, proving that Tony Khan _can_ book two women's matches on an episode of Dynamite but it better feel like it's just one big segment, bub!
+It's barely worth writing about, but we got yet one more Toni Storm squash to build toward Revolution. This led directly into [Deonna Purrazzo's](/posts/2024-02-07-write-forever-aew-dynamite) entrance for her match with Madison Rayne, proving that Tony Khan _can_ book two women's matches on an episode of Dynamite but it better feel like it's just one big segment, bub!
 
 Plus, one of the matches has to be done in under two minutes or so.
 
@@ -57,7 +57,7 @@ It's not that the wrestling here was bad, it was just simply there and exactly w
 
 As usual, writing this each week generally requires doing some nitpicking. By American TV wrestling standards over the past 20 years, on any other company's show this would just be a nice good match. But, AEW has heightened the standards for itself to where a solid match like this ends up in The In-Between.
 
-The path to get to Orange Cassidy vs Roderick Strong is following some familiar steps in AEW. It harkens back to some MJF feuds where his opponents would have to run through some sort of gauntlet before wrestling him. Interesting that, in this case, it's Adam Cole associate Roddy who has OC running a gauntlet.
+The path to get to Orange Cassidy vs [Roderick Strong](/posts/2023-09-13-write-forever-aew-dynamite) is following some familiar steps in AEW. It harkens back to some MJF feuds where his opponents would have to run through some sort of gauntlet before wrestling him. Interesting that, in this case, it's Adam Cole associate Roddy who has OC running a gauntlet.
 
 Though, as the story goes, Orange Cassidy runs himself through the gauntlet on a voluntary basis whether it's an Open Challenge for the International Title or non-title matches like this one and last week's Texas Death Match with Matt Taven (I'M MATT TAVEN).
 

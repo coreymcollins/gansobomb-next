@@ -13,13 +13,13 @@ The release that sucks the most, probably, is Dasha because she was a welcome ch
 
 Tony Khan has been pretty quiet on Twitter since the releases dropped, which is unusually for the terminally online owner of AEW.
 
-Adam Copeland, on the other hand, was pretty vocal in his weird show-opening promo in which he went on and on about how great wrestling is, how great AEW is, and how great Tony Khan is. This felt as much like weird damage control for the company whose owner once commented that he wanted to honor contracts rather than doing mass releases as much as it felt like veiled shots at CM Punk after his Ariel Helwani interview earlier in the week.
+[Adam Copeland](/posts/2024-02-14-write-forever-aew-dynamite), on the other hand, was pretty vocal in his weird show-opening promo in which he went on and on about how great wrestling is, how great AEW is, and how great Tony Khan is. This felt as much like weird damage control for the company whose owner once commented that he wanted to honor contracts rather than doing mass releases as much as it felt like veiled shots at [CM Punk](/posts/2018-07-26-the-list-favorite-gimmick-matches) after his Ariel Helwani interview earlier in the week.
 
 Either way, oddball start to the show that felt a little too heavy-handed for me.
 
 ## A battle of ~~Ospreays~~ ~~Hobbsesess~~ Wills
 
-In the long-standing tradition of "Don Callis Family Members Beating The Shit Out of Each Other", Will Hobbs and Will Ospreay beat the shit out of each other.
+In the long-standing tradition of "Don Callis Family Members Beating The Shit Out of Each Other", [Will Hobbs](/posts/2023-09-03-write-forever-aew-all-out) and Will Ospreay beat the shit out of each other.
 
 Will Hobbs is just fantastic. He's come so far since first appearing in AEW and I hope the company is smart enough to know what they have in him, because whenever his contract comes up I have to imagine other companies will be making plays for him. Hobbs is a guy you can rely on to have great matches and deliver cool promos. He should have a belt around his waist sooner than later.
 

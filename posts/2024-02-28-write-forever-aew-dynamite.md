@@ -9,7 +9,7 @@ excerpt: "Despite some pacing issues and a fairly bad Chris Jericho/Atlantis Jr 
 
 As I type this, the winds are gusting at upwards of 50 MPH causing the trees to to bellow and the house to creak. Will I retain a solid internet connection throughout this entire episode? Only time will tell!
 
-The winds outside of my house may be nothing compared to the winds of change facing AEW on the final Dynamite before Revolution. Will Hangman Adam Page be able to make it to the PPV at all? What does Wednesday hold for Sting on his last Dynamite as an active wrestler? Can Eddie Kingston keep Bryan Danielson from kicking any more of his friends or idols in the balls?
+The winds outside of my house may be nothing compared to the winds of change facing AEW on the final Dynamite before Revolution. Will Hangman Adam Page be able to make it to the PPV at all? What does Wednesday hold for Sting on his last Dynamite as an active wrestler? Can [Eddie Kingston](/posts/2023-09-20-write-forever-aew-dynamite-grand-slam) keep Bryan Danielson from kicking any more of his friends or idols in the balls?
 
 Let's find out the answers to those questions and maybe some more!
 
@@ -19,7 +19,7 @@ Sometimes you need to know when to hang it up. Sometimes you need to know when i
 
 ### Chris Jericho, I'm afraid, may be washed
 
-Chris Jericho has looked remarkably out of sorts in his last few matches. Maybe age is finally catching up with him at an exceedingly alarming rate, or maybe he's just having an off couple of months. Either way, this Jericho/Atlantis(ssssssssss) Jr match was a far cry from matches Jericho was having even a year ago.
+[Chris Jericho](/posts/2024-04-10-write-forever-aew-dynamite) has looked remarkably out of sorts in his last few matches. Maybe age is finally catching up with him at an exceedingly alarming rate, or maybe he's just having an off couple of months. Either way, this Jericho/Atlantis(ssssssssss) Jr match was a far cry from matches Jericho was having even a year ago.
 
 I don't have much else to say about it – just not a very good match with a weird finish where Atlantis(ssssssssss) threw in the towel as his son was locked in the Walls of Jericho.
 
@@ -55,7 +55,7 @@ The build to Revolution is built on lies! And deceit! And cruelty! And some wres
 
 I'm never a fan of big talking segments to open an episode of TV, but they kept this one short at about 10 minutes or so. With rumors swirling about ol Hanger's status for Revolution, Page informed us all that he would be unable to compete at the PPV.
 
-Of course, this brought out Swerve Strickland and Samoa Joe for some back and forth pitter patter. As it looked like we were closing in on a Joe/Swerve singles match, Hangman attacked Swerve with a crutch to the horrified dismay of Excalibur on commentary.
+Of course, this brought out [Swerve Strickland](/posts/2024-03-27-write-forever-aew-dynamite) and Samoa Joe for some back and forth pitter patter. As it looked like we were closing in on a Joe/Swerve singles match, Hangman attacked Swerve with a crutch to the horrified dismay of Excalibur on commentary.
 
 So, at the end of all of the rumors we're getting the three-way we had originally been promised. A weird speed bump in the story but apparently necessary due to whatever may have kept Page out of the PPV. This also helps in the continuing effort to babyface Swerve Strickland and turn Hangman full heel.
 

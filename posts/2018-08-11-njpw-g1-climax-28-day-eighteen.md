@@ -12,7 +12,7 @@ tags:
   - "streaming"
 ---
 
-The second-to-last day is here! Today we find out who will advance to the G1 finals from B Block and there are so many things that are going to blow my mind and break my heart today. Omega/Ibushi, Naito/ZSJ, and Ishii/SANADA?! I was so excited to see this good stuff that I slept past my alarm and missed a Mike Elgin tag match. Lucky me! I unfortunately also missed the Chaos/BC six-man match so I’ll need to get on with that. As I woke from my slumber, though, I did get to hear the soothing tones of Kaze Ni Nare so all is right with the world. Let’s lose our minds together with G1 Climax 28 day eighteen!
+The second-to-last day is here! Today we find out who will advance to the [G1 finals](/posts/2018-08-12-njpw-g1-climax-28-day-nineteen-g1-finals) from B Block and there are so many things that are going to blow my mind and break my heart today. Omega/Ibushi, Naito/ZSJ, and Ishii/SANADA?! I was so excited to see this good stuff that I slept past my alarm and missed a Mike Elgin tag match. Lucky me! I unfortunately also missed the Chaos/BC six-man match so I’ll need to get on with that. As I woke from my slumber, though, I did get to hear the soothing tones of Kaze Ni Nare so all is right with the world. Let’s lose our minds together with G1 Climax 28 day eighteen!
 
 ## Mike Elgin & David Finlay vs Toa Henare & Shota Umino
 
@@ -22,7 +22,7 @@ Sadly I slept through the C Block finals so I’ll have to wait until the full s
 
 ## Hangman Page & Chase Owens vs Bad Luck Fale & Tanga Loa
 
-Page & Owens jump BCOG before the bell but the early advantage isn’t enough to stave off the inevitable – Loa gets the win for his team here with Apeshit on Chase. Post-match, Page chases Fale and Loa off with a chair as they look to inflict more punishment on Owens.
+[Page](/posts/2025-01-18-write-forever-aew-collision) & Owens jump BCOG before the bell but the early advantage isn’t enough to stave off the inevitable – Loa gets the win for his team here with Apeshit on Chase. Post-match, Page chases Fale and Loa off with a chair as they look to inflict more punishment on Owens.
 
 ## Young Bucks & Marty Scurll vs Jay White & RPG3K
 

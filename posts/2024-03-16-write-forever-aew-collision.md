@@ -15,7 +15,7 @@ It's over! It's over! The long national nightmare is over! Twitter stinks, but t
 
 ### A throwaway match with a throwaway follow-up
 
-I was enjoying Lance Archer and Claudio Castagnoli well enough when The Righteous appeared to cause a disqualification. Interference leading to a DQ isn't a trope AEW has run into the ground like other companies have over the years, so it's not quite so frustrating when it happens.
+I was enjoying [Lance Archer](/posts/2025-01-18-write-forever-aew-collision) and Claudio Castagnoli well enough when The Righteous appeared to cause a disqualification. Interference leading to a DQ isn't a trope AEW has run into the ground like other companies have over the years, so it's not quite so frustrating when it happens.
 
 Though, when the follow-up is going to be a match with The Righteous it is a little annoying.
 
@@ -25,7 +25,7 @@ I love Lance Archer, so I'd be all for him becoming someone more frequently and 
 
 ### The promo main event
 
-Very rarely will I ever like the promo as a main event. What happened in this Adam Copeland promo that couldn't have happened halfway through the show? This promo that was under five minutes could have gone anywhere else on the show with the main event being saved for an actual wrestling match; I suppose if there is a silver lining, it's that the promo _was_ short so it felt like a button on the end of the show rather than a central part robbing time from another segment.
+Very rarely will I ever like the promo as a main event. What happened in this [Adam Copeland](/posts/2023-10-01-write-forever-aew-wrestledream) promo that couldn't have happened halfway through the show? This promo that was under five minutes could have gone anywhere else on the show with the main event being saved for an actual wrestling match; I suppose if there is a silver lining, it's that the promo _was_ short so it felt like a button on the end of the show rather than a central part robbing time from another segment.
 
 ## The In-Between
 
@@ -33,7 +33,7 @@ Returns and (sort of) debuts were central to this week's Collision, but they did
 
 ### A decent return for Kyle O'Reilly
 
-Kyle O'Reilly made his surprise return to AEW at Revolution, much to the joy of everyone who loves watching grimy little goblins play wrestling belts like guitars.
+[Kyle O'Reilly](/posts/2025-02-01-write-forever-aew-collision) made his surprise return to AEW at Revolution, much to the joy of everyone who loves watching grimy little goblins play wrestling belts like guitars.
 
 He seems to have softly aligned himself with the Undisputed Kingdom, though asked them to keep their distance for his return to the ring against Bryan Keith.
 

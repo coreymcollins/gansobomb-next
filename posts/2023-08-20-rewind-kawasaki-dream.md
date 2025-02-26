@@ -11,7 +11,7 @@ I almost chose to write about something else for August 20. It's not like there 
 
 As with much old wrestling, the tournament has been [lovingly uploaded to YouTube](https://www.youtube.com/watch?v=P5_x8QIVAUA) for all to relive over and over again. I'm not going to deep-dive the whole thing beat-by-beat, but I will note that it starts off with one hell of a highlight video to start things off pieced together with footage from throughout the tournament.
 
-As the introductions take place, I'm reminded that like many weirdo wrestling kids of the era, we were probably drawn to this tape by Cactus Jack and Terry Funk. I'm 99% sure I bought some version of this at one of several music/movie/very cool t-shirt shops in the mall, though I'm not sure if the tape itself has been lost to time by now. Maybe it's still in my parents' garage with all of the episodes of Monday Night Raw I taped for yet unknown reasons.
+As the introductions take place, I'm reminded that like many weirdo wrestling kids of the era, we were probably drawn to this tape by Cactus Jack and [Terry Funk](/posts/2023-09-11-rewind-terry-funk-bret-hart-50-years-of-funk). I'm 99% sure I bought some version of this at one of several music/movie/very cool t-shirt shops in the mall, though I'm not sure if the tape itself has been lost to time by now. Maybe it's still in my parents' garage with all of the episodes of Monday Night Raw I taped for yet unknown reasons.
 
 Watching and rewatching this tape kicked off a little deathmatch phase for my friends and I, who were always wrestling either inside or in the backyard at one of our houses. At some point in our grand wisdom, we decided to take our pointers from Kawasaki Dream and use thumbtacks in our matches.
 

@@ -9,7 +9,7 @@ excerpt: "The REAL Toni Storm! The nefarious Ricochet! The self-punching Darby A
 
 Winter is here! Although it was 42 degrees and raining today in upstate New York so you could've fooled me.
 
-Tonight's show is a mix of Continental Classic matches and some fun non-tournament matches that have been brewing for a while – the unlikely team of Orange Cassidy and Jay White against Jon Moxley and PAC; Mariah May defending the World Title against Mina Shirakawa; in C2 action, Claudio Castagnoli vs Will Ospreay and Ricochet vs Brody King; and the pure, unadulterated misery of Adam Cole vs Kyle O'Reilly to continue the never-ending story with MJF.
+Tonight's show is a mix of Continental Classic matches and some fun non-tournament matches that have been brewing for a while – the unlikely team of Orange Cassidy and Jay White against Jon Moxley and [PAC](/posts/2024-12-04-write-forever-aew-dynamite); Mariah May defending the World Title against Mina Shirakawa; in C2 action, Claudio Castagnoli vs Will Ospreay and Ricochet vs Brody King; and the pure, unadulterated misery of Adam Cole vs Kyle O'Reilly to continue the never-ending story with MJF.
 
 Crowds have seemed a bit up in recent weeks for AEW with this show filling out around 4,000. I'm not really someone who gets deep into ticket sales or ratings or whatever, but it _is_ extremely noticeable when it's a small TV crowd – especially when they're sitting on their hands the whole show.
 
@@ -19,13 +19,13 @@ But, nevermind that shit – I've got a cup of ginger lemon tea and I'm ready to
 
 ## The rapid unraveling of "Hangman" Adam Page and everything he touches
 
-Just when it looked like Orange Cassidy was going to get the win for his team, Hangman Page appeared to beat Jon Moxley's ass. The match was thrown out in favor of Death Riders, but things didn't end there.
+Just when it looked like [Orange Cassidy](/posts/2023-09-03-write-forever-aew-all-out) was going to get the win for his team, Hangman Page appeared to beat Jon Moxley's ass. The match was thrown out in favor of Death Riders, but things didn't end there.
 
 Cassidy watched on, frustrated, as Hangman battered Mox. After a moment of pause, OC ripped Hangman off of Mox so the two could tear each other apart instead.
 
 Jay White got involved in the fray and ate an errant Orange Punch meant for ole Hanger. In response, Jay laid OC out with the Blade Runner.
 
-The alliance of AEW guys imploded as quickly as it was formed, leaving Death Riders yet again standing atop the company without any cohesive group to tear them down.
+The alliance of AEW guys imploded as quickly as it was formed, leaving [Death Riders](/posts/2024-11-20-write-forever-aew-dynamite) yet again standing atop the company without any cohesive group to tear them down.
 
 To be honest, it felt like having Death Riders come back in and stomp the guys out after all of this was a bit overkill. This kind of feels like the way it goes with a lot of these Death Riders segments for me, though – they hang on _a little too long_ with Death Riders getting in the last shots so they can stand as the big tough guys.
 

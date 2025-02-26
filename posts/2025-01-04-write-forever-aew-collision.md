@@ -19,7 +19,7 @@ I'm in the cozy basement with wrestling on the projector and a belly full of dev
 
 Abiding by classic G1-style rules, Mark Briscoe beat Daniel Garcia in the C2 and earned a shot at the TNT Title by way of scoring a non-title win over the champion. On the pre-show panel for [Worlds End](/posts/2024-12-28-write-forever-aew-worlds-end), Garcia balked at the prospect of giving Briscoe a title shot but Tony Khan made it a reality.
 
-Both guys had very good runs in the Continental Classic and continued with more of the same on the first Collision of the year. Garcia successfully defended the TNT Title in his first defense of the title since beating Jack Perry for the belt at Full Gear.
+Both guys had very good runs in the [Continental Classic](/posts/2023-12-31-5-reasons-why-aew-continental-classic) and continued with more of the same on the first Collision of the year. Garcia successfully defended the TNT Title in his first defense of the title since beating Jack Perry for the belt at Full Gear.
 
 On Briscoe's end, something needs to happen with him in 2025. He's consistently over with crowds whether he's talking or wrestling and he's too good to not pin a belt on him, whether that be singles, tag, or trios. It felt like there was an easy path to putting the Trios Titles on The Conglomeration in 2024 but that stable seems to have fizzled out with Kyle O'Reilly reuniting with the Undisputed Kingdom.
 

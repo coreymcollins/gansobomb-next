@@ -7,13 +7,13 @@ coverImage: "2023-12-31-5-reasons-why-aew-continental-classic.webp"
 excerpt: "The Continental Classic was a return to the 'sports-like feel' for AEW, but now it's time to bring that same feeling other divisions in the company."
 ---
 
-When AEW's Continental Classic was first announced, it very clearly felt like Tony Khan's attempt to create the magic of an American G1. I've only followed a handful of G1 tournaments from beginning to end, falling off of New Japan in the past few years – but when I *was* following NJPW, G1 season was always one of the best times of the year.
+When AEW's Continental Classic was first announced, it very clearly felt like Tony Khan's attempt to create the magic of an American [G1](/posts/2018-07-14-njpw-g1-climax-28-day-one). I've only followed a handful of G1 tournaments from beginning to end, falling off of New Japan in the past few years – but when I *was* following NJPW, G1 season was always one of the best times of the year.
 
 Not that you weren't otherwise getting great matches in New Japan, but the G1 was a chance to hyper-focus on them with big stakes on the line. Similarly, AEW routinely tosses out some ridiculously great matches on free TV every week in addition to next-level matches on PPV.
 
-But, the Continental Classic was introduced as a way to "bring back that old feeling" in AEW with strict rules against interference to ensure every match had a clear winner without shenanigans.
+But, the [Continental Classic](/posts/2024-11-27-write-forever-aew-dynamite) was introduced as a way to "bring back that old feeling" in AEW with strict rules against interference to ensure every match had a clear winner without shenanigans.
 
-Over the course of several weeks, AEW was able to tell a bunch of different stories: the rising confidence of Daniel Garcia, the underdog spirit of Eddie Kingston, the monster on the rise in Brody King, and the *almost-but-not-quite* perfect Bryan Danielson whose ego and hubris may have cost him the block finals against Eddie Kingston.
+Over the course of several weeks, AEW was able to tell a bunch of different stories: the rising confidence of Daniel Garcia, the underdog spirit of Eddie Kingston, the monster on the rise in [Brody King](/posts/2024-12-04-write-forever-aew-dynamite), and the *almost-but-not-quite* perfect Bryan Danielson whose ego and hubris may have cost him the block finals against Eddie Kingston.
 
 So, what's next? Hopefully, the same treatment for other divisions in AEW. Let's talk about the reasons AEW needs to emulate the Continental Classic for the women's and tag team divisions.
 

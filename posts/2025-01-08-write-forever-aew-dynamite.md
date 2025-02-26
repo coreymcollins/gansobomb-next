@@ -13,7 +13,7 @@ Konosuke Takeshita also walked away with the NEVER Openweight Title after a win 
 
 Not the mention those damn Young Bucks who became the new IWGP Tag Team Champions!
 
-As far as we know, the only person guaranteed on the show tonight is Kenny Omega who somehow makes his return even though Jack Perry stole all of his guts and dumped them on a birthday cake a few months ago.
+As far as we know, the only person guaranteed on the show tonight is [Kenny Omega](/posts/2018-07-12-how-i-learned-to-love-pro-wrestling-again) who somehow makes his return even though Jack Perry stole all of his guts and dumped them on a birthday cake a few months ago.
 
 ## What is Will Ospreay up to?
 

@@ -7,7 +7,7 @@ coverImage: "2024-04-10-write-forever-aew-dynamite.webp"
 excerpt: "They finally aired the CM Punk/Jack Perry backstage scuffle on AEW Dynamite, and now we can all move on with our lives. Right? Right?!"
 ---
 
-This episode of Dynamite has been the talk of the town ever since it was announced on last week's late-night Collision that The Young Bucks would be airing backstage footage from All In.
+This episode of Dynamite has been the talk of the town ever since it was announced on last week's late-night Collision that [The Young Bucks](/posts/2024-02-14-write-forever-aew-dynamite) would be airing backstage footage from All In.
 
 Initially, I thought it would be some kind of gag as a way to build to Dynasty and the Tag Team Title match with FTR. But then news began to trickle out that it was _the_ footage of the CM Punk/Jack Perry fight rather than a bait and switch or anything like that.
 
@@ -15,7 +15,7 @@ At that point, I began to feel conflicted. My first feeling was that it was a ch
 
 I know this all kicked off because of CM Punk's comments during WrestleMania week, so perhaps the direct Bischoff comparison is off a hair or two since you could say Tony Khan was provoked. The entire Monday Night War was just one big provocation after another, though, so who the hell knows.
 
-As the show begins and I watch Swerve Strickland tackle Samoa Joe through a table, I still feel a bit of unease at this footage airing. It still feels cheap. It could either be hilarious or massively stupid. It could have no affect on the company going forward or it could be a moment that makes AEW look like a buffoons. Time will tell.
+As the show begins and I watch [Swerve Strickland](/posts/2025-01-01-write-forever-aew-dynamite) tackle Samoa Joe through a table, I still feel a bit of unease at this footage airing. It still feels cheap. It could either be hilarious or massively stupid. It could have no affect on the company going forward or it could be a moment that makes AEW look like a buffoons. Time will tell.
 
 ## Roll that beautiful bean footage
 
@@ -39,7 +39,7 @@ It felt telling how over everything Tony Schiavone looked on commentary before a
 
 Tonight, it finally felt like we got somewhere with this Chris Jericho/Hook story. It, so far, has not overstayed its welcome like a lot of Jericho's arcs have tended to do and I hope that remains the case.
 
-In a backstage promo before their trios match, Katsuyori Shibata seemed nonplused at Jericho's claim that he and Hook "sit under the learning tree of Chris Jericho".
+In a backstage promo before their trios match, [Katsuyori Shibata](/posts/2024-03-16-write-forever-aew-collision) seemed nonplused at Jericho's claim that he and Hook "sit under the learning tree of Chris Jericho".
 
 In their match, Jericho seemed similarly nonplused at Shibata being tagged into the match (and tagging himself into the match) when he felt like he should be Hook's number one dad. With Shibata looking to tag Hook into the match, Jericho pulled Hook off of the apron leading to an argument between the two on the floor.
 

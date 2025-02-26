@@ -9,7 +9,7 @@ excerpt: "Do you like malls? Pasta? Professional wrestling? Then this is the sho
 
 It's the historic first episode of WCW Monday Nitro from the Mall of America! I'm watching this on a rip of wonderfully shoddy quality, clearly from someone's TV recording because it includes some commercials as well.
 
-We start at ringside/in the food court with Eric Bischoff, Mongo, and Bobby Heenan doing a bit of banter before throwing it to the ring for the much adored opening match: Jushin Thunder Liger vs "Flyin'" Brian Pillman.
+We start at ringside/in the food court with Eric Bischoff, Mongo, and Bobby Heenan doing a bit of banter before throwing it to the ring for the much adored opening match: [Jushin Thunder Liger](/posts/2019-05-11-random-rewind-shinya-hashimoto-jushin-thunder-liger) vs "Flyin'" Brian Pillman.
 
 In 1995, this is a hell of a way to start off your debut episode of television. It's something you wouldn't have seen on WWF TV at the time. RAW was, of course, preempted this week but its opening match the following week was The British Bulldog vs Razor Ramon ending in a disqualification. Definitely a far cry from Liger/Pillman.
 
@@ -23,7 +23,7 @@ We get some fun little panning shots of the Mall of America setup and throw to a
 
 We throw to another pre-tape with Bischoff interviewing Hulk Hogan in front of, you guessed it, Hulk Hogan's Pastamania restaurant! Hogan claims he's eaten so many Hulkaroos and Hulk-U's that he feels sorry for his opponent tonight, Big Bubba. I'm unsure how pasta intake relates to wrestling ability, but I've never been a racist world champion so what do I know?
 
-The main event of this show is Hulk Hogan vs Big Bubba Rogers (AKA The Big Bossman). The match we get next is Ric Flair vs Sting for the United States Title. There really is no justice in the world.
+The main event of this show is Hulk Hogan vs Big Bubba Rogers (AKA The Big Bossman). The match we get next is Ric Flair vs [Sting](/posts/2023-09-07-sting-barry-windham-clash-of-the-champions-fall-brawl) for the United States Title. There really is no justice in the world.
 
 Technicolor Sting, reigning US Champ, makes his way to the ring and I hope upon hope that current-day Sting reprises the Surfer Sting look at least once before he hangs it up for good.
 

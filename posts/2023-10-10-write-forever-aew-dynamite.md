@@ -19,7 +19,7 @@ This time around, Poster Tony Khan came out with some tweets fired off at weirdo
 
 To be honest, it's fun to watch Tony go off on these boobs but I couldn't care less about the ratings. WWE is loading up their C-Show with wrestlers who aren't usually on the show, so if they beat Dynamite it's only because they didn't believe enough in their own NXT wrestlers to let them stand on their own. And if they win, it's going to be perceived as winning only because they relied on these old stars.
 
-Either way, watching WWE programming gives me a headache with the horrific camera work/production and being shouted at by commentators all night so I couldn't give a shit what they do. I'm here to see Bryan Danielson get stomped into the dirt!
+Either way, watching WWE programming gives me a headache with the horrific camera work/production and being shouted at by commentators all night so I couldn't give a shit what they do. I'm here to see [Bryan Danielson](/posts/2024-03-03-write-forever-aew-revolution) get stomped into the dirt!
 
 ## The Bad
 
@@ -29,11 +29,11 @@ Nothing too outrageously bad this week, or any other week for the most part on D
 
 The worst part of this week's show was easily the stuff they want to run into the ground as well as baffling or weirdo decisions.
 
-I've mentioned before that I'm not fully bought in on this whole "Timeless" Toni Storm thing, though I do love how the character translates to her in-ring work. I guess the silent movie deal happened in picture-in-picture which is probably the best place to do something like that if you want to fill some time. Otherwise, it was just lame.
+I've mentioned before that I'm not fully bought in on this whole ["Timeless" Toni Storm](/posts/2025-02-05-write-forever-aew-dynamite) thing, though I do love how the character translates to her in-ring work. I guess the silent movie deal happened in picture-in-picture which is probably the best place to do something like that if you want to fill some time. Otherwise, it was just lame.
 
 Speaking of lame, it's Wardlow! I don't care about Wardlow. I don't know if I'll ever care about Wardlow, or his new haircut. Squashing Matt Sydal in a way that makes Sydal look like a complete goober is also dumb. You gain nothing by having Wardlow squash guys on the roster when the same effect could be had by squashing local talent. The Powerbomb Symphony is boring and relegating Wardlow to this when he could have actual fun matches (evidenced by the match he had with Brian Cage a while back) does everybody a disservice.
 
-I don't know what the plan was for the International Title, other than Mox wasn't supposed to lose it to Fenix. Now, possibly due to his own injuries, Fenix has dropped the belt back to Orange Cassidy. I love all three of these guys, but I could feel nothing but ambivalence about this ending.
+I don't know what the plan was for the International Title, other than Mox wasn't supposed to lose it to Fenix. Now, possibly due to his own injuries, Fenix has dropped the belt back to [Orange Cassidy](/posts/2024-11-23-write-forever-aew-full-gear). I love all three of these guys, but I could feel nothing but ambivalence about this ending.
 
 Was the goal always to have OC retain the title but by beating Mox for it instead? Or is this entire thing a curve ball? I hope we don't wind up with the belt back on Mox in a vicious cycle of the "we can't stray from our original booking plans no matter what" style of booking AEW sometimes falls into.
 

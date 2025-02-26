@@ -16,7 +16,7 @@ Best Block is back with G1 Climax 28 day twelve! This night is loaded with what 
 
 ## Bad Luck Fale & Tanga Loa vs Mike Elgin & Shota Umino
 
-Bad Luck Fale more like Bad Match Fale amirite. The only person I care about in this match is Shota Umino and I know he’s going to eat the pin after Apeshit from Loa. Loa thankfully spares us his slam poetry sesh but I have a sinking feeling he’s just saving it for Tama Tonga later on. When you couldn’t care less about 3/4 of the people in a match, do you actively pay attention to the match or take pictures of your dogs people adorable together?
+Bad Luck Fale more like Bad Match Fale amirite. The only person I care about in this match is [Shota Umino](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) and I know he’s going to eat the pin after Apeshit from Loa. Loa thankfully spares us his slam poetry sesh but I have a sinking feeling he’s just saving it for Tama Tonga later on. When you couldn’t care less about 3/4 of the people in a match, do you actively pay attention to the match or take pictures of your dogs people adorable together?
 
 ![Two adorable dogs snuggling](images/20180801_171305-1024x576.jpg) ![Two adorable dogs snuggling](images/20180801_171224-1024x576.jpg)
 
@@ -24,7 +24,7 @@ The choice was easy. Fale and Loa win with Apeshit on Umino, who deserves much b
 
 ## Togi Makabe & Toa Henare vs Hangman Page & Chase Owens
 
-Page and Makabe tear each other apart on the arena floor while Chase and Toa keep things in the ring. Chase controls Toa enough to tag in Page for a BC double-team with the knee drop and standing shooting star press combo. The duo make quick tags as they work Toa over in their corner while taunting Makabe on the apron. A spear on Page gives Toa enough time to tag in Makabe who rushes Chase off of the apron before connecting with the ten corner punches to Page. Makabe works Page over until getting caught with a quick Death Valley Driver for two. Makabe rebounds just as quickly with a clothesline to drop Page before tagging Henare back into the match. Henare hits an impressive double-deadlift suplex on Page but Owens breaks up his pin attempt. After sone shenanigans with Makabe and Owens, Page connects with the flipping slingshot clothesline and follows up with the Rite of Passage on Henare for the win.
+[Page](/posts/2024-12-11-write-forever-aew-dynamite) and Makabe tear each other apart on the arena floor while Chase and Toa keep things in the ring. Chase controls Toa enough to tag in Page for a BC double-team with the knee drop and standing shooting star press combo. The duo make quick tags as they work Toa over in their corner while taunting Makabe on the apron. A spear on Page gives Toa enough time to tag in Makabe who rushes Chase off of the apron before connecting with the ten corner punches to Page. Makabe works Page over until getting caught with a quick Death Valley Driver for two. Makabe rebounds just as quickly with a clothesline to drop Page before tagging Henare back into the match. Henare hits an impressive double-deadlift suplex on Page but Owens breaks up his pin attempt. After sone shenanigans with Makabe and Owens, Page connects with the flipping slingshot clothesline and follows up with the Rite of Passage on Henare for the win.
 
 ## Jay White & YOH vs YOSHI-HASHI & SHO
 

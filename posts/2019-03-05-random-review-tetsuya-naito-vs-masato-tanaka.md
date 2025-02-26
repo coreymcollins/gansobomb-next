@@ -18,7 +18,7 @@ That’s where [@hammerlockddt](https://twitter.com/hammerlockddt) comes into pl
 
 With the work of these two fine individuals, I’m going to try and step into a new series where I watch a random match or two and share my thoughts.
 
-So, let’s begin with the first random match pulled from the ridiculously stacked spreadsheet: Tetsuya Naito vs Masato Tanaka for the NEVER Openweight Title from Power Struggle on November 9, 2013.
+So, let’s begin with the first random match pulled from the ridiculously stacked spreadsheet: [Tetsuya Naito](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) vs Masato Tanaka for the NEVER Openweight Title from Power Struggle on November 9, 2013.
 
 ## The Background
 

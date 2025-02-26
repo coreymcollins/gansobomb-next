@@ -12,7 +12,7 @@ tags:
   - "streaming"
 ---
 
-Does the “A” in “A Block” stand for “Another”? I love a handful of wrestlers in the block but it definitely does not shine in comparison to its counterpart. I appreciate the fact that the intro video and the entrances are just long enough for me to finish a bowl of cereal. Always thinking of me, NJPW. Anyway, G1 Climax 28 day thirteen is here with Okada/Suzuki and Tanahashi/EVIL plus White/YOSHI which could be a surprise good-to-great match.
+Does the “A” in “A Block” stand for “Another”? I love a handful of wrestlers in the block but it definitely does not shine in comparison to [its counterpart](/posts/2018-08-02-njpw-g1-climax-28-day-twelve). I appreciate the fact that the intro video and the entrances are just long enough for me to finish a bowl of cereal. Always thinking of me, NJPW. Anyway, G1 Climax 28 day thirteen is here with Okada/Suzuki and Tanahashi/EVIL plus White/YOSHI which could be a surprise good-to-great match.
 
 ## Toru Yano & Gedo vs Toa Henare & Ren Narita
 
@@ -20,7 +20,7 @@ Gedo starts off mocking Henare after grounding him and things wind up spilling o
 
 ## Hirooki Goto & YOH vs Tama Tonga & Tanga Loa
 
-YAAAAAAAAAWN. I love Goto and YOH but I’m starting to get real tired of seeing the Firing Squad on my TV. I’ve always enjoyed him in tag matches up until now but the constant DQ and bullshit finishes in the G1 plus his overall performance have really soured him for me. Goto winds up neutralized on the outside while the Tongans focus their attack on YOH in the ring. YOH stops the onslaught with a dragon screw on Tama before tagging in Goto who immediately begins to clean house. Goto grabs Loa in a choke prompting YOH to tag himself in and take him down with a superkick and double suplex. YOH grabs a series of near-fall attempts on Loa before getting caught with Apeshit for the win. I can’t begin to tell you how excited I am for the ref bump and Loa & Fale interference in the Goto/Tama match on the 4th. Woo.
+YAAAAAAAAAWN. I love [Goto](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) and YOH but I’m starting to get real tired of seeing the Firing Squad on my TV. I’ve always enjoyed him in tag matches up until now but the constant DQ and bullshit finishes in the G1 plus his overall performance have really soured him for me. Goto winds up neutralized on the outside while the Tongans focus their attack on YOH in the ring. YOH stops the onslaught with a dragon screw on Tama before tagging in Goto who immediately begins to clean house. Goto grabs Loa in a choke prompting YOH to tag himself in and take him down with a superkick and double suplex. YOH grabs a series of near-fall attempts on Loa before getting caught with Apeshit for the win. I can’t begin to tell you how excited I am for the ref bump and Loa & Fale interference in the Goto/Tama match on the 4th. Woo.
 
 ## Juice Robinson & David Finlay vs Zack Sabre Jr & TAKA
 

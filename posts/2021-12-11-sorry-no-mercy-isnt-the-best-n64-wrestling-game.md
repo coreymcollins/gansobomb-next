@@ -34,7 +34,7 @@ Things progressed as expected with the playthroughs. WCW vs nWo: World Tour is f
 
 What comes next in the series is what I realized is very likely my favorite wrestling game of all time. Not No Mercy. Not WrestleMania 2000. WCW/nWo Revenge.
 
-From the incredible intro with a truck driver inexplicably happening upon Sting standing in the middle of the road on the path to Atlanta, it delivers everything you could possibly want in a game.
+From the incredible intro with a truck driver inexplicably happening upon [Sting](/posts/2024-03-03-write-forever-aew-revolution) standing in the middle of the road on the path to Atlanta, it delivers everything you could possibly want in a game.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fM6drqc8zwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

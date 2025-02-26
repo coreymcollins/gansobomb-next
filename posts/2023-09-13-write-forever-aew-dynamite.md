@@ -7,15 +7,15 @@ coverImage: "2023-09-13-write-forever-aew-dynamite.webp"
 excerpt: "NECK STRONG Roderick Strong battled Samoa Joe in the finals of the Grand Slam Eliminator Tournament. Did Roderick avenge his neck tonight ahead of avenging his former best friend next week at Grand Slam?"
 ---
 
-I'm still experimenting with how I want to write this sort of stuff, as I don't necessarily love the writing of move-for-move recaps, especially since it takes away from being in the moment and watching the show. That's not so much an issue with the REWIND series where I can, well, rewind at will and watch something multiple times.
+I'm still experimenting with how I want to write this sort of stuff, as I don't necessarily love the writing of move-for-move recaps, especially since it takes away from being in the moment and watching the show. That's not so much an issue with the [REWIND series](/posts/2023-09-12-rewind-ric-flair-sting-dick-slater-great-muta) where I can, well, rewind at will and watch something multiple times.
 
 So, I'm trying to mess around with formats until I find what fits.
 
-Tonight's Dynamite was a story of friendship, of family, of dancing, of rematches – all in service of building to next week's big Grand Slam show at Arthur Ashe. In next week's main event, MJF will defend the World Heavyweight Title against either Samoa Joe or Roderick Strong. Who was able to pull off the tournament win and secure their spot against the champ? Let's find out!
+Tonight's Dynamite was a story of friendship, of family, of dancing, of rematches – all in service of building to next week's big [Grand Slam](/posts/2023-09-20-write-forever-aew-dynamite-grand-slam) show at Arthur Ashe. In next week's main event, MJF will defend the World Heavyweight Title against either Samoa Joe or Roderick Strong. Who was able to pull off the tournament win and secure their spot against the champ? Let's find out!
 
 ## Dynamite: A Show About Friendship and Family
 
-Dynamite kicked off with Jon Moxley making his way to the ring first for his International Title defense against Big Bill (who is, in fact, big). Large William made his entrance second, led to the ring by his newfound friend Ricky Starks.
+Dynamite kicked off with [Jon Moxley](/posts/2024-11-23-write-forever-aew-full-gear) making his way to the ring first for his International Title defense against Big Bill (who is, in fact, big). Large William made his entrance second, led to the ring by his newfound friend Ricky Starks.
 
 With friendship and sneakiness on their side, Bill and Starks found their way to some advantages throughout the contest. At one point, Mox climbed the top rope to dive on Bill but was shoved off by Starks. This brought out Bryan Danielson, good friend of Jon Moxley, to attack Starks and restrain him at ringside.
 

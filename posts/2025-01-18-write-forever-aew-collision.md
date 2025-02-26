@@ -7,15 +7,15 @@ coverImage: "2025-01-18-write-forever-aew-dynamite.webp"
 excerpt: "Powerhouse Hobbs has terrible friends and tag team partners and Christopher Daniels was murdered by a cowboy on AEW Collision."
 ---
 
-It's been building, quietly and often with some space between the story advancing, but tonight Christopher Daniels faces Hangman Adam Page in a Texas Death Match. It's been reported that this is essentially Daniels' retirement match and there probably couldn't be a better way to be sent off than by being murdered by Hangman Page.
+It's been building, quietly and often with some space between the story advancing, but tonight Christopher Daniels faces Hangman Adam Page in a [Texas Death Match](/posts/2018-07-26-the-list-favorite-gimmick-matches). It's been reported that this is essentially Daniels' retirement match and there probably couldn't be a better way to be sent off than by being murdered by Hangman Page.
 
-Will Kazuchika Okada show up with his Continental Classic finals boots against Ishii? Or are we back to casual Okada now that tournament season is over? I'm not expecting a match of the year but I hope to be surprised.
+Will Kazuchika Okada show up with his [Continental Classic](/posts/2023-12-31-5-reasons-why-aew-continental-classic) finals boots against Ishii? Or are we back to casual Okada now that tournament season is over? I'm not expecting a match of the year but I hope to be surprised.
 
 And then, of course, there's the 12-man clusterfuck in the main event. That's a dozen mother fuckers, and I really don't think I care all that much. This program with Mox vs Cope is going to drag for me and just as I'd be surprised to see Okada/Ishii be a MOTYC candidate, I'd be twice as surprised to be compelled by Mox/Cope at any point.
 
 ## Kalamazoo born, Southern California bred, Christopher Daniels is Texas Dead
 
-In one of the best send-offs in wrestling, Christopher Daniels was obliterated by Hangman Adam Page. Daniels had some flashes of offense in there but, for the most part, was a target for Hangman's misplaced aggression.
+In one of the best send-offs in wrestling, Christopher Daniels was obliterated by [Hangman Adam Page](/posts/2018-07-30-njpw-g1-climax-28-day-eleven). Daniels had some flashes of offense in there but, for the most part, was a target for Hangman's misplaced aggression.
 
 Daniels has influenced me and my love of professional wrestling since the early 2000s. He's constantly been in the orbit of any wrestling I've watched in my adult life whether that was Ring of Honor, TNA/Impact, AEW, or countless indies in between.
 

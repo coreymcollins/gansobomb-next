@@ -21,7 +21,7 @@ Tony's big announcements are typically just okay, but it brings us in the Ganso 
 
 lol c'mon Tony. Big Business is such a goofy name. You could have thought of a thousand better names.
 
-Anyway, it'll be cool seeing Mercedes Moné and Kazuchika Okada in AEW.
+Anyway, it'll be cool seeing [Mercedes Moné](/posts/2025-01-05-write-forever-njpw-wrestle-dynasty) and Kazuchika Okada in AEW.
 
 ## The In-Between
 
@@ -29,7 +29,7 @@ The in-between is scant! And it's honestly again just nitpicking, because the co
 
 ### A Timeless Placeholder
 
-This isn't a condemnation of Toni Storm or Red Velvet because I like both of them a ton. But, Toni Storm vs Red Velvet wasn't much more than a placeholder to keep Toni and Deonna Purrazzo in vicinity of one another.
+This isn't a condemnation of [Toni Storm](/posts/2024-12-11-write-forever-aew-dynamite) or Red Velvet because I like both of them a ton. But, Toni Storm vs Red Velvet wasn't much more than a placeholder to keep Toni and Deonna Purrazzo in vicinity of one another.
 
 What I do enjoy is that Deonna seems to have already pulled out some of the old Toni Storm, with Toni wrestling a little more aggressively than she has at times with this "Timeless" gimmick. Breaking out an ankle lock submission to tap out Red Velvet while staring daggers at Deonna on commentary was a nice touch, perhaps letting Deonna know that the "old Toni Storm" she used to know still lives and breathes.
 
@@ -41,7 +41,7 @@ With the scuttlebutt being Mercedes Moné being on her way to AEW, we have a nic
 
 As much as I've tired of Toni Storm's current character arc, I'd still very much enjoy seeing her beat ass on TV as a normal human being rather than this Hollywood starlet gimmick.
 
-To Chris Jericho, though, I am ready to bid adieu. His feuds always go on for *way* too long with his opponents and allies getting stuck in his orbit far beyond the shelf life of whatever story was being told. It was this way with the Jericho Appreciation Society in each of its incarnations leaving people like Santana & Ortiz, Sammy Guevara, Kenny Omega, Don Callis, and anyone else Jericho blinked in the direction of stuck in Jericho storyline hell.
+To [Chris Jericho](/posts/2023-08-20-a-week-in-wrestling), though, I am ready to bid adieu. His feuds always go on for *way* too long with his opponents and allies getting stuck in his orbit far beyond the shelf life of whatever story was being told. It was this way with the Jericho Appreciation Society in each of its incarnations leaving people like Santana & Ortiz, Sammy Guevara, Kenny Omega, Don Callis, and anyone else Jericho blinked in the direction of stuck in Jericho storyline hell.
 
 Konosuke Takeshita is there now and while I appreciate seeing him get a win over Jericho, since there was interference from both Guevara and Callis during the match I'm sure this thing still isn't over. I'd much rather see Takeshita having killer matches with dudes who can still go hard instead of having to carry Jericho the way he had to on Dynamite.
 

@@ -13,11 +13,11 @@ Thousand-yard stare Tony Khan opens the show to let us know he did the thing he 
 
 I'll be honest, I'm equal parts surprised and not surprised that it happened. Brawl Out was an absolute shit show, made worse by the fact that Big Biceps Tony sat right next to CM Punk while he unleashed a verbal tirade on the EVPs, the company, and anyone else who wanted to catch a stray shot.
 
-I don't know that a truer tweet was ever tweeted than when Ryan Nemeth tweeted that CM Punk was "the softest man alive". The dude loves to run his mouth, shit on everyone around him, make terrible decisions and expects everybody to just have to deal with it and accept it. When the shoe is on the other foot, though, and someone lobs the softest of softballs ("this is real glass – cry me a river"), he can't handle it and absolutely loses his mind.
+I don't know that a truer tweet was ever tweeted than when Ryan Nemeth tweeted that [CM Punk](/posts/2018-07-26-the-list-favorite-gimmick-matches) was "the softest man alive". The dude loves to run his mouth, shit on everyone around him, make terrible decisions and expects everybody to just have to deal with it and accept it. When the shoe is on the other foot, though, and someone lobs the softest of softballs ("this is real glass – cry me a river"), he can't handle it and absolutely loses his mind.
 
 He's wrestling's true dope, the biggest pissbaby narcissist who was handed as much as could be handed to him in AEW and still wasn't happy. I loved CM Punk for a long, long time but he really soured himself in the last several years even before his AEW run. It's a bummer it had to end this way, but good riddance.
 
-In the ring, Ricky Stars delivers an impassioned promo that is obviously not just about wrestling matches. I think the assumption would be that he was meant to face Punk at All Out but has now had that match ripped away from him. Instead, he'll head into the ring against The Dragon – The American Dragon Bryan Danielson.
+In the ring, [Ricky Starks](/posts/2023-10-07-write-forever-aew-collision) delivers an impassioned promo that is obviously not just about wrestling matches. I think the assumption would be that he was meant to face Punk at All Out but has now had that match ripped away from him. Instead, he'll head into the ring against The Dragon – The American Dragon Bryan Danielson.
 
 A fun segment with two Rickies and a pretty predictable outcome, but still fun to see it all play out nonetheless. I will love Ricky Starks forever. Also, what the fuck is Danielson made out of that he's back from a broken arm already? The dude is unreal.
 

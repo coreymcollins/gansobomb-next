@@ -7,7 +7,7 @@ coverImage: "2023-09-05-kenta-kobashi-stan-hansen-ajpw-triple-crown-title.webp"
 excerpt: "Stan Hansen wears a cowboy hat, vest, and chaps while Kenta Kobashi wears a spaceman's jacket and a smart haircut."
 ---
 
-Just five years before Stan Hansen would walk off into that dusty sunset, he challenges Kenta Kobashi for his newly won Triple Crown Title. Hansen himself was a 4-time champion by this point, each of his reigns coming between 1990 and 1995.
+Just five years before Stan Hansen would walk off into that dusty sunset, he challenges [Kenta Kobashi](/posts/2023-08-21-rewind-ajpw-summer-action-series-ii) for his newly won Triple Crown Title. Hansen himself was a 4-time champion by this point, each of his reigns coming between 1990 and 1995.
 
 For Kobashi, this was reign number 1 of 3, though in total his three reigns and 5 defenses fall only 74 days short of Hansen's 4 reigns and 7 defenses. Kobashi is coming off of a championship victory against Akira Taue in July.
 

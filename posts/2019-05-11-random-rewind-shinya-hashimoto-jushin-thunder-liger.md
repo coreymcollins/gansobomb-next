@@ -13,7 +13,7 @@ coverImage: "hashimoto-liger.jpg"
 
 We're back at it again with another Random Rewind courtesy the [Random NJPW World Match Generator](http://whatnjpwmatchshouldiwatch.surge.sh/)! This week brings us the February 1994 match between Shinya Hashimoto and Jushin Thunder Liger.
 
-On February 24, 1994, New Japan presented _Thanks Wrestling Day Brush Up_ main evented by the IWGP Heavyweight Champion, Hashimoto, taking on the IWGP Junior Heavyweight Champion, Liger. This has become a bit of a tradition at the annual anniversary shows at this point, though Bullet Club avoided a Jay White/Taiji Ishimori match at this year's _47th Anniversary Show_.
+On February 24, 1994, New Japan presented _Thanks Wrestling Day Brush Up_ main evented by the IWGP Heavyweight Champion, Hashimoto, taking on the IWGP Junior Heavyweight Champion, Liger. This has become a bit of a tradition at the annual anniversary shows at this point, though Bullet Club avoided a [Jay White](/posts/2024-12-18-write-forever-aew-dynamite)/Taiji Ishimori match at this year's _47th Anniversary Show_.
 
 Let me be upfront right from the start – I'm not super familiar with Shinya Hashimoto. I've seen a handful of his matches, but in 1994 I was 11 years old so wasn't really into tape trading just yet. In high school, I'd rack up some FMW and deathmatch treasures (what's up, fellow deathmatch ghouls?) but by that time I was able to find what I wanted by scouring the internet.
 

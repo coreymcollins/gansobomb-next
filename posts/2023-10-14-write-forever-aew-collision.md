@@ -15,11 +15,11 @@ Kevin Kelly stinks. Get him off of my TV and out of my ears!
 
 ### You talk too much
 
-The show opened with a big talking segment featuring Adam Copeland, Christian Cage, Bryan Danielson, Absolutely Big, and FTR. The big talking segment to open a show is never my favorite – it forces a slow start with folks milling around and chatting instead of having a kick-ass match.
+The show opened with a big talking segment featuring Adam Copeland, Christian Cage, [Bryan Danielson](/posts/2024-03-03-write-forever-aew-revolution), Absolutely Big, and FTR. The big talking segment to open a show is never my favorite – it forces a slow start with folks milling around and chatting instead of having a kick-ass match.
 
-To make matters worse, when Ricky Starks began delivering his comments he got cut off by Copeland a few times with what I'm sure Copeland thought were sick burns but were, in reality, pretty crummy attempts at sick burns. Sometimes it's best to just lay out and let the other person say their piece; it's not like you're never going to have a chance to speak for the rest of your life, so you don't need to respond to every remark immediately.
+To make matters worse, when [Ricky Starks](/posts/2023-10-07-write-forever-aew-collision) began delivering his comments he got cut off by Copeland a few times with what I'm sure Copeland thought were sick burns but were, in reality, pretty crummy attempts at sick burns. Sometimes it's best to just lay out and let the other person say their piece; it's not like you're never going to have a chance to speak for the rest of your life, so you don't need to respond to every remark immediately.
 
-I don't really know what the point of this whole segment was, honestly? FTR complained that they lost the Tag Team Titles last week because they were hurt, but they don't want to make excuses for losing the titles because everyone is hurt all of the time. So... why say anything at all? They also suggested that they'd rather work their way back to the top of the tag division rather than asking for an immediate rematch. Okay then!
+I don't really know what the point of this whole segment was, honestly? [FTR](/posts/2025-02-01-write-forever-aew-collision) complained that they lost the Tag Team Titles last week because they were hurt, but they don't want to make excuses for losing the titles because everyone is hurt all of the time. So... why say anything at all? They also suggested that they'd rather work their way back to the top of the tag division rather than asking for an immediate rematch. Okay then!
 
 I suppose this served to continue the hype for Danielson/Cage in the main event, but the ending of Dynamite already did that! Plus, the cold open promos leading into the show intro are such a better vibe than this kind of thing and it's a bummer we didn't get them this week.
 

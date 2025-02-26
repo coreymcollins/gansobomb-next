@@ -11,7 +11,7 @@ I gotta tell ya, the preview for this episode of Collision did not grab me or ex
 
 That said, those types of shows for AEW often end up being some of the most enjoyable so let's hope that this is the case for tonight's episode as well.
 
-We've got Mariah May vs Harley Cameron, Cope vs Big Bill, Chris Jericho vs Dax Harwood, and The Outrunners vs Death Riders which should all be fine. Then we've got Daniel Garcia vs Katsuyori Shibata and PAC vs Komander which should both be exceedingly delightful.
+We've got Mariah May vs Harley Cameron, Cope vs Big Bill, [Chris Jericho](/posts/2023-09-20-write-forever-aew-dynamite-grand-slam) vs Dax Harwood, and The Outrunners vs Death Riders which should all be fine. Then we've got Daniel Garcia vs Katsuyori Shibata and PAC vs [Komander](/posts/2024-12-07-write-forever-aew-collision) which should both be exceedingly delightful.
 
 It's been snowy and cold and wet all day here in the northeast so let's hope Collision and some leftover Chinese food can heat things up!
 
@@ -25,7 +25,7 @@ The crowd went ballistic when he kicked out of Cope's spear which was sort of a 
 
 ## It's time for Death Riders to lose something
 
-I've been very blah on the whole Death Riders thing. It was interesting and exciting at first. It was great seeing the use of the plastic bag to take Bryan Danielson out. I love that gruesome, old school shit.
+I've been very blah on the whole [Death Riders](/posts/2024-12-11-write-forever-aew-dynamite) thing. It was interesting and exciting at first. It was great seeing the use of the plastic bag to take Bryan Danielson out. I love that gruesome, old school shit.
 
 But it's simply been more of the same week after week for _far_ too long. Mox cuts a promo that's vaguely about something but really isn't. Most of their matches end with some sort of cheating or interference. Every segment they're in has to end with Death Riders standing tall even when it doesn't serve to help the segment.
 

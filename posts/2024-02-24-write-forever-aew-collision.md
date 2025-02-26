@@ -17,7 +17,7 @@ Kevin Kelly stinks. Get him off of my TV and out of my ears!
 
 ### A disappointing return to singles action for Malakai Black
 
-There have been rumors circulating _forever_ that Malakai Black had some unknown injury that put him on the shelf and was the reason he was wrestling tag and trios matches exclusively. Is that true? Who knows. His showing against Bryan Keith tonight didn't do him any favors, though.
+There have been rumors circulating _forever_ that [Malakai Black](/posts/2025-01-08-write-forever-aew-dynamite) had some unknown injury that put him on the shelf and was the reason he was wrestling tag and trios matches exclusively. Is that true? Who knows. His showing against Bryan Keith tonight didn't do him any favors, though.
 
 This match was, at times, sloppy and uncoordinated – something that is almost never true of either guy. So, did they just have bad chemistry? That's certainly a possibility. Sometimes two wrestlers just don't gel with one another. Malakai has looked great in trios and tag matches, and it's not like he just stood around doing nothing in those bouts. So, for me, I'm not anything close to prepared to write him off as a singles guy just yet.
 
@@ -31,7 +31,7 @@ The middle-ground stuff here falls into the "disappointing" and "plodding" categ
 
 ### A little rough, but Thunder Rosa's return is improving
 
-Thunder Rosa's return was a nice surprise when it happened, but the matches so far have fallen a bit short. With tonight's match against Ladybird Monroe, things looked a little bit brighter.
+[Thunder Rosa's](/posts/2024-12-11-write-forever-aew-dynamite) return was a nice surprise when it happened, but the matches so far have fallen a bit short. With tonight's match against Ladybird Monroe, things looked a little bit brighter.
 
 Ladybird comes from my old school in Austin, AAPW, and has done some work at Rosa's Mission Pro Wrestling in Central Texas. Ladybird looked a little unsure of herself a couple of times in the match which, from the casual viewer, looked to be from trying to rush through things.
 
@@ -43,7 +43,7 @@ Nothing spectacular, and it was short, but hopefully a sign of better days ahead
 
 ### A means to an end
 
-We all know where the Bang Bang Scissor Gang thing is going – BCC turn on The Acclaimed and win the AEW Trios Titles from them. That's fine, and I'll be happy when we finally get there.
+We all know where the Bang Bang Scissor Gang thing is going – BCC turn on [The Acclaimed](/posts/2024-11-16-write-forever-aew-collision) and win the AEW Trios Titles from them. That's fine, and I'll be happy when we finally get there.
 
 The BBSG taking on Iron Savages was a hallmark of an AEW booking issue I have, which is throwing a relatively unestablished team out there to eat a loss. I generally like Iron Savages but they've been in this position before where they're off of television for weeks (or months) and then pop up just to be beaten.
 

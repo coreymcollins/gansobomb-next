@@ -9,11 +9,11 @@ excerpt: "Was Kris Statlander able to overcome Britt Baker with whatever you cal
 
 ## Beating and/or Eating Ass
 
-Ricky Starks and Big Bill picked up a nice little win over Bryan Danielson and Claudio Castagnoli in the show opener. Bill was coming off of a loss to Jon Moxley for the International Title on Dynamite while Starks and Danielson have had blood back to their incredible All Out strap match.
+Ricky Starks and Big Bill picked up a nice little win over Bryan Danielson and Claudio Castagnoli in the show opener. Bill was coming off of [a loss to Jon Moxley](/posts/2023-09-13-write-forever-aew-dynamite) for the International Title on Dynamite while Starks and Danielson have had blood back to their incredible All Out strap match.
 
 I never thought I'd be craving a singles Big Bill match, but his AEW run has truly revived him and this match has be wanting a Bill/Claudio singles match. The two of them beat the hell out of each other in this match and I think I want more of it.
 
-Ricky redeemed his All Out loss by pinning Danielson with the Roshambo after a sneaky lil low blow behind the referee's back. Beautiful stuff here from all four guys, though I could have gone without a low blow from Ricky before the win. He's good enough to win without the shenanigans and Danielson is more than established enough to eat a loss in a competitive tag match without cheating.
+Ricky redeemed his [All Out](/posts/2023-09-03-write-forever-aew-all-out) loss by pinning Danielson with the Roshambo after a sneaky lil low blow behind the referee's back. Beautiful stuff here from all four guys, though I could have gone without a low blow from Ricky before the win. He's good enough to win without the shenanigans and Danielson is more than established enough to eat a loss in a competitive tag match without cheating.
 
 I'm not sure if we're heading toward another Ricky/Danielson match where Ricky picks up a decisive win or if Ricky adds some more backup to take on the BCC at full force.
 

@@ -7,13 +7,13 @@ coverImage: "2023-09-30-write-forever-aew-collision.webp"
 excerpt: "Just what did all of the good wrestle boys and girls get up to less then 24 hours before WrestleDream in Seattle?"
 ---
 
-Everyone has been talking about AEW entering a new era tomorrow night at WrestleDream, which I guess makes this the last Collision of the old era. Is it the speculated move of some amount of AEW content to MAX? Did Tony Khan buy New Japan?! Will they simply change the fonts on the chyrons for Dynamite again?
+Everyone has been talking about AEW entering a new era tomorrow night at [WrestleDream](/posts/2023-10-01-write-forever-aew-wrestledream), which I guess makes this the last Collision of the old era. Is it the speculated move of some amount of AEW content to MAX? Did Tony Khan buy New Japan?! Will they simply change the fonts on the chyrons for Dynamite again?
 
 The possibilities are near endless, so let's just enjoy the memories while we can.
 
 ## Is Andrade Mask For Mask?
 
-In the show opener, Andrade picked up a win on Juice Robinson in a pretty great match hitting around 15 minutes or so. This picked up a ton by the end especially not only with Andrade and Juice but with the referee throwing the Gunns out to an ovation from the crowd.
+In the show opener, Andrade picked up a win on [Juice Robinson](/posts/2024-12-07-write-forever-aew-collision) in a pretty great match hitting around 15 minutes or so. This picked up a ton by the end especially not only with Andrade and Juice but with the referee throwing the Gunns out to an ovation from the crowd.
 
 Highlight of the night may be Austin Gunn throwing his shirt at the referee prior to exiting only to have the ref whip it right back.
 
@@ -21,7 +21,7 @@ I don't know if there's anything better than the kick misdirect into the spinnin
 
 On commentary, there was a suggestion that Andrade traded his mask for MJF's Devil mask and was responsible for the attack on Jay White on Dynamite. I don't see that being the resolution to this story, but it's a nice wrinkle to add to the guessing game!
 
-In a backstage promo, Chris Jericho and Kenny Omega admitted that while they're not the best of friends and never will be they'll defeat The Don Callis Family at WrestleDream. Jericho wrapped up by saying they're going to take them "all out" which is leaving me looking for clues as to what happened at All Out.
+In a backstage promo, Chris Jericho and Kenny Omega admitted that while they're not the best of friends and never will be they'll defeat The Don Callis Family at WrestleDream. Jericho wrapped up by saying they're going to take them "all out" which is leaving me looking for clues as to what happened at [All Out](/posts/2023-09-03-write-forever-aew-all-out).
 
 We got another Toni Storm/RJ City interview pre-tape which I liked a lot more than the previous. It was shorter and sweeter, or at least shorter and sweeter than what I remember the first one being. I'm still not completely bought into the gimmick but Toni is always fun and RJ City is the best.
 

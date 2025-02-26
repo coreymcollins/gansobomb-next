@@ -9,9 +9,9 @@ excerpt: "Can Sting's desire be what drives him to his first title in the NWA, o
 
 The big story going into this Clash of the Champions is Sting's inability to win the big one.
 
-In March of the same year, Sting fell short against Ric Flair competing for the World Heavyweight Title. The match went to a 45-minute draw with the judges unable to declare a winner between the two men, allowing Flair to retain the gold.
+In March of the same year, [Sting](/posts/2023-09-04-rewind-wcw-the-first-nitro) fell short against Ric Flair competing for the World Heavyweight Title. The match went to a 45-minute draw with the judges unable to declare a winner between the two men, allowing Flair to retain the gold.
 
-In June, Sting teamed with Dusty Rhodes to challenge Arn Anderson and Tully Blanchard for the World Tag Team Titles. Sting and Rhodes would win the match, but only by disqualification meaning The Horsemen retained the titles.
+In June, Sting teamed with [Dusty Rhodes](/posts/2023-09-18-rewind-fall-brawl-war-games) to challenge Arn Anderson and Tully Blanchard for the World Tag Team Titles. Sting and Rhodes would win the match, but only by disqualification meaning The Horsemen retained the titles.
 
 This time, it's Sting challenging Horseman Barry Windham for the United States Championship. Can The Stinger's desire drive him to finally pull it out and reach achieve championship glory?
 

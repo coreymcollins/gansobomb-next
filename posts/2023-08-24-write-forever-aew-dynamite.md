@@ -9,7 +9,7 @@ excerpt: "It's the final AEW Dynamite before All In at Wembley – let's see how
 
 You might notice a little someone in the background of the featured image for this series. I made that graphic last week when I settled on the name of a "column" (or whatever) I'll write for current wrestling stuff I'm watching. Based on one of my least favorite wrestling chants of all time, welcome to Write Forever.
 
-When I made the baseline image for this thing, I just threw Terry Funk in there because I love Terry Funk and his iconic "Forever!" retirement speech in Japan will live in my heart and brain forever.
+When I made the baseline image for this thing, I just threw [Terry Funk](/posts/2023-09-11-rewind-terry-funk-bret-hart-50-years-of-funk) in there because I love Terry Funk and his iconic "Forever!" retirement speech in Japan will live in my heart and brain forever.
 
 <Tweet tweetId="1672711882518536192" />
 
@@ -17,7 +17,7 @@ Well, he was going to anyway but now he'll doubly live in the featured image for
 
 Terry Funk was a real special wrestler for me. He was one of my favorite LJN action figures because he not only came with a hat, but a cattle prod too – extra clothes *and* a weapon! It's kind of crazy that he was around just long enough in that sweet spot of 80s WWF to get a figure before shuffling off to the NWA/WCW for a while.
 
-The Funker really captured my heart in ECW, especially since we had to sing *"Desperado"* in middle school chorus one year. I'd never hear *"Desperado"* again without thinking of Terry Funk.
+The Funker really captured my heart in [ECW](/posts/2023-08-20-a-week-in-wrestling), especially since we had to sing *"Desperado"* in middle school chorus one year. I'd never hear *"Desperado"* again without thinking of Terry Funk.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u9tKla86l1g?si=lB0nwiK5jIc2MHYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -28,7 +28,7 @@ Terry Funk Forever.
 <br />
 Now, onto Dynamite.
 
-We're blessed to start the show with the greatest entrance in all of AEW – The Gunns and Juice Robinson. I love those dipshit vaporwave cowboys and I love Juice Robinson, the love-child of Jack Black and that Honeycombs monster.
+We're blessed to start the show with the greatest entrance in all of AEW – [The Gunns](/posts/2025-02-05-write-forever-aew-dynamite) and Juice Robinson. I love those dipshit vaporwave cowboys and I love Juice Robinson, the love-child of Jack Black and that Honeycombs monster.
 
 The opener is supposed to be Bullet Club Gold versus The Elite, but it descends into chaos immediately, the match being thrown out after Juice lays referee Rick Knox flat with the Left Hand of God. The two sides brawl back in forth with Jay White, Konosuke Takeshita, and FTR all getting involved before things fizzle out with Takeshita retreating from a valiant Omega.
 

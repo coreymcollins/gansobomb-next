@@ -13,13 +13,13 @@ excerpt: "Is JungleHOOK bound for a breakup, or will the tag team break the mold
 
 Are you ready to have your little heart broken?
 
-I've checked them all, and I've yet to find a universe where Jungle Boy doesn't eventually turn on Hook. The seeds are all being subtly planted for a Jack Perry heel turn at some point down the road and I honestly can't wait for it.
+I've checked them all, and I've yet to find a universe where [Jungle Boy](/posts/2024-11-23-write-forever-aew-full-gear) doesn't eventually turn on Hook. The seeds are all being subtly planted for a Jack Perry heel turn at some point down the road and I honestly can't wait for it.
 
-After the somewhat lackluster build to the Four Pillars Four Way, it's become clear that Jack needs to spice up his character a little bit. Judging only by the promos in the build to the match, Jack was neck and neck with Sammy Guevara for last place once the wonderful and short-lived Sammy/MJF Friends Forever bit ran its course. There's just something in Jack's delivery that doesn't scream underdog babyface the way you get from a Darby Allin, but his calm and cool demeanor could absolutely lend itself to being a cocky heel.
+After the somewhat lackluster build to the Four Pillars Four Way, it's become clear that Jack needs to spice up his character a little bit. Judging only by the promos in the build to the match, Jack was neck and neck with Sammy Guevara for last place once the wonderful and short-lived Sammy/[MJF](/posts/2025-02-05-write-forever-aew-dynamite) Friends Forever bit ran its course. There's just something in Jack's delivery that doesn't scream underdog babyface the way you get from a Darby Allin, but his calm and cool demeanor could absolutely lend itself to being a cocky heel.
 
 So, how did we get here – and why?
 
-Last June, Christian was on a somewhat similar story arc as Jungle Boy. As the veteran voice behind Jurassic Express, it became clear that Christian was beginning to now only outgrow the team but to grow weary of them. He continued to volunteer them for matches on the spot, at times to the dismay of the team. If you were paying attention, it was easy to catch Christian lingering behind Jungle Boy at times after a disappointing lost.
+Last June, [Christian](/posts/2023-10-04-write-forever-aew-dynamite) was on a somewhat similar story arc as Jungle Boy. As the veteran voice behind Jurassic Express, it became clear that Christian was beginning to now only outgrow the team but to grow weary of them. He continued to volunteer them for matches on the spot, at times to the dismay of the team. If you were paying attention, it was easy to catch Christian lingering behind Jungle Boy at times after a disappointing lost.
 
 The message being sent was clear – either Christian was going to turn on Jungle Boy or this was all a red herring to build tension between the two. Once the duo eventually dropped the AEW Tag Team Titles to the Young Bucks, though, all bets were off. Frustrated with the loss of the titles (and the additional income), Christian quickly made his intentions known by dropping Jack with a Killswitch before smushing his head like a grape between two steel chairs.
 

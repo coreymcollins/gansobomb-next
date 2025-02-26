@@ -7,11 +7,11 @@ coverImage: "2023-09-12-rewind-ric-flair-sting-dick-slater-great-muta.webp"
 excerpt: "Unlikely partners Sting and Ric Flair take aim at Gary Hart's J-Tex Corporation consisting of Terry Funk and The Great Muta at Clash of the Champions VIII: Fall Brawl."
 ---
 
-One year later, almost to the day, that Sting unsuccessfully challenged Horseman Barry Windham for the United States Heavyweight Title, he finds himself on the opposite side of the ring with partner Ric Flair.
+One year later, almost to the day, that [Sting](/posts/2024-03-03-write-forever-aew-revolution) unsuccessfully [challenged Horseman Barry Windham](/posts/2023-09-07-sting-barry-windham-clash-of-the-champions-fall-brawl) for the United States Heavyweight Title, he finds himself on the opposite side of the ring with partner Ric Flair.
 
 This time, I'm not watching on a grainy VHS rip. Instead, I'm off to the Peacock app which we have only so we can watch Project Runway. Maybe I'll keep it around for ease of finding watchable versions of things like this, but we'll see how bad the music and other audio replacement is. That stuff grates on me.
 
-Clash of the Champions VIII opened up with a recap of Terry Funk and The Great Muta attacking Ric Flair after Flair successfully defended the World Heavyweight Title against Funk at the Great American Bash. The duo readied a spike piledriver on a steel chair despite Doug Dellinger's best efforts. After dispatching of Dellinger, the onslaught continued until Sting rushed the ring to make the save for his former enemy.
+Clash of the Champions VIII opened up with a recap of [Terry Funk](/posts/2023-09-11-rewind-terry-funk-bret-hart-50-years-of-funk) and The Great Muta attacking Ric Flair after Flair successfully defended the World Heavyweight Title against Funk at the Great American Bash. The duo readied a spike piledriver on a steel chair despite Doug Dellinger's best efforts. After dispatching of Dellinger, the onslaught continued until Sting rushed the ring to make the save for his former enemy.
 
 Because this was the full show, I also had the opportunity to catch some of the additional packages and clips leading up to the bout including a wonderful little promo from Terry Funk in a hospital bed telling everybody to keep their TVs dialed into WTBS because he'll be there at the Clash.
 

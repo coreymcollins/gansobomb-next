@@ -7,7 +7,7 @@ coverImage: "2024-03-03-write-forever-aew-revolution.webp"
 excerpt: "AEW did what has seemed like an impossibility in professional wrestling: sent a legend out on a high note with dignity. Long live Sting."
 ---
 
-With one of AEW's biggest crowds of the year (maybe the biggest? I don't know, I refuse to search it), we say goodbye to Sting. I was skeptical of Sting being brought into AEW. His WWE run was pure trash (not his fault), and I had already been burned so many times by TNA bringing in old guy after old guy and making them the top name in the company.
+With one of AEW's biggest crowds of the year (maybe the biggest? I don't know, I refuse to search it), we say goodbye to [Sting](/posts/2023-09-12-rewind-ric-flair-sting-dick-slater-great-muta). I was skeptical of Sting being brought into AEW. His WWE run was pure trash (not his fault), and I had already been burned so many times by TNA bringing in old guy after old guy and making them the top name in the company.
 
 With AEW still being relatively young at the time Sting came in, I was nervous we were going to have another TNA on our hands. Thankfully, I was wrong!
 
@@ -21,9 +21,9 @@ As usual, the wrestling is rarely the issue with AEW – sometimes it just feels
 
 While obviously subjective, my opinions are always correct so everybody should agree with me anyway.
 
-It felt like the wrong move to have Daniel Garcia lose to Christian Cage. We had a great story in the Continental Classic of Garcia building his confidence back up to a win over Brody King. From there, Garcia stayed in the public eye and continued to rack up wins.
+It felt like the wrong move to have [Daniel Garcia](/posts/2024-12-07-write-forever-aew-collision) lose to Christian Cage. We had a great story in the Continental Classic of Garcia building his confidence back up to a win over Brody King. From there, Garcia stayed in the public eye and continued to rack up wins.
 
-Eventually raising the ire of Christian Cage and The Patriarchy, Garcia fought his way to a TNT Title match through a no-contest with Adam Copeland. The Copeland/Cage feud can continue on without a title involved. With their history, their story doesn't need the TNT Title as the cherry on top.
+Eventually raising the ire of [Christian Cage](/posts/2023-10-01-write-forever-aew-wrestledream) and The Patriarchy, Garcia fought his way to a TNT Title match through a no-contest with Adam Copeland. The Copeland/Cage feud can continue on without a title involved. With their history, their story doesn't need the TNT Title as the cherry on top.
 
 This was the moment to move the TNT Title to a fresher competitor on the men's roster who has yet to hold a title in AEW, while planting some doubt in Christian's mind in time for Copeland to come back to challenge him to one final singles match.
 

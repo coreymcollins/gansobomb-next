@@ -16,7 +16,7 @@ I would be remiss if I didn’t talk about the namesake move of this site making
 
 <Tweet tweetId="1039262885283684352" />
 
-Of course, Kagetsu was able to survive the move and the two would fight until the bell rang on the other end of their battle. Ganso Bomb aside, Kagetsu and Kyona put it all out there in their quests to lead Red Stars Block. Post-match, Oedo Tai ran roughshod over JAN leaving them in a heap in the ring. Kyona and crew were able to recover to wrap up the show and build toward Kyona’s match with Utami the following day. Utami, too cool for school, balked at a handshake before walking away from the ring. JAN would lead the crowd in chants of “JUNGLE JUNGLE!” to send things home.
+Of course, Kagetsu was able to survive the move and the two would fight until the bell rang on the other end of their battle. Ganso Bomb aside, Kagetsu and Kyona put it all out there in their quests to lead Red Stars Block. Post-match, Oedo Tai ran roughshod over JAN leaving them in a heap in the ring. Kyona and crew were able to recover to wrap up the show and build toward Kyona’s match with [Utami](/posts/2018-08-22-stardom-5-star-grand-prix-day-one) the following day. Utami, too cool for school, balked at a handshake before walking away from the ring. JAN would lead the crowd in chants of “JUNGLE JUNGLE!” to send things home.
 
 Saki Kashima and Momo Watanabe had a great match in the pre-main event slot with Momo coming out on top. Momo has one of my favorite, if not my absolute favorite, suplexes right now. I’d never actually seen it used until she pulled it out a few shows back and just learned the name of it via Twitter a couple of days ago. The Peach Sunrise is perhaps the only time a pump handle move has ever looked good, outside of Pentagon’s Penta Driver.
 
@@ -26,7 +26,7 @@ Against Saki, though, Momo would fall to a flash pin attempt for two points in S
 
 <Tweet tweetId="1039101923775770624" />
 
-I’ve completely come around on Nicole Savoy who is now having matches that I’m really enjoying. She held her own against Mayu Iwatani but fell to a crucifix pin to net Mayu two more points as the 5\*GP trickles down to its final days. Utami was able to withstand Kimber Lee in a short match to pick up a win with a couple of STO takedowns followed with her Torture Rack into a Samoan Drop of sorts. This is a big win for Utami who just suffered her first loss in the tournament and needed to get back to her winning ways.
+I’ve completely come around on Nicole Savoy who is now having matches that I’m really enjoying. She held her own against [Mayu Iwatani](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) but fell to a crucifix pin to net Mayu two more points as the 5\*GP trickles down to its final days. Utami was able to withstand Kimber Lee in a short match to pick up a win with a couple of STO takedowns followed with her Torture Rack into a Samoan Drop of sorts. This is a big win for Utami who just suffered her first loss in the tournament and needed to get back to her winning ways.
 
 Jamie Hayter and Hazuki had a fun match that could have probably gone longer, especially with how short Utami/Kimber was. I’ve enjoyed both of these wrestlers in the tournament so far and I’m going to have to seek out more Hayter stuff once she wraps up this tour with STARDOM. Hazuki makes use of the Hazukistral to get a quick win over Hayter after avoiding a running knee-strike to the face.
 

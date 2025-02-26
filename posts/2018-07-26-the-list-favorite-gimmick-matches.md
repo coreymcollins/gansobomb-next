@@ -26,23 +26,21 @@ There are few things better than a good gimmick match. The key word in that last
 
 So, join me as we countdown the very first edition of _The List_ and let me know in the comments below what your list would look like!
 
-5
+## 5. Texas/Mexican Death match
 
-## Texas/Mexican Death match
-
-The Texas (or Mexican, depending on where you are and who is involved in the match) Death Match isn’t your garden variety Falls Count Anywhere. It’s not your garden variety Last Man Standing Match. The Texas Death Match is about much more than just pinning your opponent or making sure that they can’t respond to a referee’s ten count – it’s about letting heated rivals fight with no rules, no time limit, no countouts, and no disqualifications until only one person is left on their feet. To me, this is an underused gimmick match in mainstream pro-wrestling. We’ve see our share of high profile Last Man Standing matches over the years but that match has always just seemed to weird to me. All you have to do is knock your opponent down and wait for the referee to start counting. Everything happens at the discretion of the referee and whenever they find it reasonable to start counting one wrestler out.
+The Texas (or Mexican, depending on where you are and who is involved in the match) Death Match isn’t your garden variety Falls Count Anywhere. It’s not your garden variety Last Man Standing Match. The [Texas Death Match](/posts/2024-02-14-write-forever-aew-dynamite) is about much more than just pinning your opponent or making sure that they can’t respond to a referee’s ten count – it’s about letting heated rivals fight with no rules, no time limit, no countouts, and no disqualifications until only one person is left on their feet. To me, this is an underused gimmick match in mainstream pro-wrestling. We’ve see our share of high profile Last Man Standing matches over the years but that match has always just seemed to weird to me. All you have to do is knock your opponent down and wait for the referee to start counting. Everything happens at the discretion of the referee and whenever they find it reasonable to start counting one wrestler out.
 
 The Texas Death Match, though, puts everything in the hands of the competitors involved. Pinfalls and submissions can happen in abundance, but what really matters is what goes on _after_ the fall. Once someone has been pinned or submitted they then have the referee’s ten count to get back to their feet and continue the match. Not only do you have to beat your opponent, but you will have had to brutalize them the point of not being able to get back to their feet _at all_. Oftentimes Texas Death Matches come with an additional rest period between the fall and the referee’s count which means there can be an extra thirty-to-sixty seconds of potential recovery time. If, after all of that time, your opponent can’t get back to their feet the decision is absolutely decisive.
 
 This is one of the best ways to blow off a long-running feud, in my opinion. The wrestlers are able to tear each other limb from limb with no regard for their bodies, the rules, or the safety of anybody involved until one person’s body completely gives out on them. There can be no question who has won the feud when a Texas Death Match is over. The video below showcases a classic Texas Death Match from 1979 between Jose Lothario and Gino Hernandez. This one adds a little extra to the match – a steel cage around the ring to (as the commentator explains) keep the wrestlers in and the fans out! The commentator also makes a reference to “fish net matches” and now that’s something I have to try and dig up.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0Vcn0imM2A?si=XKj8kfm2a26jCgBq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The Lothario/Hernandez match isn’t the most brutal by some Death Match standards (this isn’t FMW), but it’s one of the better Texas Death Matches I’ve seen as far as psychology and story-telling are concerned. Lothario was once Hernandez’s mentor before Hernandez turned on him. Hernandez previously broke the left arm of Lothario which threatens to limit the punching ability of “Supersock” in this fight. Throughout the match Lothario tries to employ the same offensive method on Hernandez by targeting his left hand in order to even the odds. The match starts slow and builds logically to a finish that sees both men busted open as they fight for their survival.
 
 Bonus video: [Dory Funk Jr. explains the rules of a Texas Death Match](https://www.youtube.com/watch?v=fnImHApQxbs).
 
-4
-
-## Scaffold Match
+## 4. Scaffold Match
 
 Who the hell came up with this match? What’s even the point of it? For most gimmick matches you can figure out the root issue by the gimmick itself – a steel cage to keep people from running away or getting in, No Disqualification to keep notorious rule breakers from throwing a match away, or a submission match when two wrestlers want to see who has the most grit. But a Scaffold Match? What problem comes up that can only be solved by trapping two or more individuals on a scaffold above the ring? What does any of it mean?!
 
@@ -54,9 +52,7 @@ ECW changed everything for me. It showed me an entire different world and style 
 
 Bonus Video: The video below is of a higher quality, which is great, but was also run through the WWE sweetening machine which is not so great. If you want the original version with the original audio, [check it out here](https://www.youtube.com/watch?v=U5IvOpmIVIg)!
 
-3
-
-## Royal Rumble
+## 3. Royal Rumble
 
 We’re going to stray from the path set forth in the intro above for a minute with this one. The Royal Rumble isn’t a match used to blow off a blood feud or anything like that. Instead, it’s an annual attraction match (well, I guess twice-annually this year with the _Greatest_ Royal Rumble) that sets the path toward WrestleMania for one lucky individual. This is in a completely different category for me than the forced annual gimmick pay-per-views like Hell In A Call, TLC, and even Money In The Bank. Those types of matches should be reserved for as-needed situations rather than having feuds shoehorned into them before they’re ready. The Royal Rumble is something unique and expected – something that doesn’t rely on forcing a feud to hit certain milestones in a short period of time to make sure they can have this “special” match in January. For me, it’s one of the few gimmick matches WWE consistently does well.
 
@@ -66,9 +62,7 @@ The unpredictability of the Royal Rumble is the fun of it for me. Yes, there are
 
 The 1992 Royal Rumble is always going to be one that is special to me. Not only was it the first Royal Rumble where the wrestlers were competing for the WWF World Heavyweight Title, but I was there in person! Aside from the Rumble match itself I also got to see “Rowdy” Roddy Piper win the Intercontinental Title from The Mountie and I was about 9000% convinced that he was going to run the gamut and win the WWF World Heavyweight Title in the Rumble itself. Unfortunately for the Hot Rod it turned out that Ric Flair would survive from #3 all the way to the end to claim the prize. This was a pretty pivotal night for me as a child wrestling fan as well because it was the first time I began to see the shine come off of Hulk Hogan. After being fairly eliminated from the match he caused Sid Justice to also be eliminated and, being that Sid was the last good guy in the match with Flair, my friends and I were pissed. We yelled whatever obscenities 9- and 10-year-old kids knew to yell and ripped our Hulk Hogan signs to shreds. Hulkamania was dead!
 
-2
-
-## Dog Collar Match
+## 2. Dog Collar Match
 
 Dangerous, bloody, and visceral the Dog Collar Match is one of the most underused and under-appreciated matches in modern professional wrestling. I’m sure there are indies all over the world using these matches but I can’t recall the last time I saw a major US-based company run a Dog Collar Match to end a feud. Is the idea of two wrestlers linked by the neck too dangerous to tempt fate in this day and age? Or is there some other reason the Dog Collar Match has fallen to the wayside for the general public? For me, it’s the perfect way to end a feud between two people who can’t settle their differences and should be dusted off the shelves every now and again.
 
@@ -80,11 +74,9 @@ Not only do you get a good fight in this one but you get some pre-match banter w
 
 Bonus video: [Piper and Valentine talk about their infamous Dog Collar Match](https://www.youtube.com/watch?v=ye7cJL8iXck).
 
-1
+## 1. War Games: The Match Beyond
 
-## War Games: The Match Beyond
-
-Number one on the list has straddled the line between “forced onto feuds” and “perfectly used” over the years. It became an annual staple in WCW to use at Fall Brawl, but with their reliance on factions with the Four Horsemen, nWo, and lesser groups like the Dungeon of Doom it always felt like the match made at least _some_ amount of sense happening. Like the Scaffold Match, part of the appeal of this one is the pure spectacle of it all but unlike the Scaffold Match you can still work a solid match inside of the cage. For years I hoped that this match would make its way to the WWE in some form as it was just about the only thing they haven’t rehashed from WCW (I stopped holding out hope for the fun PPV sets for shows like Halloween Havoc long ago) and they finally made those wishes came through this past year. Not only that, but they did it in NXT where there’s a bit more freedom in the matches and you’re almost guaranteed to see some 4- or 5-star matches at each Takeover. I don’t know that I need to see a main roster War Games match with dudes like Roman Reigns or Randy Orton at this point.
+Number one on the list has straddled the line between “forced onto feuds” and “perfectly used” over the years. It became an annual staple in WCW to use at Fall Brawl, but with their reliance on factions with the Four Horsemen, nWo, and lesser groups like the Dungeon of Doom it always felt like the match made at least _some_ amount of sense happening. Like the Scaffold Match, part of the appeal of this one is the pure spectacle of it all but unlike the Scaffold Match you can still work a solid match inside of the cage. For years I hoped that this match would make its way to the WWE in some form as it was just about the only thing they haven’t rehashed from WCW (I stopped holding out hope for the fun PPV sets for shows like Halloween Havoc long ago) and they finally made those wishes came through this past year. Not only that, but they did it in NXT where there’s a bit more freedom in the matches and you’re almost guaranteed to see some 4- or 5-star matches at each Takeover. I don’t know that I need to see a main roster [War Games](/posts/2023-09-18-rewind-fall-brawl-war-games) match with dudes like Roman Reigns or Randy Orton at this point.
 
 The first requirement of a War Games match is the warring factions. Without a group of individuals trying to kill each other time and time again there’s no reason to really lock a group of people in a double cage to settle a score. The NWA and WCW always had at least one faction, the Four Horsemen, who could run roughshod over a ragtag group of babyfaces until they hit their boiling point and had to take everything to the next level. One of the aspects of War Games that I love the most is the sheer barbarism it encourages. Let’s say you’ve got four wrestlers on each side – one from each team starts and for a set period of time they fight one-on-one in the massive dual-ring covered in a cage. Then the time in that period expires a member of one of the teams enters for a two-on-one advantage for another set period of time, at which point a member from the opposing team enters. Because of this, at multiple points along the way one team will have a brief advantage during which time they can dominate their opponents.
 

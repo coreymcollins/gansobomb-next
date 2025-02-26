@@ -27,11 +27,11 @@ And why do this with Griff Garrison? Why not get a local wrestler to eat this be
 
 ### MJF needs a new shtick
 
-I've written about how I'd grown tired of the MJF/Cole segments and story, but I think I may just be growing tired of MJF – at least in this role. His promos often deviate into the lowest of low-hanging fruit bordering on (and I hate using this term but can't think of another one) cringe.
+I've written about how I'd grown tired of the [MJF/Cole](/posts/2023-08-20-a-week-in-wrestling) segments and story, but I think I may just be growing tired of MJF – at least in this role. His promos often deviate into the lowest of low-hanging fruit bordering on (and I hate using this term but can't think of another one) cringe.
 
 When MJF can be a bit more serious and lean into the more demented form of MJF, I really do enjoy him. Even the MJF who humanizes himself by bringing stories from his life growing up is a treat. But the ultra babyface MJF reaching for the lamest jokes is just tiresome.
 
-Jay White set out the challenge for Full Gear, which was accepted. There's no reason MJF and Jay White should have a bad match, though I doubt we'll get World Champion Jay White _this_ soon even though I'd very much love it.
+[Jay White](/posts/2024-12-18-write-forever-aew-dynamite) set out the challenge for Full Gear, which was accepted. There's no reason MJF and Jay White should have a bad match, though I doubt we'll get World Champion Jay White _this_ soon even though I'd very much love it.
 
 ## The In-Between
 
