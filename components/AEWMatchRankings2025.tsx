@@ -6,6 +6,7 @@ export default function AEWMatchRankings2025() {
                 <li>"Hangman" Adam Page vs Orange Cassidy (Dynamite: January 1, 2025)</li>
                 <li>Swerve Strickland vs Ricochet (Dynamite: February 5, 2025)</li>
                 <li>Daniel Garcia vs Mark Briscoe: TNT Title (Collision: January 4, 2025)</li>
+                <li>Konosuke Takeshita vs Orange Cassidy: International Title (Dynamite: February 26, 2025)</li>
                 <li>Rated FTR vs Jon Moxley, Claudio Castagnoli, & Wheeler Yuta (Dynamite: January 1, 2025)</li>
                 <li>Roderick Strong vs Jay White vs Swerve Strickland (Dynamite: January 1, 2025)</li>
                 <li>Toni Storm vs Kris Statlander vs Willow Nightingale (Dynamite: January 8, 2025)</li>
@@ -17,6 +18,7 @@ export default function AEWMatchRankings2025() {
                 <li>Toni Storm vs Deonna Purrazzo (Collision: January 4, 2025)</li>
                 <li>Women's Casino Gauntlet (Dynamite: January 15, 2025)</li>
                 <li>Hounds of Hell vs Konosuke Takeshita & Kyle Fletcher (Dynamite: February 5, 2025)</li>
+                <li>Bryan Keith vs Will Ospreay (Dynamite: February 26, 2025)</li>
                 <li>Jon Moxley vs Powerhouse Hobbs: World Title (Dynamite: January 15, 2025)</li>
                 <li>Swerve Strickland vs AR Fox (Dynamite: January 22, 2025)</li>
                 <li>FTR vs Jon Moxley & Wheeler Yuta: Mid-South Street Fight (Collision: February 1, 2025)</li>
@@ -26,6 +28,7 @@ export default function AEWMatchRankings2025() {
                 <li>Will Ospreay vs Mark Davis (Dynamite: February 5, 2025)</li>
                 <li>Rated FTR vs The Learning Tree (Collision: January 4, 2025)</li>
                 <li>Private Party vs Lio Rush & Action Andretti: Tag Team Titles (Collision: January 4, 2025)</li>
+                <li>Daniel Garcia & FTR vs Undisputed Kingdom (Dynamite: February 26, 2025)</li>
                 <li>Daniel Garcia vs Katsuyori Shibata: TNT Title (Collision: January 11, 2025)</li>
                 <li>Daniel Garcia vs Kyle O'Reilly vs Lee Moriarty: TNT Title (Collision: February 1, 2025)</li>
                 <li>Men's Casino Gauntlet Match (Dynamite: January 8, 2025)</li>
@@ -45,8 +48,10 @@ export default function AEWMatchRankings2025() {
                 <li>Chris Jericho vs Dax Harwood (Collision: January 11, 2025)</li>
                 <li>The Acclaimed vs The Hurt Syndicate (Dynamite: January 1, 2025)</li>
                 <li>Komander vs Dante Martin vs Brian Cage vs The Beast Mortos (Collision: January 4, 2025)</li>
+                <li>Murder Machines vs The Outrunners (Dynamite: February 26, 2025)</li>
                 <li>The Outrunners vs Chris Jericho & Bryan Keith (Collision: February 1, 2025)</li>
                 <li>Taya Valkyrie vs Harley Cameron (Collision: February 1, 2025)</li>
+                <li>Deonna Purrazzo vs Harley Cameron (Dynamite: February 26, 2025)</li>
                 <li>Murder Machines vs Top Flight (Collision: January 18, 2025)</li>
                 <li>Jeff Jarrett vs Aaron Solo (Collision: January 4, 2025)</li>
                 <li>Megan Bayne vs Hyena Hera (Collision: February 1, 2025)</li>
