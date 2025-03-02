@@ -2,11 +2,15 @@ export default function AEWMatchRankings2025() {
     return (
         <>
             <br /><h2>Best AEW Matches of 2025</h2>
+
+            <p>Don't see a match on the list? It's not because I didn't see the match, but because I didn't do a write-up for that show for whatever reason (timing, schedules, etc.). This list is as comprehensive as it can be.</p>
+
             <ol>
                 <li>"Hangman" Adam Page vs Orange Cassidy (Dynamite: January 1, 2025)</li>
                 <li>Swerve Strickland vs Ricochet (Dynamite: February 5, 2025)</li>
                 <li>Daniel Garcia vs Mark Briscoe: TNT Title (Collision: January 4, 2025)</li>
                 <li>Konosuke Takeshita vs Orange Cassidy: International Title (Dynamite: February 26, 2025)</li>
+                <li>FTR vs Kyle O'Reilly & Roderick Strong (Collision: March 1, 2025)</li>
                 <li>Rated FTR vs Jon Moxley, Claudio Castagnoli, & Wheeler Yuta (Dynamite: January 1, 2025)</li>
                 <li>Roderick Strong vs Jay White vs Swerve Strickland (Dynamite: January 1, 2025)</li>
                 <li>Toni Storm vs Kris Statlander vs Willow Nightingale (Dynamite: January 8, 2025)</li>
@@ -21,6 +25,7 @@ export default function AEWMatchRankings2025() {
                 <li>Bryan Keith vs Will Ospreay (Dynamite: February 26, 2025)</li>
                 <li>Jon Moxley vs Powerhouse Hobbs: World Title (Dynamite: January 15, 2025)</li>
                 <li>Swerve Strickland vs AR Fox (Dynamite: January 22, 2025)</li>
+                <li>Daniel Garcia vs Adam Cole: TNT Title (Collision: March 1, 2025)</li>
                 <li>FTR vs Jon Moxley & Wheeler Yuta: Mid-South Street Fight (Collision: February 1, 2025)</li>
                 <li>Jamie Hayter vs Julia Hart (Dynamite: January 22, 2025)</li>
                 <li>Cope vs PAC (Dynamite: January 22, 2025)</li>
@@ -35,8 +40,10 @@ export default function AEWMatchRankings2025() {
                 <li>Cope vs Big Bill (Collision: January 11, 2025)</li>
                 <li>Mariah May vs Harley Cameron (Collision: January 11, 2025)</li>
                 <li>Samoa Joe & Hook vs Kip Sabian & Nick Wayne (Collision: February 1, 2025)</li>
+                <li>Swerve Strickland vs Clark Connors (Collision: March 1, 2025)</li>
                 <li>Kenny Omega vs Brian Cage (Dynamite: January 15, 2025)</li>
                 <li>Hook vs Christian Cage (Dynamite: January 15, 2025)</li>
+                <li>Julia Hart vs Queen Aminata (Collision: March 1, 2025)</li>
                 <li>The Outrunners vs Claudio Castagnoli & Wheeler Yuta (Collision: January 11, 2025)</li>
                 <li>Adam Cole, Kyle O'Reilly, & Roderick Strong vs Lee Moriarty & The Infantry (Collision: January 18, 2025)</li>
                 <li>Julia Hart vs Harley Cameron (Collision: January 18, 2025)</li>
@@ -46,6 +53,7 @@ export default function AEWMatchRankings2025() {
                 <li>Private Party & Mark Briscoe vs Shelton Benjamin, Bobby Lashley, & MVP (Dynamite: January 15, 2025)</li>
                 <li>Kazuchika Okada vs Tomohiro Ishii: Continental Championship (Collision: January 18, 2025)</li>
                 <li>Chris Jericho vs Dax Harwood (Collision: January 11, 2025)</li>
+                <li>Wheeler Yuta vs Willie Mack (Collision: March 1, 2025)</li>
                 <li>The Acclaimed vs The Hurt Syndicate (Dynamite: January 1, 2025)</li>
                 <li>Komander vs Dante Martin vs Brian Cage vs The Beast Mortos (Collision: January 4, 2025)</li>
                 <li>Murder Machines vs The Outrunners (Dynamite: February 26, 2025)</li>
@@ -56,9 +64,13 @@ export default function AEWMatchRankings2025() {
                 <li>Jeff Jarrett vs Aaron Solo (Collision: January 4, 2025)</li>
                 <li>Megan Bayne vs Hyena Hera (Collision: February 1, 2025)</li>
                 <li>The Beast Mortos vs Adam Priest (Collision: February 1, 2025)</li>
+                <li>Lee Moriarty & The Infantry vs Nick Ruiz, Vinnie Massaro & Dave Dutra (Collision: March 1, 2025)</li>
                 <li>Brody King vs Trevor Blackwell (Collision: January 11, 2025)</li>
                 <li>Dustin Rhodes vs Adam Priest (Collision: January 18, 2025)</li>
-                <li>"Hangman" Adam Page vs A Jobber (Dynamite: January 22, 2025)</li>
+                <li>"Hangman" Adam Page vs A Person (Dynamite: January 22, 2025)</li>
+                
+                
+                <li>Bandido & Powerhouse Hobbs vs Big Bill & Bryan Keith (Collision: March 1, 2025)</li>
             </ol>
         </>
     )

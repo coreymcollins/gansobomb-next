@@ -45,7 +45,7 @@ I was hoping that we'd see more of a mix-up in the tournament with teams who hav
 
 Thunder Rosa has felt a little off since coming back, largely down to timing or tentativeness coming across in the ring. Facing Lady Frost on Collision was Rosa's best match since coming back, in my opinion, but in no small part due to Lady Frost being pretty damn fantastic.
 
-Not knowing the contractual status of all of the people who pop up on AEW without getting a graphic, I'd love to see Frost become a full-fledged roster member ala Bryan Keith and Lady Aminata. Give her a series of matches to spotlight her on Collision and then give her the big ole graphic. She deserves it.
+Not knowing the contractual status of all of the people who pop up on AEW without getting a graphic, I'd love to see Frost become a full-fledged roster member ala Bryan Keith and Queen Aminata. Give her a series of matches to spotlight her on Collision and then give her the big ole graphic. She deserves it.
 
 It was announced that Rosa and Mariah May will be wrestling on Dynamite with the winner going on to Toni Storm at Dynasty; it seems like the natural progression for Rosa's return is for her to face Toni, but I was hoping to be a bit more wowed by Rosa in-ring since her return. It still may be worth putting the title on her to get the belt out of the Timeless orbit, but I'd be equally happy seeing Mariah become champion since she's been on fire since debuting in AEW.
 
