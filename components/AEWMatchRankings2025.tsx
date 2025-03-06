@@ -16,6 +16,7 @@ export default function AEWMatchRankings2025() {
                 <li>Toni Storm vs Kris Statlander vs Willow Nightingale (Dynamite: January 8, 2025)</li>
                 <li>"Hangman" Adam Page vs Christopher Daniels: Texas Death Match (Collision: January 18, 2025)</li>
                 <li>Toni Storm vs Queen Aminata (Dynamite: February 5, 2025)</li>
+                <li>Orange Cassidy, Powerhouse Hobbs, Mark Briscoe, & Will Ospreay vs Bryan Keith, Mark Davis, Lance Archer, & Brian Cage (Dynamite: March 5, 2025)</li>
                 <li>Private Party vs The Hurt Syndicate: Tag Team Titles (Dynamite: January 22, 2025)</li>
                 <li>PAC vs Komander (Collision: January 11, 2025)</li>
                 <li>Will Ospreay vs Buddy Matthews (Dynamite: January 8, 2025)</li>
@@ -31,11 +32,13 @@ export default function AEWMatchRankings2025() {
                 <li>Cope vs PAC (Dynamite: January 22, 2025)</li>
                 <li>Jamie Hayter vs Julia Hart (Dynamite: January 1, 2025)</li>
                 <li>Will Ospreay vs Mark Davis (Dynamite: February 5, 2025)</li>
+                <li>Kazuchika Okada & Ricochet vs Brody King & Swerve Strickland (Dynamite: March 5, 2025)</li>
                 <li>Rated FTR vs The Learning Tree (Collision: January 4, 2025)</li>
                 <li>Private Party vs Lio Rush & Action Andretti: Tag Team Titles (Collision: January 4, 2025)</li>
                 <li>Daniel Garcia & FTR vs Undisputed Kingdom (Dynamite: February 26, 2025)</li>
                 <li>Daniel Garcia vs Katsuyori Shibata: TNT Title (Collision: January 11, 2025)</li>
                 <li>Daniel Garcia vs Kyle O'Reilly vs Lee Moriarty: TNT Title (Collision: February 1, 2025)</li>
+                <li>Bandido & Powerhouse Hobbs vs Big Bill & Bryan Keith (Collision: March 1, 2025)</li>
                 <li>Men's Casino Gauntlet Match (Dynamite: January 8, 2025)</li>
                 <li>Cope vs Big Bill (Collision: January 11, 2025)</li>
                 <li>Mariah May vs Harley Cameron (Collision: January 11, 2025)</li>
@@ -48,9 +51,11 @@ export default function AEWMatchRankings2025() {
                 <li>Adam Cole, Kyle O'Reilly, & Roderick Strong vs Lee Moriarty & The Infantry (Collision: January 18, 2025)</li>
                 <li>Julia Hart vs Harley Cameron (Collision: January 18, 2025)</li>
                 <li>Rated FTR, The Outrunners, & Powerhouse Hobbs vs Death Riders & The Learning Tree (Collision: January 18, 2025)</li>
+                <li>Cope vs Wheeler Yuta (Dynamite: March 5, 2025)</li>
                 <li>Max Caster vs RUSH (Collision: February 1, 2025)</li>
                 <li>Bobby Lashley vs Mark Briscoe (Dynamite: January 8, 2025)</li>
                 <li>Private Party & Mark Briscoe vs Shelton Benjamin, Bobby Lashley, & MVP (Dynamite: January 15, 2025)</li>
+                <li>Thunder Rosa & Kris Statlander vs Megan Bayne & Penelope Ford (Dynamite: March 5, 2025)</li>
                 <li>Kazuchika Okada vs Tomohiro Ishii: Continental Championship (Collision: January 18, 2025)</li>
                 <li>Chris Jericho vs Dax Harwood (Collision: January 11, 2025)</li>
                 <li>Wheeler Yuta vs Willie Mack (Collision: March 1, 2025)</li>
@@ -68,9 +73,6 @@ export default function AEWMatchRankings2025() {
                 <li>Brody King vs Trevor Blackwell (Collision: January 11, 2025)</li>
                 <li>Dustin Rhodes vs Adam Priest (Collision: January 18, 2025)</li>
                 <li>"Hangman" Adam Page vs A Person (Dynamite: January 22, 2025)</li>
-                
-                
-                <li>Bandido & Powerhouse Hobbs vs Big Bill & Bryan Keith (Collision: March 1, 2025)</li>
             </ol>
         </>
     )
