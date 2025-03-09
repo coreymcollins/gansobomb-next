@@ -281,10 +281,6 @@ footer a {
   margin-right: 1rem;
 }
 
-.twitter-tweet {
-  margin: 0 auto;
-}
-
 .post-single-header {
   margin: 0 auto 2rem;
 }
@@ -373,6 +369,12 @@ iframe[src*='youtube'] {
   margin-left: 2rem;
 }
 
+.notice {
+  background-color: var(--callout-rgba);
+  border: 1px solid var(--foreground-rgba);
+  padding: 1rem;
+}
+
 @media screen and (min-width: 800px) {
 
   .section-grid {
@@ -444,10 +446,6 @@ iframe[src*='youtube'] {
 }
 
 @media screen and (max-width: 550px) {
-  .twitter-tweet,
-  .twitter-tweet iframe {
-    max-width: 100% !important;
-  }
   .search-form {
     display: flex;
     justify-content: flex-end;
