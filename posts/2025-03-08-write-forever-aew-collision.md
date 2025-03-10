@@ -1,5 +1,5 @@
 ---
-title: "The calm before the Revolution on AEW Collision for March 8"
+title: "Write Forever: The calm before the Revolution on AEW Collision for March 8"
 date: "2025-03-08"
 category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "collision", "aew-match-rankings"]

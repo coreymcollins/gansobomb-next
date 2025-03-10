@@ -16,7 +16,8 @@ export const generateStaticParams = async () => {
 };
 
 export async function generateMetadata( props: any ): Promise<Metadata> {
-    const slug = props.params.slug;
+    const params = await props.params;
+    const slug = params.slug;
     const post = getPostContent( slug );
     const metaTitle = `${post.data.title} on Ganso Bomb`
     const metaDescription = post.data.excerpt
@@ -54,9 +55,10 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
     }    
 }
 
-const postSingle = ( props: any ) => {
+const postSingle = async ( props: any ) => {
 
-    const slug = props.params.slug;
+    const params = await props.params;
+    const slug = params.slug;
     const post = getPostContent( slug );
     let tags = post.data.tags;
     let category = post.data.category;
