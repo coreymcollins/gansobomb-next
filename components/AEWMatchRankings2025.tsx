@@ -41,6 +41,7 @@ export default function AEWMatchRankings2025() {
                 <li>Cope vs PAC (Dynamite: January 22, 2025)</li>
                 <li>Jamie Hayter vs Julia Hart (Dynamite: January 1, 2025)</li>
                 <li>Will Ospreay vs Mark Davis (Dynamite: February 5, 2025)</li>
+                <li>The Beast Mortos vs Mike Bailey (Dynamite: March 12, 2025)</li>
                 <li>Kazuchika Okada & Ricochet vs Brody King & Swerve Strickland (Dynamite: March 5, 2025)</li>
                 <li>Rated FTR vs The Learning Tree (Collision: January 4, 2025)</li>
                 <li>Private Party vs Lio Rush & Action Andretti: Tag Team Titles (Collision: January 4, 2025)</li>
@@ -68,22 +69,25 @@ export default function AEWMatchRankings2025() {
                 <li>Bobby Lashley vs Mark Briscoe (Dynamite: January 8, 2025)</li>
                 <li>Private Party & Mark Briscoe vs Shelton Benjamin, Bobby Lashley, & MVP (Dynamite: January 15, 2025)</li>
                 <li>Serena Deeb vs Momo Watanabe (Collision: March 8, 2025)</li>
+                <li>Orange Cassidy vs Hechicero (Dynamite: March 12, 2025)</li>
                 <li>Thunder Rosa & Kris Statlander vs Megan Bayne & Penelope Ford (Dynamite: March 5, 2025)</li>
                 <li>Kazuchika Okada vs Tomohiro Ishii: Continental Championship (Collision: January 18, 2025)</li>
                 <li>The Outrunners vs Premier Athletes (Collision: March 8, 2025)</li>
                 <li>Jon Moxley vs Adam Copeland: World Title (Revolution: March 9, 2025)</li>
                 <li>Chris Jericho vs Dax Harwood (Collision: January 11, 2025)</li>
                 <li>Wheeler Yuta vs Willie Mack (Collision: March 1, 2025)</li>
+                <li>Willow Nightingale vs Penelope Ford (Dynamite: March 12, 2025)</li>
                 <li>The Acclaimed vs The Hurt Syndicate (Dynamite: January 1, 2025)</li>
                 <li>Kyle O'Reilly & Roderick Strong vs The Infantry (Collision: March 8, 2025)</li>
                 <li>Komander vs Dante Martin vs Brian Cage vs The Beast Mortos (Collision: January 4, 2025)</li>
                 <li>Murder Machines vs The Outrunners (Dynamite: February 26, 2025)</li>
                 <li>The Outrunners vs Chris Jericho & Bryan Keith (Collision: February 1, 2025)</li>
+                <li>Hologram & Powerhouse Hobbs vs Brian Cage & Dralistico (Dynamite: March 12, 2025)</li>
                 <li>Taya Valkyrie vs Harley Cameron (Collision: February 1, 2025)</li>
                 <li>Deonna Purrazzo vs Harley Cameron (Dynamite: February 26, 2025)</li>
+                <li>Max Caster vs Konosuke Takeshita (Dynamite: March 12, 2025)</li>
                 <li>Murder Machines vs Top Flight (Collision: January 18, 2025)</li>
                 <li>Jeff Jarrett vs Aaron Solo (Collision: January 4, 2025)</li>
-                <li>Lee Moriarty & The Infantry vs Nick Ruiz, Vinnie Massaro & Dave Dutra (Collision: March 1, 2025)</li>
             </ol>
         </>
     )
