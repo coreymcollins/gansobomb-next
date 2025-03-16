@@ -63,6 +63,7 @@ export default function AEWMatchRankings2025() {
                 <li>Julia Hart vs Harley Cameron (Collision: January 18, 2025)</li>
                 <li>Rated FTR, The Outrunners, & Powerhouse Hobbs vs Death Riders & The Learning Tree (Collision: January 18, 2025)</li>
                 <li>Cope vs Wheeler Yuta (Dynamite: March 5, 2025)</li>
+                <li>Mark Davis vs Mark Briscoe (Collision: March 15, 2025)</li>
                 <li>Hologram vs Dralistico (Collision: March 8, 2025)</li>
                 <li>The Hurt Syndicate vs The Outrunners: Tag Team Titles (Revolution: March 9, 2025)</li>
                 <li>Max Caster vs RUSH (Collision: February 1, 2025)</li>
@@ -72,10 +73,14 @@ export default function AEWMatchRankings2025() {
                 <li>Orange Cassidy vs Hechicero (Dynamite: March 12, 2025)</li>
                 <li>Thunder Rosa & Kris Statlander vs Megan Bayne & Penelope Ford (Dynamite: March 5, 2025)</li>
                 <li>Kazuchika Okada vs Tomohiro Ishii: Continental Championship (Collision: January 18, 2025)</li>
+                <li>FTR vs Undisputed Kingdom (Collision: March 15, 2025)</li>
                 <li>The Outrunners vs Premier Athletes (Collision: March 8, 2025)</li>
+                <li>Ricochet vs Katsuyori Shibata (Collision: March 15, 2025)</li>
                 <li>Jon Moxley vs Adam Copeland: World Title (Revolution: March 9, 2025)</li>
                 <li>Chris Jericho vs Dax Harwood (Collision: January 11, 2025)</li>
+                <li>Thunder Rosa vs Megan Bayne (Collision: March 15, 2025)</li>
                 <li>Wheeler Yuta vs Willie Mack (Collision: March 1, 2025)</li>
+                <li>Top Flight & Hologram vs The Infantry & Lee Moriarty (Collision: March 15, 2025)</li>
                 <li>Willow Nightingale vs Penelope Ford (Dynamite: March 12, 2025)</li>
                 <li>The Acclaimed vs The Hurt Syndicate (Dynamite: January 1, 2025)</li>
                 <li>Kyle O'Reilly & Roderick Strong vs The Infantry (Collision: March 8, 2025)</li>
