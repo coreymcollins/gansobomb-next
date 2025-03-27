@@ -42,7 +42,9 @@ export default function AEWMatchRankings2025() {
                 <li>Jamie Hayter vs Julia Hart (Dynamite: January 1, 2025)</li>
                 <li>Will Ospreay vs Mark Davis (Dynamite: February 5, 2025)</li>
                 <li>The Beast Mortos vs Mike Bailey (Dynamite: March 12, 2025)</li>
+                <li>Toni Storm & Thunder Rosa vs Megan Bayne & Penelope Ford (Dynamite: March 26, 2025)</li>
                 <li>Kazuchika Okada & Ricochet vs Brody King & Swerve Strickland (Dynamite: March 5, 2025)</li>
+                <li>Brody King vs Kyle Fletcher (Dynamite: March 26, 2025)</li>
                 <li>Rated FTR vs The Learning Tree (Collision: January 4, 2025)</li>
                 <li>Private Party vs Lio Rush & Action Andretti: Tag Team Titles (Collision: January 4, 2025)</li>
                 <li>Daniel Garcia & FTR vs Undisputed Kingdom (Dynamite: February 26, 2025)</li>
@@ -58,6 +60,7 @@ export default function AEWMatchRankings2025() {
                 <li>Hook vs Christian Cage (Dynamite: January 15, 2025)</li>
                 <li>Julia Hart vs Queen Aminata (Collision: March 1, 2025)</li>
                 <li>Daniel Garcia vs Lee Moriarty: TNT Title (Collision: March 8, 2025)</li>
+                <li>Will Hobbs vs Mark Davis (Dynamite: March 26, 2025)</li>
                 <li>The Outrunners vs Claudio Castagnoli & Wheeler Yuta (Collision: January 11, 2025)</li>
                 <li>Adam Cole, Kyle O'Reilly, & Roderick Strong vs Lee Moriarty & The Infantry (Collision: January 18, 2025)</li>
                 <li>Julia Hart vs Harley Cameron (Collision: January 18, 2025)</li>
@@ -65,6 +68,8 @@ export default function AEWMatchRankings2025() {
                 <li>Cope vs Wheeler Yuta (Dynamite: March 5, 2025)</li>
                 <li>Mark Davis vs Mark Briscoe (Collision: March 15, 2025)</li>
                 <li>Hologram vs Dralistico (Collision: March 8, 2025)</li>
+                <li>Mark Briscoe vs Konosuke Takeshita (Dynamite: March 26, 2025)</li>
+                <li>Kenny Omega vs Blake Christian (Dynamite: March 26, 2025)</li>
                 <li>The Hurt Syndicate vs The Outrunners: Tag Team Titles (Revolution: March 9, 2025)</li>
                 <li>Max Caster vs RUSH (Collision: February 1, 2025)</li>
                 <li>Bobby Lashley vs Mark Briscoe (Dynamite: January 8, 2025)</li>
