@@ -54,12 +54,15 @@ export default function AEWMatchRankings2025() {
                 <li>Men's Casino Gauntlet Match (Dynamite: January 8, 2025)</li>
                 <li>Cope vs Big Bill (Collision: January 11, 2025)</li>
                 <li>Mariah May vs Harley Cameron (Collision: January 11, 2025)</li>
+                <li>Will Ospreay & Kevin Knight vs Blake Christian & Lee Johnson (Dynamite: April 2, 2025)</li>
                 <li>Samoa Joe & Hook vs Kip Sabian & Nick Wayne (Collision: February 1, 2025)</li>
                 <li>Swerve Strickland vs Clark Connors (Collision: March 1, 2025)</li>
                 <li>Kenny Omega vs Brian Cage (Dynamite: January 15, 2025)</li>
                 <li>Hook vs Christian Cage (Dynamite: January 15, 2025)</li>
                 <li>Julia Hart vs Queen Aminata (Collision: March 1, 2025)</li>
                 <li>Daniel Garcia vs Lee Moriarty: TNT Title (Collision: March 8, 2025)</li>
+                <li>Swerve Strickland & Willow Nightingale vs Jon Moxley & Marina Shafir (Dynamite: April 2, 2025)</li>
+                <li>Brody King vs Lance Archer (Dynamite: April 2, 2025)</li>
                 <li>Will Hobbs vs Mark Davis (Dynamite: March 26, 2025)</li>
                 <li>The Outrunners vs Claudio Castagnoli & Wheeler Yuta (Collision: January 11, 2025)</li>
                 <li>Adam Cole, Kyle O'Reilly, & Roderick Strong vs Lee Moriarty & The Infantry (Collision: January 18, 2025)</li>
@@ -80,7 +83,9 @@ export default function AEWMatchRankings2025() {
                 <li>Kazuchika Okada vs Tomohiro Ishii: Continental Championship (Collision: January 18, 2025)</li>
                 <li>FTR vs Undisputed Kingdom (Collision: March 15, 2025)</li>
                 <li>The Outrunners vs Premier Athletes (Collision: March 8, 2025)</li>
+                <li>Adam Copeland vs Claudio Castagnoli (Dynamite: April 2, 2025)</li>
                 <li>Ricochet vs Katsuyori Shibata (Collision: March 15, 2025)</li>
+                <li>Toni Storm vs Penelope Ford (Dynamite: April 2, 2025)</li>
                 <li>Jon Moxley vs Adam Copeland: World Title (Revolution: March 9, 2025)</li>
                 <li>Chris Jericho vs Dax Harwood (Collision: January 11, 2025)</li>
                 <li>Thunder Rosa vs Megan Bayne (Collision: March 15, 2025)</li>
