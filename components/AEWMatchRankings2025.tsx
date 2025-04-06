@@ -72,6 +72,7 @@ export default function AEWMatchRankings2025() {
                 <li>Mark Davis vs Mark Briscoe (Collision: March 15, 2025)</li>
                 <li>Hologram vs Dralistico (Collision: March 8, 2025)</li>
                 <li>Mark Briscoe vs Konosuke Takeshita (Dynamite: March 26, 2025)</li>
+                <li>Cash Wheeler vs PAC (Collision: April 5, 2025)</li>
                 <li>Kenny Omega vs Blake Christian (Dynamite: March 26, 2025)</li>
                 <li>The Hurt Syndicate vs The Outrunners: Tag Team Titles (Revolution: March 9, 2025)</li>
                 <li>Max Caster vs RUSH (Collision: February 1, 2025)</li>
@@ -79,14 +80,18 @@ export default function AEWMatchRankings2025() {
                 <li>Private Party & Mark Briscoe vs Shelton Benjamin, Bobby Lashley, & MVP (Dynamite: January 15, 2025)</li>
                 <li>Serena Deeb vs Momo Watanabe (Collision: March 8, 2025)</li>
                 <li>Orange Cassidy vs Hechicero (Dynamite: March 12, 2025)</li>
+                <li>Powerhouse Hobbs & Tomohiro Ishii vs Kyle Fletcher & Konosuke Takeshita (Collision: April 5, 2025)</li>
                 <li>Thunder Rosa & Kris Statlander vs Megan Bayne & Penelope Ford (Dynamite: March 5, 2025)</li>
                 <li>Kazuchika Okada vs Tomohiro Ishii: Continental Championship (Collision: January 18, 2025)</li>
                 <li>FTR vs Undisputed Kingdom (Collision: March 15, 2025)</li>
                 <li>The Outrunners vs Premier Athletes (Collision: March 8, 2025)</li>
                 <li>Adam Copeland vs Claudio Castagnoli (Dynamite: April 2, 2025)</li>
                 <li>Ricochet vs Katsuyori Shibata (Collision: March 15, 2025)</li>
+                <li>Top Flight vs CRU (Collision: April 5, 2025)</li>
                 <li>Toni Storm vs Penelope Ford (Dynamite: April 2, 2025)</li>
+                <li>Mike Bailey vs Dralistico (Collision: April 5, 2025)</li>
                 <li>Jon Moxley vs Adam Copeland: World Title (Revolution: March 9, 2025)</li>
+                <li>Mercedes Moné & Harley Cameron vs Athena & Julia Hart (Collision: April 5, 2025)</li>
                 <li>Chris Jericho vs Dax Harwood (Collision: January 11, 2025)</li>
                 <li>Thunder Rosa vs Megan Bayne (Collision: March 15, 2025)</li>
                 <li>Wheeler Yuta vs Willie Mack (Collision: March 1, 2025)</li>
