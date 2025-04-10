@@ -43,6 +43,7 @@ export default function AEWMatchRankings2025() {
                 <li>Jon Moxley vs Powerhouse Hobbs: World Title (Dynamite: January 15, 2025)</li>
                 <li>Swerve Strickland vs AR Fox (Dynamite: January 22, 2025)</li>
                 <li>Daniel Garcia vs Adam Cole: TNT Title (Collision: March 1, 2025)</li>
+                <li>Will Ospreay, Kevin Knight, Mike Bailey, & Mark Briscoe vs CRU, The Beast Mortos, & Ricochet (Dynamite: April 9, 2025)</li>
                 <li>FTR vs Jon Moxley & Wheeler Yuta: Mid-South Street Fight (Collision: February 1, 2025)</li>
                 <li>Jamie Hayter vs Julia Hart (Dynamite: January 22, 2025)</li>
                 <li>Cope vs PAC (Dynamite: January 22, 2025)</li>
@@ -81,6 +82,7 @@ export default function AEWMatchRankings2025() {
                 <li>Hologram vs Dralistico (Collision: March 8, 2025)</li>
                 <li>Mark Briscoe vs Konosuke Takeshita (Dynamite: March 26, 2025)</li>
                 <li>Cash Wheeler vs PAC (Collision: April 5, 2025)</li>
+                <li>Kris Statlander vs Thunder Rosa (Dynamite: April 9, 2025)</li>
                 <li>Kenny Omega vs Blake Christian (Dynamite: March 26, 2025)</li>
                 <li>The Hurt Syndicate vs The Outrunners: Tag Team Titles (Revolution: March 9, 2025)</li>
                 <li>Max Caster vs RUSH (Collision: February 1, 2025)</li>
@@ -99,8 +101,10 @@ export default function AEWMatchRankings2025() {
                 <li>Top Flight vs CRU (Collision: April 5, 2025)</li>
                 <li>Toni Storm vs Penelope Ford (Dynamite: April 2, 2025)</li>
                 <li>Mike Bailey vs Dralistico (Collision: April 5, 2025)</li>
+                <li>Samoa Joe & Hook vs Claudio Castagnoli & Wheeler Yuta (Dynamite: April 9, 2025)</li>
                 <li>Jon Moxley vs Adam Copeland: World Title (Revolution: March 9, 2025)</li>
                 <li>Mercedes Moné & Harley Cameron vs Athena & Julia Hart (Collision: April 5, 2025)</li>
+                <li>Jon Moxley vs Katsuyori Shibata (Dynamite: April 9, 2025)</li>
                 <li>The Hurt Syndicate vs The Learning Tree: Tag Team Titles (Dynasty: April 6, 2025)</li>
                 <li>Chris Jericho vs Dax Harwood (Collision: January 11, 2025)</li>
                 <li>Thunder Rosa vs Megan Bayne (Collision: March 15, 2025)</li>
