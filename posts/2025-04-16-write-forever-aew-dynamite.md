@@ -1,6 +1,6 @@
 ---
 title: "Write Forever: Samoa Joe brought death to Death Riders on AEW Dynamite for April 16"
-date: "2025-04-09"
+date: "2025-04-16"
 category: [ 'write-forever' ]
 tags: ["wrestling", "review", "aew", "dynamite", "aew-match-rankings"]
 coverImage: "2025-04-16-write-forever-aew-dynamite.webp"
