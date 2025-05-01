@@ -24,6 +24,7 @@ export default function AEWMatchRankings2025() {
                 <li>Mercedes Moné vs Athena (Dynamite: April 16, 2025)</li>
                 <li>Death Riders vs Rated FTR: Trios Titles (Dynasty: April 6, 2025)</li>
                 <li>Will Ospreay vs Kevin Knight (Dynasty: April 6, 2025)</li>
+                <li>"Hangman" Adam Page vs Kyle Fletcher (Dynamite: April 30, 2025)</li>
                 <li>Mike Bailey & Kevin Knight vs The Young Bucks (Dynamite: April 23, 2025)</li>
                 <li>Konosuke Takeshita vs Kenny Omega: International Title (Revolution: March 9, 2025)</li>
                 <li>"Hangman" Adam Page vs Josh Alexander (Dynamite: April 16, 2025)</li>
@@ -52,6 +53,7 @@ export default function AEWMatchRankings2025() {
                 <li>Swerve Strickland vs AR Fox (Dynamite: January 22, 2025)</li>
                 <li>Daniel Garcia vs Adam Cole: TNT Title (Collision: March 1, 2025)</li>
                 <li>Jamie Hayter vs Kris Statlander (Dynamite: April 23, 2025)</li>
+                <li>Nick Wayne vs Jay Lethal: ROH TV Title (Dynamite: April 30, 2025)</li>
                 <li>Will Ospreay, Kevin Knight, Mike Bailey, & Mark Briscoe vs CRU, The Beast Mortos, & Ricochet (Dynamite: April 9, 2025)</li>
                 <li>FTR vs Jon Moxley & Wheeler Yuta: Mid-South Street Fight (Collision: February 1, 2025)</li>
                 <li>Jamie Hayter vs Julia Hart (Dynamite: January 22, 2025)</li>
@@ -59,6 +61,8 @@ export default function AEWMatchRankings2025() {
                 <li>Cope vs PAC (Dynamite: January 22, 2025)</li>
                 <li>Jamie Hayter vs Julia Hart (Dynamite: January 1, 2025)</li>
                 <li>Will Ospreay vs Mark Davis (Dynamite: February 5, 2025)</li>
+                <li>Kenny Omega, Mark Briscoe, Mike Bailey, & Kevin Knight vs Kazuchika Okada, Ricochet, & THe Young Bucks (Dynamite: April 30, 2025)</li>
+                <li>Toni Storm vs Miyu Yamashita (Dynamite: April 30, 2025)</li>
                 <li>Konosuke Takeshita & Josh Alexander vs Rocky Romero & Tomohiro Ishii (Collision: April 17, 2025)</li>
                 <li>The Hurt Syndicate vs The Gates of Agony: Tag Team Titles (Dynamite: April 16, 2025)</li>
                 <li>The Beast Mortos vs Mike Bailey (Dynamite: March 12, 2025)</li>
