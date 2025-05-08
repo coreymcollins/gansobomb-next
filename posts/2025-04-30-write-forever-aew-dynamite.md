@@ -56,7 +56,7 @@ With Ospreay, we get a whole new set of World Title match-ups, including a futur
 This week, Hangman Adam Page threw Kyle Fletcher into the video barricade. The video barricade did not break into static. We can now update our Athena's Dropkick Power Rankings thusly:
 
 1. Athena's Dropkick (victim: Mercedes Moné)
-2. (Tied For Last) Brody King splashing people into the wall; Hangman Adam Page throwing Kyle Fletcher into the wall
+2. (Tied For Last) Brody King splashing people into the barricade; Hangman Adam Page throwing Kyle Fletcher into the barricade
 
 ## Wrapping Up
 
