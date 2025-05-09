@@ -35,6 +35,8 @@ export default function AEWMatchRankings2025() {
                 <li>Roderick Strong vs Jay White vs Swerve Strickland (Dynamite: January 1, 2025)</li>
                 <li>Toni Storm vs Kris Statlander vs Willow Nightingale (Dynamite: January 8, 2025)</li>
                 <li>"Hangman" Adam Page vs Christopher Daniels: Texas Death Match (Collision: January 18, 2025)</li>
+                <li>Willow Nightingale vs Kris Statlander (Collision: May 8, 2025)</li>
+                <li>Daniel Garcia vs Dax Harwood (Collision: May 8, 2025)</li>
                 <li>Toni Storm vs Queen Aminata (Dynamite: February 5, 2025)</li>
                 <li>Jon Moxley vs Swerve Strickland: World Title (Dynasty: April 6, 2025)</li>
                 <li>Kazuchika Okada vs Brody King: Continental Championship (Revolution: March 9, 2025)</li>
@@ -99,6 +101,7 @@ export default function AEWMatchRankings2025() {
                 <li>Rated FTR, The Outrunners, & Powerhouse Hobbs vs Death Riders & The Learning Tree (Collision: January 18, 2025)</li>
                 <li>Cope vs Wheeler Yuta (Dynamite: March 5, 2025)</li>
                 <li>Mark Davis vs Mark Briscoe (Collision: March 15, 2025)</li>
+                <li>Ricochet vs Angelico (Collision: May 8, 2025)</li>
                 <li>Chris Jericho vs Bandido: Mask vs ROH World Title (Dynasty: April 6, 2025)</li>
                 <li>Hologram vs Dralistico (Collision: March 8, 2025)</li>
                 <li>Mark Briscoe vs Konosuke Takeshita (Dynamite: March 26, 2025)</li>
@@ -113,6 +116,7 @@ export default function AEWMatchRankings2025() {
                 <li>Kazuchika Okada vs Kevin Knight (Dynamite: May 7, 2025)</li>
                 <li>Orange Cassidy vs Hechicero (Dynamite: March 12, 2025)</li>
                 <li>Mercedes Moné vs Julia Hart (Dynasty: April 6, 2025)</li>
+                <li>Mike Bailey vs Dralistico (Collision: May 8, 2025)</li>
                 <li>Powerhouse Hobbs & Tomohiro Ishii vs Kyle Fletcher & Konosuke Takeshita (Collision: April 5, 2025)</li>
                 <li>Adam Cole vs Claudio Castagnoli: TNT Title (Collision: April 17, 2025)</li>
                 <li>Thunder Rosa & Kris Statlander vs Megan Bayne & Penelope Ford (Dynamite: March 5, 2025)</li>
@@ -125,6 +129,7 @@ export default function AEWMatchRankings2025() {
                 <li>Top Flight vs CRU (Collision: April 5, 2025)</li>
                 <li>Toni Storm vs Penelope Ford (Dynamite: April 2, 2025)</li>
                 <li>Swerve Strickland vs Blake Christian (Collision: April 26, 2025)</li>
+                <li>The Outrunners, Bandido, & AR Fox vs Roppongi Vice, Kyle Fletcher, & Lance Archer (Collision: May 8, 2025)</li>
                 <li>Top Flight vs CRU: Tornado Tag Match (Collision: April 26, 2025)</li>
                 <li>Mike Bailey vs Dralistico (Collision: April 5, 2025)</li>
                 <li>Samoa Joe & Hook vs Claudio Castagnoli & Wheeler Yuta (Dynamite: April 9, 2025)</li>
@@ -133,6 +138,7 @@ export default function AEWMatchRankings2025() {
                 <li>Jon Moxley vs Katsuyori Shibata (Dynamite: April 9, 2025)</li>
                 <li>Top Flight vs CRU: Tornado Tag Match (Collision: April 26, 2025)</li>
                 <li>The Hurt Syndicate vs The Learning Tree: Tag Team Titles (Dynasty: April 6, 2025)</li>
+                <li>Anthony Bowens vs Lee Johnson (Collision: May 8, 2025)</li>
                 <li>Chris Jericho vs Dax Harwood (Collision: January 11, 2025)</li>
                 <li>Nick Wayne vs Rhino: ROH TV Title (Dynamite: May 7, 2025)</li>
                 <li>Thunder Rosa vs Megan Bayne (Collision: March 15, 2025)</li>
