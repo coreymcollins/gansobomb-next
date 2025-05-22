@@ -9,7 +9,7 @@ excerpt: "A wrestling-lite episode of AEW Dynamite with a lot of solid promos an
 
 Sometimes life gets in the way of writing your bullshit about professional wrestling, and life got in the way the past couple of weeks. But we're here now with an AEW PPV and a full-week's staycation to look forward to, with one last Dynamite left to go!
 
-The announced matches are few and far between for tonight's show with a lot of the card made up of talking segments to build toward Double or Nothing. And you better believe we're getting another [MJF/Hurt](/posts/2025-04-30-write-forever-aew-dynamite) People segment so we can drag that shit out even more! Thank god!
+The announced matches are few and far between for tonight's show with a lot of the card made up of talking segments to build toward Double or Nothing. And you better believe we're getting another [MJF/Hurt People](/posts/2025-04-30-write-forever-aew-dynamite) segment so we can drag that shit out even more! Thank god!
 
 Over the past few episodes I've not written about, we've seen the drama build between [Will Ospreay and Hangman Page](/posts/2025-04-30-write-forever-aew-dynamite) and Mercedes Moné and Jamie Hayter ahead of their Owen Hart Cup finals and tonight will (probably) be the final stop for those four before Sunday's PPV.
 
