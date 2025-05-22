@@ -38,10 +38,13 @@ export default function AEWMatchRankings2025() {
                 <li>Willow Nightingale vs Kris Statlander (Collision: May 8, 2025)</li>
                 <li>Daniel Garcia vs Dax Harwood (Collision: May 8, 2025)</li>
                 <li>Toni Storm vs Queen Aminata (Dynamite: February 5, 2025)</li>
+                <li>Mina Shirakawa vs Julia Hart (Dynamite May 21, 2025)</li>
                 <li>Jon Moxley vs Swerve Strickland: World Title (Dynasty: April 6, 2025)</li>
                 <li>Kazuchika Okada vs Brody King: Continental Championship (Revolution: March 9, 2025)</li>
+                <li>Jon Moxley & The Young Bucks vs Samoa Joe, Powerhouse Hobbs, & Swerve Strickland (Dynamite May 21, 2025)</li>
                 <li>Mark Briscoe vs Ricochet (Dynamite: April 23, 2025)</li>
                 <li>Orange Cassidy, Powerhouse Hobbs, Mark Briscoe, & Will Ospreay vs Bryan Keith, Mark Davis, Lance Archer, & Brian Cage (Dynamite: March 5, 2025)</li>
+                <li>Ricochet vs Anthony Bowens (Dynamite May 21, 2025)</li>
                 <li>Private Party vs The Hurt Syndicate: Tag Team Titles (Dynamite: January 22, 2025)</li>
                 <li>PAC vs Komander (Collision: January 11, 2025)</li>
                 <li>Will Ospreay vs Buddy Matthews (Dynamite: January 8, 2025)</li>
