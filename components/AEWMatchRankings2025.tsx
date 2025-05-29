@@ -75,6 +75,8 @@ export default function AEWMatchRankings2025() {
                 <li>Will Ospreay vs Mark Davis (Dynamite: February 5, 2025)</li>
                 <li>Kenny Omega, Mark Briscoe, Mike Bailey, & Kevin Knight vs Kazuchika Okada, Ricochet, & THe Young Bucks (Dynamite: April 30, 2025)</li>
                 <li>FTR vs Daniel Garcia & Nigel McGuinness (Double or Nothing: May 25, 2025)</li>
+                <li>Jon Moxley, Gabe Kidd, & Marina Shafir vs Willow Nightingale, Mike Bailey, & Mark Briscoe (Dynamite: May 28, 2025)</li>
+                <li>Megan Bayne & Penelope Ford vs Harley Cameron & Anna Jay (Dynamite: May 28, 2025)</li>
                 <li>Toni Storm vs Miyu Yamashita (Dynamite: April 30, 2025)</li>
                 <li>Konosuke Takeshita & Josh Alexander vs Rocky Romero & Tomohiro Ishii (Collision: April 17, 2025)</li>
                 <li>The Hurt Syndicate vs The Gates of Agony: Tag Team Titles (Dynamite: April 16, 2025)</li>
@@ -83,6 +85,7 @@ export default function AEWMatchRankings2025() {
                 <li>Kazuchika Okada & Ricochet vs Brody King & Swerve Strickland (Dynamite: March 5, 2025)</li>
                 <li>Brody King vs Kyle Fletcher (Dynamite: March 26, 2025)</li>
                 <li>Paragon vs Konosuke Takeshita, Kyle Fletcher, & Josh Alexander (Double or Nothing: May 25, 2025)</li>
+                <li>Brody King vs Josh Alexander (Dynamite: May 28, 2025)</li>
                 <li>Lance Archer vs Kevin Knight (Collision: April 17, 2025)</li>
                 <li>Rated FTR vs The Learning Tree (Collision: January 4, 2025)</li>
                 <li>Private Party vs Lio Rush & Action Andretti: Tag Team Titles (Collision: January 4, 2025)</li>
@@ -105,6 +108,7 @@ export default function AEWMatchRankings2025() {
                 <li>Julia Hart vs Queen Aminata (Collision: March 1, 2025)</li>
                 <li>Daniel Garcia vs Lee Moriarty: TNT Title (Collision: March 8, 2025)</li>
                 <li>Swerve Strickland & Willow Nightingale vs Jon Moxley & Marina Shafir (Dynamite: April 2, 2025)</li>
+                <li>Adam Cole vs Kyle Fletcher: TBS Title (Dynamite: May 28, 2025)</li>
                 <li>Brody King vs Lance Archer (Dynamite: April 2, 2025)</li>
                 <li>Will Hobbs vs Mark Davis (Dynamite: March 26, 2025)</li>
                 <li>The Outrunners vs Claudio Castagnoli & Wheeler Yuta (Collision: January 11, 2025)</li>
