@@ -13,6 +13,9 @@ const nextConfig = {
         SITE_URL: 'https://www.gansobomb.com'
     },
     basePath: '',
+    images: {
+        qualities: [100],
+    },
 
     async redirects() {
         return [
