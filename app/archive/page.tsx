@@ -43,10 +43,10 @@ export async function generateMetadata( props: any ): Promise<Metadata> {
     }    
 }
 
-export default function Home( props: any ) {
-    const allSearchParams = getSearchParams( props.searchParams )
+export default async function Home( props: any ) {
+    const allSearchParams = await getSearchParams( props.searchParams )
 	const foundPosts = getPostsMetadata()
-	const pagedPosts = foundPosts.slice( allSearchParams.start, allSearchParams.end )
+	const pagedPosts = foundPosts.slice(allSearchParams.start, allSearchParams.end);
     const startIndex = 1000
 	const postPreviews = pagedPosts.map( ( post, index ) => (
 		<PostPreview key={post.slug} {...post} index={(index + startIndex).toString()} />
@@ -85,12 +85,12 @@ export default function Home( props: any ) {
                 </div>
             </div>
 			<PaginationControls
-				hasNextPage={allSearchParams.end < foundPosts.length}
-				hasPrevPage={allSearchParams.start > 0}
-				totalPosts={foundPosts.length}
-				postsPerPage={allSearchParams.postsPerPage}
-				query=''
-			/>
+                hasNextPage={allSearchParams.end < foundPosts.length}
+                hasPrevPage={allSearchParams.start > 0}
+                totalPosts={foundPosts.length}
+                postsPerPage={allSearchParams.postsPerPage}
+                query=""
+            />
 		</>
 	)
 }

@@ -11,7 +11,8 @@ const getPosts = () => {
 };
 
 export async function generateMetadata( props: any ): Promise<Metadata> {
-    const searchQuery = props.searchParams.query
+    const searchParams = await props.searchParams;
+    const searchQuery = searchParams.query
     const metaTitle = `Search results for "${searchQuery}" on Ganso Bomb`
     const metaDescription = `Search results for the query "${searchQuery}"`
 
@@ -50,12 +51,13 @@ const mySearchResults = ( searchValue: string ) => {
     return theseSearchResults
 }
 
-export default function SearchPage( props: any ) {
+export default async function SearchPage( props: any ) {
 
-    const allSearchParams = getSearchParams( props.searchParams )
-    const searchQuery = props.searchParams.query
+    const searchParams = await props.searchParams;
+    const allSearchParams = await getSearchParams(props.searchParams)
+    const searchQuery = searchParams.query
     const foundPosts = mySearchResults( searchQuery )
-    const pagedResults = foundPosts.slice( allSearchParams.start, allSearchParams.end )
+    const pagedResults = foundPosts.slice(allSearchParams.start, allSearchParams.end);
     const startIndex = 1000;
 	const postPreviews = pagedResults.map( ( post, index ) => (
         <PostPreview key={post.slug} {...post} index={(index + startIndex).toString()} />
@@ -72,7 +74,7 @@ export default function SearchPage( props: any ) {
             </div>
             <PaginationControls
 				hasNextPage={allSearchParams.end < foundPosts.length}
-				hasPrevPage={allSearchParams.start > 0}
+                hasPrevPage={allSearchParams.start > 0}
 				totalPosts={foundPosts.length}
 				postsPerPage={allSearchParams.postsPerPage}
                 query={searchQuery}

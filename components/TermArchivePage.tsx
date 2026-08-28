@@ -4,8 +4,8 @@ import PostPreview from './PostPreview';
 import PaginationControls from './PaginationControls';
 import { PostMetaData } from './PostMetaData';
 
-export function TermArchivePage(props: { searchParams: any, params: { slug: string } }, tax: keyof PostMetaData) {
-    const allSearchParams = getSearchParams(props.searchParams);
+export async function TermArchivePage(props: { searchParams: any, params: { slug: string } }, tax: keyof PostMetaData) {
+    const allSearchParams = await getSearchParams(props.searchParams);
     const foundPosts = getAllPostsByTerm(tax, props.params.slug);
     const pagedPosts = foundPosts.slice(allSearchParams.start, allSearchParams.end);
     const startIndex = 1000;

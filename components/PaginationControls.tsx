@@ -3,7 +3,6 @@
 import { useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import { FC } from 'react'
-import { getSearchParams } from './SearchParams'
 
 interface PaginationControlsProps {
 	hasNextPage: boolean,

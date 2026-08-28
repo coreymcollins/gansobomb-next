@@ -3,7 +3,7 @@ import PaginationControls from '@/components/PaginationControls';
 import PostPreview from '@/components/PostPreview';
 import { getSearchParams } from '@/components/SearchParams';
 
-export default function RewindPage( props: any ) {
+export default async function RewindPage( props: any ) {
 
 	const jsonLd = {
         '@context': 'https://schema.org/',
@@ -28,7 +28,7 @@ export default function RewindPage( props: any ) {
     }
 
     const foundPosts = getAllPostsByTerm( 'category', 'REWIND' );
-    const allSearchParams = getSearchParams(props.searchParams);
+    const allSearchParams = await getSearchParams(props.searchParams);
     const pagedPosts = foundPosts.slice(allSearchParams.start, allSearchParams.end);
     const startIndex = 1000;
     const rewindPreviews = pagedPosts.map(( post, index ) => (

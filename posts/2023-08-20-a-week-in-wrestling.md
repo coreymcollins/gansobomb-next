@@ -7,8 +7,6 @@ coverImage: "rewind-august-13-19.webp"
 excerpt: "What's happening in professional wrestling's past and present for the week of August 13?"
 ---
 
-Welcome to REWIND, an acronym that ChatGPT helped me define: Remembering Every Wrestling Interaction Noted Dutifully.
-
 I'm going to try something new here where I watch *something* wrestling-related every day of the week, which isn't really that much of a stretch if I'm being honest. The idea, though, is to combine what I'm currently watching with some stuff from wrestling's past and do a little write-up for each thing.
 
 This first pass is going to combine a whole week's worth into one post which was my original intent – a weekly digest sort of thing. But, I'm already feeling like I may want to just publish these each day rather than waiting. I'm trying not to give myself so much of a structure that it feels like work and that I don't feel bogged down by it.

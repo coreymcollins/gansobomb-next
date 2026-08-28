@@ -73,25 +73,38 @@ export default function Home( props: any ) {
 				dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
 			/>
 			<div className="posts-section">
-				<h2 className="section-heading">Latest Posts</h2>
+				<div className="section-heading">
+					<h2>Latest Posts</h2>
+					<Link href="/archive/" className="section-heading-link">
+						View All Posts
+					</Link>
+				</div>
+
 				<div className="section-grid latest-grid">
 					{postPreviews}
 				</div>
 
-				<h2 className="section-heading">Write Forever</h2>
+				<div className="section-heading">
+					<h2>Write Forever</h2>
+					<Link href="/write-forever/" className="section-heading-link">
+						View All Write Forever Posts
+					</Link>
+				</div>
 				<div className="section-grid">
 					{writeForeverPreviews}
 				</div>
 
-				<h2 className="section-heading">REWIND</h2>
+				<div className="section-heading">
+					<h2>REWIND</h2>
+					<Link href="/rewind/" className="section-heading-link">
+						View All REWIND Posts
+					</Link>
+				</div>
 				<div className="section-grid">
 					{rewindPreviews}
 				</div>
 
 			</div>
-			<Link href="/archive/" className="view-all">
-				View All Posts
-			</Link>
 		</>
 	)
 }
