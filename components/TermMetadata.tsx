@@ -7,8 +7,9 @@ interface GenerateMetadataProps {
     }
 }
 
-export function GenerateMetadata( props: GenerateMetadataProps ): Metadata {
-    const thisTermSlug = props.params.slug
+export default async function generateMetadata( props: GenerateMetadataProps ): Promise<Metadata> {
+    const {slug, tax} = await props.params
+    const thisTermSlug = slug
     const thisTerm = thisTermSlug.replace( '-', ' ' )
     const metaTitle = `Posts from the term "${thisTerm}" on Ganso Bomb`
     const metaDescription = `A list of posts from the term "${thisTerm}"`

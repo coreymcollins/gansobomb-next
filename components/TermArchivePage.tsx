@@ -4,9 +4,10 @@ import PostPreview from './PostPreview';
 import PaginationControls from './PaginationControls';
 import { PostMetaData } from './PostMetaData';
 
-export async function TermArchivePage(props: { searchParams: any, params: { slug: string } }, tax: keyof PostMetaData) {
+export async function TermArchivePage(props: { searchParams: any, params: Promise<{ slug: string }> }, tax: keyof PostMetaData) {
     const allSearchParams = await getSearchParams(props.searchParams);
-    const foundPosts = getAllPostsByTerm(tax, props.params.slug);
+    const resolvedParams = await props.params;
+    const foundPosts = getAllPostsByTerm(tax, resolvedParams.slug);
     const pagedPosts = foundPosts.slice(allSearchParams.start, allSearchParams.end);
     const startIndex = 1000;
     const postPreviews = pagedPosts.map(( post, index ) => (
@@ -18,9 +19,9 @@ export async function TermArchivePage(props: { searchParams: any, params: { slug
     const jsonLd = {
         '@context': 'https://schema.org/',
         '@type': 'CollectionPage',
-        '@id': `https://www.gansobomb.com/${linkVariation}/${props.params.slug}`,
-		'url': `https://www.gansobomb.com/${linkVariation}/${props.params.slug}`,
-        'name': `Posts about ${props.params.slug} on Ganso Bomb`,
+        '@id': `https://www.gansobomb.com/${linkVariation}/${resolvedParams.slug}`,
+		'url': `https://www.gansobomb.com/${linkVariation}/${resolvedParams.slug}`,
+        'name': `Posts about ${resolvedParams.slug} on Ganso Bomb`,
         'description': 'Pro wrestling is life.',
         'isPartOf': {
             '@type': 'Blog',
@@ -50,7 +51,7 @@ export async function TermArchivePage(props: { searchParams: any, params: { slug
 				dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
 			/>
             <div className="posts-section">
-                <h2 className="section-heading">Posts {titleVariation} with <span className="term-archive-name">"{props.params.slug.replace('-', ' ')}"</span></h2>
+                <h2 className="section-heading">Posts {titleVariation} with <span className="term-archive-name">"{resolvedParams.slug.replace('-', ' ')}"</span></h2>
                 <div className="section-grid">
                     {postPreviews}
                 </div>

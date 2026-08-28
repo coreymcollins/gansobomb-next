@@ -1,9 +1,9 @@
 import { TermArchivePage } from '@/components/TermArchivePage';
-import { GenerateMetadata } from '@/components/TermMetadata';
+import generateMetadata from '@/components/TermMetadata';
 import type { Metadata } from 'next';
 
-export async function generateMetadata( props: any ): Promise<Metadata> {
-    return GenerateMetadata({ params: {slug: props.params.slug, tax: 'category'}})  
+export async function generateTermMetadata( props: any ): Promise<Metadata> {
+    return generateMetadata({ params: {slug: props.params.slug, tax: 'category'}})  
 }
 
 export default function TermArchive( props: any ) {
