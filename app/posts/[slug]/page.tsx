@@ -149,10 +149,13 @@ const postSingle = async ( props: any ) => {
                         category &&
                         <div className="term-list-container">
                             <h3>Category</h3>
-                            <Link href={`/category/${category}`} className="term-link">
-                                {/* {category.replace( '-', ' ' )} */}
-                                {category}
-                            </Link>
+                            <ul className="term-list">
+                                <li key={category} className="term-list-item">
+                                    <Link href={`/category/${category}`} className="term-link">
+                                        {String(category).replaceAll( '-', ' ' )}
+                                    </Link>
+                                </li>
+                            </ul>
                         </div>
                     }
 

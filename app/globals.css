@@ -287,10 +287,12 @@ footer a {
 .term-list {
   line-height: 2;
   list-style: none;
+  margin: 0;
 }
 
 .term-list-item {
   display: inline-block;
+  margin: 0;
 }
 
 .term-list-item:not(:last-child) {
