@@ -11,7 +11,7 @@ It's the post-[_Double or Nothing_](/posts/2025-05-25-write-forever-aew-double-o
 
 We know that we'll hear from "Hangman" Adam Page and see Mercedes Moné and Toni Storm go face-to-face, as well as [Brody King](/posts/2024-12-04-write-forever-aew-dynamite) wrestling Josh Alexander in the International Title Four-Way Tournament.
 
-Plus, a late announcement that brings me much hope and also trepidation! Adam Cole defends the TBS Title against [Kyle Fletcher](/posts/2024-11-23-write-forever-aew-full-gear) and I hope upon hope that we pull the fucking trigger on Kyle Fletcher as a singles champion, shuttling Cole back to trios (or anywhere else, just not on commentary).
+Plus, a late announcement that brings me much hope and also trepidation! Adam Cole defends the TNT Title against [Kyle Fletcher](/posts/2024-11-23-write-forever-aew-full-gear) and I hope upon hope that we pull the fucking trigger on Kyle Fletcher as a singles champion, shuttling Cole back to trios (or anywhere else, just not on commentary).
 
 So let's see what we get! Will we end the night pleased by Kyle Fletcher or disappointed by Adam Cole?
 
@@ -47,9 +47,9 @@ In the main event segment, Toni Storm and Mercedes Moné came face to face (and 
 
 This is my most looked-forward-to match of All In so far, largely because I know it's going to be great and I'll be happy with either outcome. By contrast, Hangman/Mox is something I'm sort of looking forward to but am hoping that they don't make the awful decision to keep the belt on Mox. Toni/Mercedes exist in a unique space where both are equally over and either one winning could lead to continued new and extraordinary things at the top of the women's division.
 
-## The bullshitification of the TBS Title continues
+## The bullshitification of the TNT Title continues
 
-I had a slight hope, a tiny dream. I saw the post on social media and I was momentarily titillated. Kyle Fletcher vs Adam Cole for the TBS Title? Could it be? A hotshot title change onto Fletcher to get us out of the doldrums of Adam Cole as champ?
+I had a slight hope, a tiny dream. I saw the post on social media and I was momentarily titillated. Kyle Fletcher vs Adam Cole for the TNT Title? Could it be? A hotshot title change onto Fletcher to get us out of the doldrums of Adam Cole as champ?
 
 I didn't think it was a lock but I wanted to believe.
 
@@ -59,9 +59,9 @@ Kyle Fletcher looked great against Cole and, honestly, Cole looked good too. It 
 
 Ah, yes. A DQ finish. A nonsense way to end a match to save everybody from something interesting actually happening.
 
-I should have known. It felt too quick to take the title off of Adam Cole, though he has been rubbing the Callis Family the wrong way for few weeks now. I've also had my own hunch that Josh Alexander would be the guy to take the TBS Title off of Cole.
+I should have known. It felt too quick to take the title off of Adam Cole, though he has been rubbing the Callis Family the wrong way for few weeks now. I've also had my own hunch that Josh Alexander would be the guy to take the TNT Title off of Cole.
 
-At this point, Fletcher feels too big for the TBS Title. He should be in contention for either of the other three men's titles, which are routinely presented as much bigger deals. Of course, he could always elevate the title out of the muck and mire of the Adam Cole reign.
+At this point, Fletcher feels too big for the TNT Title. He should be in contention for either of the other three men's titles, which are routinely presented as much bigger deals. Of course, he could always elevate the title out of the muck and mire of the Adam Cole reign.
 
 Putting the title on someone like Alexander feels like a safer bet, though. He's a new commodity and while he's not quite as hot as Fletcher, he can still go like a madman in the ring and would absolutely wash some of the stink off of the belt.
 
@@ -71,6 +71,6 @@ So, does Alexander's interference lead to a one-on-one showdown between he and C
 
 The Death Riders/Willow&Bailey&Briscoe mixed tag match was a lot of fun, but I am curious to see what is actually happening with Mike Bailey (and to a lesser extent, Mark Briscoe). Bailey came in hot and had an excellent Continental Title match with Okada at Double or Nothing. Being randomly slotted into this match feels like a not-so-great sign in regards to having a solid plan for him going forward.
 
-Briscoe is less of a question for me as he seems to be nestled softly into the midcard without much upward mobility in his foreseeable future, which is a real shame. Briscoe would make a great TBS Champion and deserves a run with _some_ title in AEW as a reward for his consistently excellent work.
+Briscoe is less of a question for me as he seems to be nestled softly into the midcard without much upward mobility in his foreseeable future, which is a real shame. Briscoe would make a great TNT Champion and deserves a run with _some_ title in AEW as a reward for his consistently excellent work.
 
 All around, this was a fun episode of Dynamite with one big thing (Thekla's debut), though it didn't really feel like a big thing. Not a lot of build to anything new or unusual, though we may have had some seeds planted that Kyle Fletcher is outgrowing the Don Callis Family Definitely looking forward to where that goes!
