@@ -1,7 +1,8 @@
 import Link from 'next/link'
 import { usePathname, useSearchParams } from 'next/navigation'
+import { Suspense } from 'react'
 
-export default function HeaderText() {
+function HeaderTextContent() {
     const pathname = usePathname()
     const searchParams = useSearchParams()
     
@@ -9,10 +10,10 @@ export default function HeaderText() {
         <div className="site-name">
             {
                 // Is the homepage.
-                '/' === pathname ?
+                '/' === pathname && !searchParams?.has( 'page' ) && !searchParams?.has( 'query' ) ?
                     <h1>Pro wrestling is life.</h1>
                 // Is a search result and/or paginated page.
-                : '/' === pathname && searchParams?.has( 'page' ) || searchParams?.has( 'query' ) || pathname?.includes( '/tag/' ) || pathname?.includes( '/category/' ) ?
+                : '/' === pathname || searchParams?.has( 'page' ) || searchParams?.has( 'query' ) || pathname?.includes( '/tag/' ) || pathname?.includes( '/category/' ) ?
                     <Link href="/">
                         <h1>Ganso Bomb</h1>
                     </Link>
@@ -23,5 +24,13 @@ export default function HeaderText() {
                     </Link>
             }
         </div>
+    )
+}
+
+export default function HeaderText() {
+    return (
+        <Suspense fallback={<div className="site-name"><Link href="/"><p className="h1">Ganso Bomb</p></Link></div>}>
+            <HeaderTextContent />
+        </Suspense>
     )
 }
