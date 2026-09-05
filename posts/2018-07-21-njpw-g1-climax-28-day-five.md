@@ -9,6 +9,7 @@ tags:
   - "g1-climax"
   - "g1-climax-28"
   - "streaming"
+excerpt: "It’s gonna be a packed weekend full of early-morning alarm clocks and afternoon naps as we gear up for another series of G1 shows Saturday and Sunday, but first it’s time to catch up with Day Five action from the A Block!"
 ---
 
 It’s gonna be a packed weekend full of early-morning alarm clocks and afternoon naps as we gear up for another series of G1 shows Saturday and Sunday, but first it’s time to catch up with Day Five action from the A Block! This is, for me, the less exciting block but I’m sure a number of the matches will have the opportunity to steal the show and I’m more than looking forward to Minoru Suzuki breaking YOSHI-HASHI in half.

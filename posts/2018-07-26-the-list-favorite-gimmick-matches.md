@@ -18,6 +18,7 @@ tags:
   - "tommy-dreamer"
   - "wcw"
   - "wwf"
+excerpt: "When a feud becomes too heated to be finished with your standard, garden variety wrestling match the only logical step is to up the ante to a more physical, more brutal, and oftentimes more horrific degree."
 ---
 
 When a feud becomes too heated to be finished with your standard, garden variety wrestling match the only logical step is to up the ante to a more physical, more brutal, and oftentimes more horrific degree. There are countless variations on gimmick matches and new ones being dreamed up by weirdos all over the planet. I’m going to list just a few here, however, as I traverse the list of my Top 5 Gimmick Matches of all time. This list isn’t intended to necessarily showcase the best or most famous gimmick matches of all time but rather a ranking of my personal favorite gimmick matches from a lifetime of watching pro-wrestling.

@@ -11,6 +11,7 @@ tags:
   - "streaming"
   - "womens-wrestling"
 coverImage: "sumire-5star.jpg"
+excerpt: "If you’re looking for a quick tour around the block in Osaka to go with your wrestling, Natsu Sumire has got you covered. She and Mayu Iwatani had my match of the night in the Day Three night show with some good wrestling mixed with cheeseball antics."
 ---
 
 If you’re looking for a quick tour around the block in Osaka to go with your wrestling, Natsu Sumire has got you covered. She and Mayu Iwatani had my match of the night in the Day Three night show with some good wrestling mixed with cheeseball antics. Sumire always seems to be a fun opponent for someone; she’s not as polished as a Konami or a Momo Watanabe, but what she may lack in ability she more than makes up for with character and charisma. Sumire and Mayu spilled out of the ring, through the crowd, out into the front of the building, and, finally, into the streets in their match for two more points in the [5 Star Grand Prix](/posts/2018-08-13-preview-stardom-5-star-grand-prix-2018).

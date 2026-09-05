@@ -8,6 +8,7 @@ tags:
   - "njpw"
   - "nxt"
   - "wwe"
+excerpt: "Sometimes wrestling stinks. Then, you realize it's not all of wrestling that stinks but just the gruel you've been subsiding on for far too long."
 ---
 
 Being a pro-wrestling fan can be god damn exhausting.

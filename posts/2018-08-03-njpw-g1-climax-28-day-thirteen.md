@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "Does the \"A\" in \"A Block\" stand for \"Another\"? I love a handful of wrestlers in the block but it definitely does not shine in comparison to the B Block."
 ---
 
 Does the “A” in “A Block” stand for “Another”? I love a handful of wrestlers in the block but it definitely does not shine in comparison to [its counterpart](/posts/2018-08-02-njpw-g1-climax-28-day-twelve). I appreciate the fact that the intro video and the entrances are just long enough for me to finish a bowl of cereal. Always thinking of me, NJPW. Anyway, G1 Climax 28 day thirteen is here with Okada/Suzuki and Tanahashi/EVIL plus White/YOSHI which could be a surprise good-to-great match.

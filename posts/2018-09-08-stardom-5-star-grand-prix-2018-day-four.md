@@ -10,6 +10,7 @@ tags:
   - "stardom"
   - "streaming"
   - "womens-wrestling"
+excerpt: "The main event of Day Four of the STARDOM 5 Star Grand Prix saw the Goddesses of STARDOM Tag Team Titles defended as STARS battled STARS for the gold."
 ---
 
 The main event of Day Four of the [STARDOM 5 Star Grand Prix](/posts/2018-08-13-preview-stardom-5-star-grand-prix-2018) saw the Goddesses of STARDOM Tag Team Titles defended as STARS battled STARS for the gold. [Mayu Iwatani](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) and Saki Kashima defended against Starlight Kid and Tam Nakano in a match that would leave you confused as to whether or not these four _actually_ got along at all. They held nothing back as they kicked the hell out of each other all over the ring. Kid and Tam got things going early by jumping the champions before the bell but Saki and Mayu were quickly able to address this transgression and gain the advantage.

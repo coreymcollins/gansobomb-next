@@ -11,6 +11,7 @@ tags:
   - "stardom"
   - "streaming"
   - "womens-wrestling"
+excerpt: "Jungle Kyona and Tam Nakano had the match of the show on Day Three’s afternoon show. They came firing hot out of the gates from the bell and didn’t stop tearing into each other until it was all over."
 ---
 
 Jungle Kyona and Tam Nakano had the match of the show on Day Three’s afternoon show. They came firing hot out of the gates from the bell and didn’t stop tearing into each other until it was all over. Tam wrestled with her neck and back taped up, still feeling the damage from her first two matches. Jungle made this a focal point as she brutalized Tam with backbreakers and submissions centered around the lower back. Jungle used a Canadian Backbreaker into a spinning backbreaker across the knee which I don’t think I’ve seen before but looked devastating. Tam held on as long as she could, including leveling Kyona with a number of kicks that looked like they could have ended the match. Jungle wound up taking the two points here, though, with a submission win via Sharpshooter as Tam wailed in pain. I still absolutely feel it in my heart when Tam roars in pain; it sounds like she’s being drawn and quartered in the ring.

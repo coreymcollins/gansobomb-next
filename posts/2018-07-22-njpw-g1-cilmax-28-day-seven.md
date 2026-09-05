@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "It’s 2:30am and here I am! G1 Climax 28 Day Seven is an A Block show and while I’m much more a fan of the B Block match-ups there are a few here that I am quite looking forward to."
 ---
 
 It’s 2:30am and here I am! G1 Climax 28 Day Seven is an A Block show and while I’m much more a fan of the B Block match-ups there are a few here that I am quite looking forward to. With my newfound admiration for [Hangman Page](/posts/2025-01-18-write-forever-aew-collision) I’m excited to see him and Tanahashi lock horns, and anybody with a pulse is waiting intently for Minoru Suzuki vs Jay White. I can’t wait to see two of my current favorites murder each other for my enjoyment. On with the show!

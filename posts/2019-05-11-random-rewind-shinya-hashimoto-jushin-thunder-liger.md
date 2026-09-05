@@ -8,6 +8,7 @@ tags:
   - "njpw"
   - "shinya-hashimoto"
 coverImage: "hashimoto-liger.jpg"
+excerpt: "On February 24, 1994, New Japan presented Thanks Wrestling Day Brush Up main evented by the IWGP Heavyweight Champion, Shinya Hashimoto, taking on the IWGP Junior Heavyweight Champion, Jushin Thunder Liger."
 ---
 
 

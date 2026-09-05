@@ -11,6 +11,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "It’s been a long, hard road but we’ve finally reached the end. G1 Climax 28 day nineteen is upon us – the finals of the entire tournament where we’ll see the winner of A Block, Hiroshi Tanahashi, collide with the winner of B Block, Kota Ibushi."
 ---
 
 It’s been a long, hard road but we’ve finally reached the end. G1 Climax 28 day nineteen is upon us – the finals of the entire tournament where we’ll see the winner of A Block, Hiroshi Tanahashi, collide with the winner of B Block, Kota Ibushi. The winner receives a shot at the IWGP Heavyweight Champion at [Wrestle Kingdom](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) in Tokyo. Will it be Tana or Ibushi challenging Kenny Omega on NJPW’s largest stage? There’s only one way to find out! We’ve also got Rey Mysterio in action and so much more, so let’s get rolling!

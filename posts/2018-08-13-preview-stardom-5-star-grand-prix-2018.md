@@ -9,6 +9,7 @@ tags:
   - "joshi"
   - "stardom"
   - "streaming"
+excerpt: "Let's break down STARDOM's 5 Star Grand Prix from what it is and how it works to who is included in each block."
 ---
 
 I’ll come right out and say it – I am brand new to [STARDOM](http://wwr-stardom.com/). STARDOM has been around since 2010 with [their streaming service](https://www.gansobomb.com/2018/07/31/stop-paying-for-bad-wrestling/), [STARDOM World](http://www.stardom-world.com/home/), having been launched in early 2016. It’s always been something that has been on my radar but not something that I’ve devoted time to actually dive into. That’s all about to change with the 5 Star Grand Prix.

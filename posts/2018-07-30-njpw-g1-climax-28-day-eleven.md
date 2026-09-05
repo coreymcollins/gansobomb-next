@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "Well, here we are with another A Block show on G1 Climax 28 Day Eleven. Unfortunately it’s one of the weakest looking cards of the entire tour but with a block that features Bad Luck Fale, YOSHI-HASHI, and Mike Elgin that’s bound to happen."
 ---
 
 Well, here we are with another A Block show on G1 Climax 28 Day Eleven. Unfortunately it’s one of the weakest looking cards of the entire tour but with a block that features Bad Luck Fale, YOSHI-HASHI, and Mike Elgin that’s bound to happen. Elgin is a great wrestler but a terrible human being, by all accounts (especially Twitter accounts!) so I have a deep moral requirement to write the big dumb baby off. YOSHI has had a couple of good-to-great matches, the most notable against Okada on Day Nine, and the story here has been [everyone dunking on him in post-match interviews](https://www.youtube.com/watch?v=7yMnUg9u7a0). This is also my first show trying out the English commentary which I have heard good things about, so why not give it a whirl? Maybe they can help boost the weak show for me!

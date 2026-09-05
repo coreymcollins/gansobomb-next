@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "I’m well-rested (well, as well-rested as one can be trying to tame two insane puppies all day and night) and ready to recap the second day of the G1 Climax."
 ---
 
 I’m well-rested (well, as well-rested as one can be trying to tame two insane puppies all day and night) and ready to recap the second day of the [G1 Climax](https://njpwworld.com/)! This one aired at the more reasonable time of 1am Central Time but I was still a bit too wiped from getting up at 4am for [Day One](/posts/2018-07-14-njpw-g1-climax-28-day-one) that I crashed before the show started. Catching up on it in the morning, though, there is quite a bit to cover in both the tournament and non-tournament matches.

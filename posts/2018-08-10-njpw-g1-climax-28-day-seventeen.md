@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "We are upon the final three days as we kick the weekend off with G1 Climax 28 day seventeen! Today and tomorrow we’ll see the finals of the tournament come to light with everything still every much up in the air and a number of interesting possibilities for [the finals in Budokan."
 ---
 
 We are upon the final three days as we kick the weekend off with G1 Climax 28 day seventeen! Today and [tomorrow](/posts/2018-08-11-njpw-g1-climax-28-day-eighteen) we’ll see the finals of the tournament come to light with everything still every much up in the air and a number of interesting possibilities for [the finals in Budokan](/posts/2018-08-12-njpw-g1-climax-28-day-nineteen-g1-finals). The set is nice and spruced up and I did a little dance that really confused my dog, so I’m good to go!

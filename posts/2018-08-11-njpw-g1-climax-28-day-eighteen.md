@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "The second-to-last day is here! Today we find out who will advance to the G1 finals from B Block and there are so many things that are going to blow my mind and break my heart today."
 ---
 
 The second-to-last day is here! Today we find out who will advance to the [G1 finals](/posts/2018-08-12-njpw-g1-climax-28-day-nineteen-g1-finals) from B Block and there are so many things that are going to blow my mind and break my heart today. Omega/Ibushi, Naito/ZSJ, and Ishii/SANADA?! I was so excited to see this good stuff that I slept past my alarm and missed a Mike Elgin tag match. Lucky me! I unfortunately also missed the Chaos/BC six-man match so I’ll need to get on with that. As I woke from my slumber, though, I did get to hear the soothing tones of Kaze Ni Nare so all is right with the world. Let’s lose our minds together with G1 Climax 28 day eighteen!

@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "It’s the sweet sixteen baaayyyy beeeee! Or at least G1 Climax 28 day sixteen. We’re coming off of a two-day break and back with B Block action where things are really coming down to the wire."
 ---
 
 It’s the sweet sixteen baaayyyy beeeee! Or at least G1 Climax 28 day sixteen. We’re coming off of a two-day break and back with B Block action where things are really coming down to the wire. Naito/SANADA and Omega/YTR should be fun matches with Ibushi also in contention to take the block. At this point the best SANADA can hope to do is tie for 12 points, but he would still lose to Kenny Omega in a tie-breaker. If only my Spooky Boy~ had been the one to end Omega’s G1 Fun Run instead of Ishii?

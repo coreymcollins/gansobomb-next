@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "It’s back to reality for those of us unfortunate enough to have to work for a living and not just pass the time watching pro-wrestling all day. Today’s tournament matches will feature the A Block with the undercard built out with the B Block as G1 Climax 28 Day Three rolls on."
 ---
 
 It’s back to reality for those of us unfortunate enough to have to work for a living and not just pass the time watching pro-wrestling all day. Today’s tournament matches will feature the A Block with the undercard built out with the B Block as G1 Climax 28 Day Three rolls on. Things in the Hokkaido Prefectural Sports Center kick off with Guerrillas of Destiny taking on [Shota Umino](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) and Toa Henare. GoD picks up the win in mostly dominant fashion, though the young lions did show some fire before being snuffed out. I’m really enjoying watching Shota grow so far and am looking forward to his breakout from the group providing it’s for something a little more refined than The Great-O-Kharn. Also, is it just me or whenever you see Tama Tonga do you imagine how much better WWE would be with him in the Roman Reigns spot and Roman doing… literally anything else?

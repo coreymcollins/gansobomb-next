@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "Day four is here! The tournament rolls on with more B Block match-ups including potentially my most-anticipated match, Toru Yano vs Zack Sabre Jr."
 ---
 
 Day four is here! The tournament rolls on with more B Block match-ups including potentially my most-anticipated match, Toru Yano vs [Zack Sabre Jr.](/posts/2025-01-05-write-forever-njpw-wrestle-dynasty) I’m pulling for YTR to tap-out ZSJ now that he’s attempting to turnover a new leaf. The show starts off with a tribute and ten-bell salute for Masa Saito who recently passed away at the age of 76 before rolling onward with the lower-card tag team action.

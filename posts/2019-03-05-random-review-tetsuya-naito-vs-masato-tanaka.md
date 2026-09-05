@@ -8,6 +8,7 @@ tags:
   - "njpw"
   - "review"
   - "tetsuya-naito"
+excerpt: "Let's take a trip down memory lane with Tetsuya Naito vs Masato Tanaka for the NEVER Openweight Title from NJPW Power Struggle on November 9, 2013."
 ---
 
 There is so much available to anybody with a NJPW World subscription is. Aside from the current events, though, where does one begin?

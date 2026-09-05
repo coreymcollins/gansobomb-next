@@ -11,6 +11,7 @@ tags:
   - "streaming"
   - "womens-wrestling"
 coverImage: "momo-hazuki-5star.jpg"
+excerpt: "Day Six may be one of the best, if not just one of the most eventful, nights of the entire 5 Star Grand Prix. Not only did we get two incredible time-limit draw matches, but we also got some unfortunate dissension within Oedo Tai and a Match of the Century candidate with Natsu Sumire and Hanan."
 ---
 
 Day Six may be one of the best, if not just one of the most eventful, nights of the entire 5 Star Grand Prix. Not only did we get two incredible time-limit draw matches, but we also got some unfortunate dissension within Oedo Tai and a Match of the Century candidate with Natsu Sumire and Hanan.

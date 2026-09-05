@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "Day Eight of the G1 Climax is a B Block show with some damn intriguing tournament matches – most notably, for me, Ibushi/Sanada and Ishii/Sabre."
 ---
 
 It’s back! It’s finally back! I know it’s only been three days since [the last G1 show](/posts/2018-07-22-njpw-g1-cilmax-28-day-seven) but, really… has it _really_ only been three days? It feels like forever since I’ve last climaxed and I’m happy to be back to normal for another few days. Day Eight is a B Block show with some damn intriguing tournament matches – most notably, for me, Ibushi/Sanada and Ishii/Sabre. I’m excited to see how Toru Yano fares after a big win over Ibushi and whether or not Goto simply hits him so hard that he evaporates. For now, let’s kick off the C Block with our undercard matches on G1 Climax 28 Day Eight!

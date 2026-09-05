@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "A Block is back on G1 Climax 28 Day Nine with a few matches that could at least be pretty good if not great, plus the peculiar match-up of Okada and YOSHI-HASHI."
 ---
 
 A Block is back on G1 Climax 28 Day Nine with a few matches that could at least be pretty good if not great, plus the peculiar match-up of Okada and YOSHI-HASHI. Can weird-mode Okada focus enough to beat YOSHI or will the Rainmaker’s balloon be popped like the hopes and dreams of anyone wishing to not be bored to tears by YOSHI?

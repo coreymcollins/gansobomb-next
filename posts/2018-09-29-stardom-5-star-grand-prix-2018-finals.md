@@ -10,6 +10,7 @@ tags:
   - "streaming"
   - "womens-wrestling"
 coverImage: "5stargp-final.jpg"
+excerpt: "The final day of STARDOM’s 5 Star Grand Prix is here and MY HEART IS BREAKING."
 ---
 
 The final day of [STARDOM’s 5 Star Grand Prix](/posts/2018-08-13-preview-stardom-5-star-grand-prix-2018) is here and MY HEART IS BREAKING. This tournament has been my introduction into STARDOM and regularly following any form of joshi; I’ve always checked out matches here and there online, but I’ve never dedicated myself to actually strictly following a promotion. At the end of this tournament, all I can say is that I’m a big ole dope for not having signed up for STARDOM World months and months and months ago. That being said – let’s get on with it!

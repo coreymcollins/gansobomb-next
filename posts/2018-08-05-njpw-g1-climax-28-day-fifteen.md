@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "I don’t know if I’m ready to watch another set of G1 matches after what Ishii/Omega and Ibushi/Naito delivered yesterday. This tournament has, not surprisingly, delivered a handful of match of the year candidates and it shows no signs of slowing."
 ---
 
 I don’t know if I’m ready to watch another set of G1 matches after what Ishii/Omega and Ibushi/Naito [delivered yesterday](/posts/2018-08-04-njpw-g1-climax-28-day-fourteen). This tournament has, not surprisingly, delivered a handful of match of the year candidates and it shows no signs of slowing. I mean, except for Fale/YOSHI today which I don’t expect to live up to the wild level Ishii/Omega were on. Nonetheless, G1 Climax 28 day fifteen is here from Osaka and we have just 3 more shows left before [the finals](/posts/2018-08-12-njpw-g1-climax-28-day-nineteen-g1-finals)! Space at the top of the block is limited but anything can still happen with two more matches left for everybody in A Block.

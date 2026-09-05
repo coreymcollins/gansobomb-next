@@ -10,6 +10,7 @@ tags:
   - "stardom"
   - "streaming"
   - "womens-wrestling"
+excerpt: "Look – I’m probably going to say this a bunch of times since 90% of this roster is completely new to me, but Konami is earning a place in my heart very quickly as a favorite amongst the wrestlers in STARDOM’s 5 Star Grand Prix."
 ---
 
 Look – I’m probably going to say this a bunch of times since 90% of this roster is completely new to me, but Konami is earning a place in my heart very quickly as a favorite amongst the wrestlers in STARDOM’s 5 Star Grand Prix. Konami put in an awesome effort against Kagetsu on [Day One](https://www.gansobomb.com/2018/08/21/stardom-5-star-grand-prix-day-one/) where she scored a submission victory and looked to be on the same path on Day Two against Tam Nakano. From bell-to-bell the match was only about 7 minutes long but there was so much packed into the fight that it felt like twice that. For the most part, Konami punished Tam with leg-based offense and submissions. In the final moments, Konami’s Triangle Lancer was reversed into a roll-up and a victory surprising both women.

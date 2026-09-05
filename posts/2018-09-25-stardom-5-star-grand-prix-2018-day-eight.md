@@ -11,6 +11,7 @@ tags:
   - "streaming"
   - "womens-wrestling"
 coverImage: "mayu-hazuki-5star.jpg"
+excerpt: "Heading into the final show before the finals, Mayu Iwatani and Hazuki were slated to face off to see who would grab first place in Blue Stars Block."
 ---
 
 Heading into the final show before the finals, [Mayu Iwatani](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) and Hazuki were slated to face off to see who would grab first place in Blue Stars Block. With the two wrestlers involved, I don’t think it’s too surprising to let you know that I think I just watched several attempted murders in Osaka. Hazuki started hard with a vicious dropkick to the back as Mayu prepared before focusing on Mayu’s left arm. This is the arm Mayu injured in her World of STARDOM Title defense against Toni Storm which forced her to forfeit as she took a spot on the injured reserve. Mayu’s screams of pain were blood-curdling as Hazuki smashed her arm into the apron, ring post, and basically anything else that she could find. After pounding Mayu on the arena floor, Hazuki landed a disgusting stomp on the bent arm of Mayu which has made me cringe every time I’ve watched it.

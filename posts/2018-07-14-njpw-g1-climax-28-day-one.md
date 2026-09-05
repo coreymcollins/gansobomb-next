@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "Day 1 of the month-long NJPW G1 Climax is in the books and it kicked off with a bang. Or a stab, I guess. Whatever works best for talking about \"Switchblade\" Jay White"
 ---
 
 Day 1 of the month-long [NJPW G1 Climax](https://njpwworld.com/) is in the books and it kicked off with a bang. Or a stab, I guess. Whatever works best for talking about ["Switchblade" Jay White](/posts/2024-12-18-write-forever-aew-dynamite).

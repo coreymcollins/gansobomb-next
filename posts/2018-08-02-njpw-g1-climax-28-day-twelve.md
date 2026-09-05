@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "Best Block is back with G1 Climax 28 day twelve! This night is loaded with what should be some insane match-ups in tournament action – SANADA/Juice should be fun and good if not great, Naito/YTR should be the same, and Omega/ZSJ or Ibushi/Goto are the clear front-runners for match of the night."
 ---
 
 Best Block is back with G1 Climax 28 day twelve! This night is loaded with what should be some insane match-ups in tournament action – SANADA/Juice should be fun and good if not great, Naito/YTR should be the same, and Omega/ZSJ or Ibushi/Goto are the clear front-runners for match of the night. Can anything top Ibushi/Ishii from day ten? It’s a hard goal to achieve but I’m not putting it past those four dudes to pull out some ridiculous performances. We’re still looking to see if Omega can complete his G1 Fun Run undefeated and Zack Sabre Jr is the man to put him to the test tonight!

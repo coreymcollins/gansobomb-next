@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "Things are starting to get real, real interesting now and I don’t know if my heart can take it. It’s a race to the top with Omega, Naito, and Ibushi leading the block but anything is possible!"
 ---
 
 Things are starting to get real, real interesting now and I don’t know if my heart can take it. It’s a race to the top with Omega, [Naito](/posts/2019-03-05-random-review-tetsuya-naito-vs-masato-tanaka), and Ibushi leading the block but anything is possible! Tonight we see yet another man swing for the fences as he tries to end Kenny Omega’s G1 Fun Run undefeated streak and if anybody can do it, it’s Tomohiro Ishii. I am cautiously optimistic that the Stone Pitbull will be the only man to give Omega a loss here at G1 Climax 28 day fourteen! Let’s not forget the the main event of the evening is Ibushi/Naito which I don’t need to hype any more than that. Let’s get into it!

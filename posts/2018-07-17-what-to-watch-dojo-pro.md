@@ -7,6 +7,7 @@ tags:
   - "amazon"
   - "dojo-pro"
   - "streaming"
+excerpt: "Dojo Pro offers a fairly unique experience to anything else out there right now. They're not trying to be a super-indie or to sell out any massive venue. Instead, they're offering an intimate experience for the audience in attendance as well as something different and easily digestible for the audience at home."
 ---
 
 The pro-wrestling landscape has undergone a pretty seismic shift in the past couple of years. It used to be a struggle to access indie shows outside of shoddy iPPV services or waiting for your favorite company to eventually release a show on DVD. There have been a handful of online services that allowed for some form of streaming content – I think [Ring of Honor](https://www.rohwrestling.com/) and [Chikara](http://chikarapro.com/) are two who were on this bandwagon somewhat early on, but those experiences never felt super clean to me. With the advent of the [WWE Network](http://network.wwe.com/), though, I think a lot of indies and foreign companies saw an opportunity to do the same thing on a smaller scale.

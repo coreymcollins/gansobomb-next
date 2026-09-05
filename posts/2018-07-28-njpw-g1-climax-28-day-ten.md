@@ -10,6 +10,7 @@ tags:
   - "g1-climax-28"
   - "njpw"
   - "streaming"
+excerpt: "B Block stands for Best Block so I’m awake as of 3:45am and ready to watch this sucker live! Yes, I could easily just watch this show once it goes up in full on NJPW World but there are too many potential classics happening in the tournament tonight for me to sleep through it."
 ---
 
 B Block stands for Best Block so I’m awake as of 3:45am and ready to watch this sucker live! Yes, I could easily just watch this show once it goes up in full on NJPW World but there are too many potential classics happening in the tournament tonight for me to sleep through it. Onward and upward with G1 Climax 28 Day Ten!

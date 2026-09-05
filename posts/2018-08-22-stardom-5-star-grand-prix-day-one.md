@@ -10,6 +10,7 @@ tags:
   - "stardom"
   - "streaming"
   - "womens-wrestling"
+excerpt: "Utami Hayashishita is two matches into her STARDOM career and is quickly becoming a personal favorite. Maybe it’s because we’re both new to STARDOM? Or, maybe it’s because SHE’S A GOD DAMN BEAST and her Torture Rack is unapologetically brutal."
 ---
 
 Utami Hayashishita is two matches into her STARDOM career _(sidenote: I’m only watching and writing as all of the matches go up for each day of the 5\*GP and hoping to avoid spoilers on social media – so if this seems out of date, that’s why!)_ and is quickly becoming a personal favorite. Maybe it’s because we’re both new to STARDOM? Or, maybe it’s because SHE’S A GOD DAMN BEAST and her Torture Rack is unapologetically brutal.

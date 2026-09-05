@@ -8,6 +8,7 @@ tags:
   - "streaming"
   - "womens-wrestling"
 coverImage: "Stardom-World-Opening-Banner-2-960x640-1.jpg"
+excerpt: "A quick guide on how to sign up for STARDOM World."
 ---
 
 _**UPDATE May 5, 2019: STARDOM World has launched a new version of their online service. I’ve tried signing up for the new service but when I submit my email address, I just never receive the confirmation. Not in my spam, not in my trash – nowhere! If I do ever receive that confirmation, though, I’ll try and post an updated version of this.**_

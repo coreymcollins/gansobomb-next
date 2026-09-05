@@ -10,6 +10,7 @@ tags:
   - "stardom"
   - "streaming"
   - "womens-wrestling"
+excerpt: "I would be remiss if I didn’t talk about the namesake move of this site making an appearance on Day Five."
 ---
 
 I would be remiss if I didn’t talk about the namesake move of this site making an appearance on Day Five. In the main event, which saw Kagetsu and Jungle Kyona go to a time-limit draw thus earning a single point apiece, Kyona lifted Kagetsu up for a powerbomb. Kagetsu fought against it which left her dangling in Kyona’s grips. Struggling to hang onto the squirming World of STARDOM Champion, Kyona dropped to her knees and brought Kagetsu down with her with a Ganso Bomb!

@@ -8,6 +8,7 @@ tags:
   - "wwe"
   - "wwf"
 coverImage: "EuMaANQXYAkyaf9.jpg"
+excerpt: "If you're an American wrestling fan especially, then this may not be what you want to hear – but it's the truth. No Mercy isn't the best N64 wrestling game ever made."
 ---
 
 If you're an American wrestling fan especially, then this may not be what you want to hear – but it's the truth. No Mercy isn't the best N64 wrestling game ever made.

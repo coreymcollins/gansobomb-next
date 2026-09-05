@@ -7,6 +7,7 @@ tags:
   - "battle-riot"
   - "streaming"
   - "youtube"
+excerpt: "The Battle Riot match is MLW’s version of the Royal Rumble and will feature 40 wrestlers entering at 60-second intervals. Eliminations can occur via pinfall, submission, or being thrown over the top rope. To up the chaos of it all, weapons are 100% legal."
 ---
 
 Major League Wrestling is undergoing a resurgence and it has been building to their biggest show to date in New York City. The event took place on July 19, aired July 27 on [beIN Sports](https://mlw.com/bein-sports-connect/), and came to their [official YouTube channel](https://www.youtube.com/user/majorleaguewrestling) the following day. The Battle Riot match is MLW’s version of the [Royal Rumble](/posts/2018-07-26-the-list-favorite-gimmick-matches) and will feature 40 wrestlers entering at 60-second intervals. Eliminations can occur via pinfall, submission, or being thrown over the top rope. To up the chaos of it all, weapons are 100% legal. The winner receives a shot at the MLW Heavyweight Title anywhere, anytime (I assume this will work similarly to a Money In the Bank cash-in). So, let’s get on with it – it’s time for MLW Battle Riot!

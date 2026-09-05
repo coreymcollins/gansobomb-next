@@ -11,6 +11,7 @@ tags:
   - "streaming"
   - "womens-wrestling"
 coverImage: "stars-plus-one-5star.jpg"
+excerpt: "Day Seven of the STARDOM 5 Star Grand Prix is upon us with just a couple of actual tournament matches. This shorter show has just five matches on the card with two trios matches swallowing up the majority of the 5*GP pool."
 ---
 
 Day Seven of the [STARDOM 5 Star Grand Prix](/posts/2018-08-13-preview-stardom-5-star-grand-prix-2018) is upon us with just a couple of actual tournament matches. This shorter show has just five matches on the card with two trios matches swallowing up the majority of the 5\*GP pool.

@@ -9,6 +9,7 @@ tags:
   - "g1-climax"
   - "g1-climax-28"
   - "streaming"
+excerpt: "B Block is back baaayyyy beeeee! I decided to forego the 4:15am alarm clock so I could instead sleep in and catch this in the morning after our puppy inevitably wakes us up way too early for a Saturday."
 ---
 
 B Block is back baaayyyy beeeee! I decided to forego the 4:15am alarm clock so I could instead sleep in and catch this in the morning after our puppy inevitably wakes us up way too early for a Saturday. I’ve mentioned how much of a fan I’ve become of SANADA lately so I’m looking forward to him and [ZSJ](/posts/2025-01-04-write-forever-njpw-wrestle-kingdom-19) here. [Naito](/posts/2019-03-05-random-review-tetsuya-naito-vs-masato-tanaka) and Juice could be a show-stealer and here’s hoping that YTR can get on track after taking a super close loss against ZSJ a couple of nights ago. Let’s get started with G1 Climax 28 Day Six and two guys I couldn’t care less about!

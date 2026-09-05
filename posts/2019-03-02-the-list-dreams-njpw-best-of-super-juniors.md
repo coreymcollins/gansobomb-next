@@ -7,6 +7,7 @@ tags:
   - "bosj"
   - "njpw"
 coverImage: "bosj-max.jpg"
+excerpt: "We all have dreams, and I dream about the Best of the Super Juniors."
 ---
 
 The NJPW [Best of the Super Juniors](/posts/2018-07-12-how-i-learned-to-love-pro-wrestling-again) holds a special place in my heart.

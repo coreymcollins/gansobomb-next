@@ -6,6 +6,7 @@ category:
 tags: 
   - "aew"
   - "wwe"
+excerpt: "Everything is about to change in the professional wrestling world. In fact, change already began at the start of the year with the announcement of All Elite Wrestling. With indie stalwarts The Young Bucks and Kenny Omega at the helm and the multi-generational Cody Rhodes beside them, AEW set out to change not just the world but the entire universe."
 ---
 
 Everything is about to change in the professional wrestling world. In fact, change already began at the start of the year with the announcement of All Elite Wrestling. With indie stalwarts The Young Bucks and [Kenny Omega](/posts/2018-07-12-how-i-learned-to-love-pro-wrestling-again) at the helm and the multi-generational Cody Rhodes beside them, AEW set out to change not just the world but the entire universe.
