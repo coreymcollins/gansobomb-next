@@ -105,6 +105,22 @@ ul {
   font-family: 'IBM Plex Serif Regular';
 }
 
+blockquote {
+  /* --callout-rgb: rgba(55, 60, 65);
+  --callout-rgba: rgba(55, 60, 65, 0.3);
+  --callout-border-rgb: 172, 175, 176;
+  --card-rgb: 180, 185, 188;
+  --card-border-rgb: 131, 134, 135; */
+  background-color: var(--callout-rgba);
+  border-left: 4px solid var(--foreground-rgba);
+  font-family: 'IBM Plex Serif Regular';
+  font-size: 1rem;
+  font-style: italic;
+  line-height: 1.75rem;
+  margin: 1rem 0;
+  padding: .5rem 1rem .5rem;
+}
+
 article ol,
 article ul {
   font-size: 1.25rem;
