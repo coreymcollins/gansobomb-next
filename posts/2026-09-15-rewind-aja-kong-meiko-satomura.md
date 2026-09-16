@@ -4,7 +4,7 @@ date: "2026-09-15"
 category: [ 'REWIND' ]
 tags: ["wrestling", "review", "REWIND", "aja-kong", "meiko-satomura", "gaea"]
 coverImage: "2026-09-15-rewind-aja-kong-meiko-satomura.webp"
-excerpt: ""
+excerpt: "A classic story told perfectly! The unstoppable monster versus the unwavering upstart who won't back down: Aja Kong vs Meiko Satomura from GAEA Double Destiny 1999!"
 ---
 
 Let's go back in time again, again!
