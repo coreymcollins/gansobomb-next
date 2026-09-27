@@ -119,4 +119,4 @@ Steven Borden went down with injury in a spot that looked bad but was good on pa
 
 Obviously I don't know what happened with Andy Williams. A lot of news stories about his last match and death reference hitting his head on the ring post, and I don't know if that's just people who aren't familiar with wrestling thinking that was a real thing and reporting as such or if a head injury did happen and cause everything that happened after. But, I know Excalibur was extremely broken up on commentary talking about Borden as he was being checked on and I can't imagine being Excal and seeing someone get injured like this twenty feet away from you after everything that just happened with Andy.
 
-Just a touch situation all around, and I hope Borden recovers quickly and fully.
+Just a tough situation all around, and I hope Borden recovers quickly and fully.
